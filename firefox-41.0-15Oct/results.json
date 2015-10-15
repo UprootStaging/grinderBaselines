@@ -9310,11 +9310,11 @@
     "id": "font-weight-normal-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-weight-lighter-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-weight-bolder-001.xht"
    },
    {
@@ -9590,7 +9590,7 @@
     "id": "font-family-name-022.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-family-name-021.xht"
    },
    {
@@ -9614,63 +9614,63 @@
     "id": "font-family-name-016.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-family-name-015.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-family-name-014.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-family-name-013.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-family-name-012.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-family-name-011.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-family-name-010.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-family-name-009.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-family-name-008.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-family-name-007.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-family-name-006.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-family-name-005.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-family-name-004.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-family-name-003.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-family-name-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-family-name-001.xht"
    },
    {
@@ -23295,7 +23295,7 @@
  },
  "meta": {
   "startDate": "2015-10-15",
-  "timeTaken": "3274744",
+  "timeTaken": "2725944",
   "browser": "firefox"
  }
 }
