@@ -138,11 +138,11 @@
     "id": "width-applies-to-013.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "width-applies-to-012.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "width-applies-to-009.xht"
    },
    {
@@ -194,11 +194,11 @@
     "id": "width-100.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "width-095.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "width-094.xht"
    },
    {
@@ -250,11 +250,11 @@
     "id": "width-078.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "width-073.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "width-072.xht"
    },
    {
@@ -266,7 +266,7 @@
     "id": "width-070.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "width-069.xht"
    },
    {
@@ -294,7 +294,7 @@
     "id": "width-059.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "width-058.xht"
    },
    {
@@ -306,11 +306,11 @@
     "id": "width-056.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "width-051.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "width-050.xht"
    },
    {
@@ -334,11 +334,11 @@
     "id": "width-045.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "width-040.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "width-039.xht"
    },
    {
@@ -350,7 +350,7 @@
     "id": "width-037.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "width-036.xht"
    },
    {
@@ -362,11 +362,11 @@
     "id": "width-034.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "width-029.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "width-028.xht"
    },
    {
@@ -390,11 +390,11 @@
     "id": "width-023.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "width-018.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "width-017.xht"
    },
    {
@@ -414,11 +414,11 @@
     "id": "width-012.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "width-007.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "width-006.xht"
    },
    {
@@ -690,15 +690,15 @@
     "id": "vertical-align-103.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "vertical-align-102.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "vertical-align-101.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "vertical-align-100.xht"
    },
    {
@@ -2342,19 +2342,19 @@
     "id": "right-113.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "right-112.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "right-111.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "right-110.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "right-109.xht"
    },
    {
@@ -2386,35 +2386,35 @@
     "id": "right-091.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "right-090.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "right-089.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "right-088.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "right-080.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "right-079.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "right-078.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "right-077.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "right-076.xht"
    },
    {
@@ -2426,55 +2426,55 @@
     "id": "right-067.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "right-066.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "right-065.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "right-064.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "right-056.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "right-055.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "right-054.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "right-053.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "right-052.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "right-044.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "right-043.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "right-042.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "right-041.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "right-040.xht"
    },
    {
@@ -2486,35 +2486,35 @@
     "id": "right-031.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "right-030.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "right-029.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "right-028.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "right-020.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "right-019.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "right-018.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "right-017.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "right-016.xht"
    },
    {
@@ -2526,15 +2526,15 @@
     "id": "right-007.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "right-006.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "right-005.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "right-004.xht"
    },
    {
@@ -2778,7 +2778,7 @@
     "id": "position-relative-006.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "position-relative-005.xht"
    },
    {
@@ -3342,7 +3342,7 @@
     "id": "padding-right-073.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "padding-right-072.xht"
    },
    {
@@ -3354,7 +3354,7 @@
     "id": "padding-right-070.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "padding-right-069.xht"
    },
    {
@@ -3394,11 +3394,11 @@
     "id": "padding-right-056.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "padding-right-051.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "padding-right-050.xht"
    },
    {
@@ -3422,11 +3422,11 @@
     "id": "padding-right-045.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "padding-right-040.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "padding-right-039.xht"
    },
    {
@@ -3450,11 +3450,11 @@
     "id": "padding-right-034.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "padding-right-029.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "padding-right-028.xht"
    },
    {
@@ -3478,11 +3478,11 @@
     "id": "padding-right-023.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "padding-right-018.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "padding-right-017.xht"
    },
    {
@@ -3662,11 +3662,11 @@
     "id": "padding-left-078.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "padding-left-073.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "padding-left-072.xht"
    },
    {
@@ -3678,7 +3678,7 @@
     "id": "padding-left-070.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "padding-left-069.xht"
    },
    {
@@ -3718,11 +3718,11 @@
     "id": "padding-left-056.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "padding-left-051.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "padding-left-050.xht"
    },
    {
@@ -3746,11 +3746,11 @@
     "id": "padding-left-045.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "padding-left-040.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "padding-left-039.xht"
    },
    {
@@ -3762,7 +3762,7 @@
     "id": "padding-left-037.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "padding-left-036.xht"
    },
    {
@@ -4594,7 +4594,7 @@
     "id": "numbers-units-005.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "numbers-units-004.xht"
    },
    {
@@ -5322,11 +5322,11 @@
     "id": "max-width-applies-to-015.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-width-applies-to-012.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-width-applies-to-009.xht"
    },
    {
@@ -5386,11 +5386,11 @@
     "id": "max-width-100.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-width-095.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-width-094.xht"
    },
    {
@@ -5410,7 +5410,7 @@
     "id": "max-width-090.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-width-089.xht"
    },
    {
@@ -5442,11 +5442,11 @@
     "id": "max-width-078.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-width-073.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-width-072.xht"
    },
    {
@@ -5458,7 +5458,7 @@
     "id": "max-width-070.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-width-069.xht"
    },
    {
@@ -5486,7 +5486,7 @@
     "id": "max-width-059.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-width-058.xht"
    },
    {
@@ -5498,11 +5498,11 @@
     "id": "max-width-056.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-width-051.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-width-050.xht"
    },
    {
@@ -5526,11 +5526,11 @@
     "id": "max-width-045.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-width-040.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-width-039.xht"
    },
    {
@@ -5542,7 +5542,7 @@
     "id": "max-width-037.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-width-036.xht"
    },
    {
@@ -5554,11 +5554,11 @@
     "id": "max-width-034.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-width-029.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-width-028.xht"
    },
    {
@@ -5582,11 +5582,11 @@
     "id": "max-width-023.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-width-018.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-width-017.xht"
    },
    {
@@ -5606,11 +5606,11 @@
     "id": "max-width-012.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-width-007.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-width-006.xht"
    },
    {
@@ -5662,11 +5662,11 @@
     "id": "max-height-applies-to-013.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-height-applies-to-012.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-height-applies-to-009.xht"
    },
    {
@@ -5710,11 +5710,11 @@
     "id": "max-height-100.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-height-095.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-height-094.xht"
    },
    {
@@ -5734,7 +5734,7 @@
     "id": "max-height-090.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-height-089.xht"
    },
    {
@@ -5762,15 +5762,15 @@
     "id": "max-height-079.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-height-078.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-height-073.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-height-072.xht"
    },
    {
@@ -5790,7 +5790,7 @@
     "id": "max-height-068.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-height-067.xht"
    },
    {
@@ -5818,15 +5818,15 @@
     "id": "max-height-057.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-height-056.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-height-051.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-height-050.xht"
    },
    {
@@ -5846,15 +5846,15 @@
     "id": "max-height-046.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-height-045.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-height-040.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-height-039.xht"
    },
    {
@@ -5874,15 +5874,15 @@
     "id": "max-height-035.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-height-034.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-height-029.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-height-028.xht"
    },
    {
@@ -5902,15 +5902,15 @@
     "id": "max-height-024.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-height-023.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-height-018.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-height-017.xht"
    },
    {
@@ -5926,15 +5926,15 @@
     "id": "max-height-013.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-height-012.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-height-007.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-height-006.xht"
    },
    {
@@ -5954,7 +5954,7 @@
     "id": "max-height-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-height-001.xht"
    },
    {
@@ -6346,11 +6346,11 @@
     "id": "margin-right-088.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "margin-right-080.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "margin-right-079.xht"
    },
    {
@@ -6386,11 +6386,11 @@
     "id": "margin-right-064.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "margin-right-056.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "margin-right-055.xht"
    },
    {
@@ -6406,11 +6406,11 @@
     "id": "margin-right-052.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "margin-right-044.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "margin-right-043.xht"
    },
    {
@@ -6598,11 +6598,11 @@
     "id": "margin-left-088.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "margin-left-080.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "margin-left-079.xht"
    },
    {
@@ -6638,11 +6638,11 @@
     "id": "margin-left-064.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "margin-left-056.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "margin-left-055.xht"
    },
    {
@@ -6658,11 +6658,11 @@
     "id": "margin-left-052.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "margin-left-044.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "margin-left-043.xht"
    },
    {
@@ -6962,7 +6962,7 @@
     "id": "margin-collapse-026.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "margin-collapse-025.xht"
    },
    {
@@ -6974,7 +6974,7 @@
     "id": "margin-collapse-023.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "margin-collapse-022.xht"
    },
    {
@@ -6998,15 +6998,15 @@
     "id": "margin-collapse-016.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "margin-collapse-015a.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "margin-collapse-015.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "margin-collapse-014.xht"
    },
    {
@@ -7018,7 +7018,7 @@
     "id": "margin-collapse-009.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "margin-collapse-008.xht"
    },
    {
@@ -7026,7 +7026,7 @@
     "id": "margin-collapse-007.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "margin-collapse-006.xht"
    },
    {
@@ -7042,7 +7042,7 @@
     "id": "margin-collapse-003.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "margin-collapse-002.xht"
    },
    {
@@ -7202,11 +7202,11 @@
     "id": "margin-bottom-064.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "margin-bottom-056.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "margin-bottom-055.xht"
    },
    {
@@ -7222,11 +7222,11 @@
     "id": "margin-bottom-052.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "margin-bottom-044.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "margin-bottom-043.xht"
    },
    {
@@ -7806,7 +7806,7 @@
     "id": "line-breaking-bidi-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "line-box-height-002.xht"
    },
    {
@@ -8366,7 +8366,7 @@
     "id": "inline-replaced-width-008.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "inline-replaced-width-006.xht"
    },
    {
@@ -8378,11 +8378,11 @@
     "id": "inline-replaced-width-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "inline-replaced-width-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "inline-replaced-height-011.xht"
    },
    {
@@ -8410,11 +8410,11 @@
     "id": "inline-replaced-height-004.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "inline-replaced-height-003.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "inline-replaced-height-002.xht"
    },
    {
@@ -8558,7 +8558,7 @@
     "id": "inline-block-replaced-width-007.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "inline-block-replaced-width-006.xht"
    },
    {
@@ -8570,7 +8570,7 @@
     "id": "inline-block-replaced-width-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "inline-block-replaced-width-001.xht"
    },
    {
@@ -8594,11 +8594,11 @@
     "id": "inline-block-replaced-height-004.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "inline-block-replaced-height-003.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "inline-block-replaced-height-002.xht"
    },
    {
@@ -8934,7 +8934,7 @@
     "id": "height-applies-to-013.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "height-applies-to-012.xht"
    },
    {
@@ -8942,7 +8942,7 @@
     "id": "height-applies-to-010a.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "height-applies-to-009.xht"
    },
    {
@@ -8966,7 +8966,7 @@
     "id": "height-applies-to-004.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "height-114.xht"
    },
    {
@@ -9002,11 +9002,11 @@
     "id": "height-100.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "height-095.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "height-094.xht"
    },
    {
@@ -9058,11 +9058,11 @@
     "id": "height-078.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "height-073.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "height-072.xht"
    },
    {
@@ -9074,7 +9074,7 @@
     "id": "height-070.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "height-069.xht"
    },
    {
@@ -9114,11 +9114,11 @@
     "id": "height-056.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "height-051.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "height-050.xht"
    },
    {
@@ -9138,11 +9138,11 @@
     "id": "height-045.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "height-040.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "height-039.xht"
    },
    {
@@ -9162,11 +9162,11 @@
     "id": "height-034.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "height-029.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "height-028.xht"
    },
    {
@@ -9190,11 +9190,11 @@
     "id": "height-023.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "height-018.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "height-017.xht"
    },
    {
@@ -9214,11 +9214,11 @@
     "id": "height-012.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "height-007.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "height-006.xht"
    },
    {
@@ -10074,7 +10074,7 @@
     "id": "floats-138.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "floats-136.xht"
    },
    {
@@ -10286,7 +10286,7 @@
     "id": "float-replaced-width-007.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "float-replaced-width-006.xht"
    },
    {
@@ -10802,7 +10802,7 @@
     "id": "first-letter-quote-005.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "first-letter-quote-004.xht"
    },
    {
@@ -10826,11 +10826,11 @@
     "id": "first-letter-nested-006.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "first-letter-nested-005.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "first-letter-nested-004.xht"
    },
    {
@@ -10838,7 +10838,7 @@
     "id": "first-letter-nested-003.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "first-letter-nested-002.xht"
    },
    {
@@ -10850,11 +10850,11 @@
     "id": "first-letter-inherit-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "first-letter-dynamic-003b.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "first-letter-dynamic-003a.xht"
    },
    {
@@ -12226,7 +12226,7 @@
     "id": "color-029.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-028.xht"
    },
    {
@@ -13934,11 +13934,11 @@
     "id": "border-top-width-applies-to-013.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-width-applies-to-012.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-width-applies-to-009.xht"
    },
    {
@@ -14014,11 +14014,11 @@
     "id": "border-top-width-078.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-width-073.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-width-072.xht"
    },
    {
@@ -14030,7 +14030,7 @@
     "id": "border-top-width-070.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-width-069.xht"
    },
    {
@@ -14070,11 +14070,11 @@
     "id": "border-top-width-056.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-width-051.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-width-050.xht"
    },
    {
@@ -14094,11 +14094,11 @@
     "id": "border-top-width-045.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-width-040.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-width-039.xht"
    },
    {
@@ -14118,11 +14118,11 @@
     "id": "border-top-width-034.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-width-029.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-width-028.xht"
    },
    {
@@ -14146,11 +14146,11 @@
     "id": "border-top-width-023.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-width-018.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-width-017.xht"
    },
    {
@@ -14274,7 +14274,7 @@
     "id": "border-top-color-144.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-143.xht"
    },
    {
@@ -14282,11 +14282,11 @@
     "id": "border-top-color-142.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-141.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-140.xht"
    },
    {
@@ -14310,7 +14310,7 @@
     "id": "border-top-color-135.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-134.xht"
    },
    {
@@ -14326,11 +14326,11 @@
     "id": "border-top-color-131.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-130.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-129.xht"
    },
    {
@@ -14346,23 +14346,23 @@
     "id": "border-top-color-126.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-125.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-124.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-123.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-122.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-121.xht"
    },
    {
@@ -14370,7 +14370,7 @@
     "id": "border-top-color-120.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-119.xht"
    },
    {
@@ -14398,11 +14398,11 @@
     "id": "border-top-color-113.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-112.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-111.xht"
    },
    {
@@ -14410,23 +14410,23 @@
     "id": "border-top-color-110.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-109.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-108.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-107.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-106.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-105.xht"
    },
    {
@@ -14438,11 +14438,11 @@
     "id": "border-top-color-103.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-102.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-101.xht"
    },
    {
@@ -14450,19 +14450,19 @@
     "id": "border-top-color-100.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-099.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-098.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-097.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-096.xht"
    },
    {
@@ -14478,11 +14478,11 @@
     "id": "border-top-color-093.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-092.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-091.xht"
    },
    {
@@ -14490,19 +14490,19 @@
     "id": "border-top-color-090.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-089.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-088.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-087.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-086.xht"
    },
    {
@@ -14510,19 +14510,19 @@
     "id": "border-top-color-085.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-084.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-083.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-082.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-081.xht"
    },
    {
@@ -14530,19 +14530,19 @@
     "id": "border-top-color-080.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-079.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-078.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-077.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-076.xht"
    },
    {
@@ -14558,11 +14558,11 @@
     "id": "border-top-color-073.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-072.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-071.xht"
    },
    {
@@ -14570,19 +14570,19 @@
     "id": "border-top-color-070.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-069.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-068.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-067.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-066.xht"
    },
    {
@@ -14598,35 +14598,35 @@
     "id": "border-top-color-063.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-062.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-061.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-060.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-059.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-058.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-057.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-056.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-055.xht"
    },
    {
@@ -14642,11 +14642,11 @@
     "id": "border-top-color-052.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-051.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-050.xht"
    },
    {
@@ -14654,15 +14654,15 @@
     "id": "border-top-color-049.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-048.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-047.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-046.xht"
    },
    {
@@ -14678,35 +14678,35 @@
     "id": "border-top-color-043.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-042.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-041.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-040.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-039.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-038.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-037.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-036.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-035.xht"
    },
    {
@@ -14718,11 +14718,11 @@
     "id": "border-top-color-033.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-032.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-031.xht"
    },
    {
@@ -14730,11 +14730,11 @@
     "id": "border-top-color-030.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-029.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-028.xht"
    },
    {
@@ -14746,15 +14746,15 @@
     "id": "border-top-color-026.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-025.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-024.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-023.xht"
    },
    {
@@ -14762,7 +14762,7 @@
     "id": "border-top-color-022.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-021.xht"
    },
    {
@@ -14774,19 +14774,19 @@
     "id": "border-top-color-019.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-018.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-017.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-016.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-015.xht"
    },
    {
@@ -14794,11 +14794,11 @@
     "id": "border-top-color-014.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-013.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-012.xht"
    },
    {
@@ -14814,15 +14814,15 @@
     "id": "border-top-color-009.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-008.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-007.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-006.xht"
    },
    {
@@ -14834,15 +14834,15 @@
     "id": "border-top-color-004.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-003.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-001.xht"
    },
    {
@@ -14902,7 +14902,7 @@
     "id": "border-top-008.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-006.xht"
    },
    {
@@ -14910,7 +14910,7 @@
     "id": "border-top-005.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-001.xht"
    },
    {
@@ -15002,11 +15002,11 @@
     "id": "border-right-width-applies-to-013.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-width-applies-to-012.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-width-applies-to-009.xht"
    },
    {
@@ -15082,11 +15082,11 @@
     "id": "border-right-width-078.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-width-073.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-width-072.xht"
    },
    {
@@ -15098,7 +15098,7 @@
     "id": "border-right-width-070.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-width-069.xht"
    },
    {
@@ -15138,11 +15138,11 @@
     "id": "border-right-width-056.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-width-051.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-width-050.xht"
    },
    {
@@ -15162,11 +15162,11 @@
     "id": "border-right-width-045.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-width-040.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-width-039.xht"
    },
    {
@@ -15186,11 +15186,11 @@
     "id": "border-right-width-034.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-width-029.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-width-028.xht"
    },
    {
@@ -15214,11 +15214,11 @@
     "id": "border-right-width-023.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-width-018.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-width-017.xht"
    },
    {
@@ -15342,11 +15342,11 @@
     "id": "border-right-color-144.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-color-143.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-color-142.xht"
    },
    {
@@ -15358,19 +15358,19 @@
     "id": "border-right-color-140.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-color-139.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-color-138.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-color-137.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-color-136.xht"
    },
    {
@@ -15386,11 +15386,11 @@
     "id": "border-right-color-133.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-color-132.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-color-131.xht"
    },
    {
@@ -15398,7 +15398,7 @@
     "id": "border-right-color-130.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-color-129.xht"
    },
    {
@@ -15414,11 +15414,11 @@
     "id": "border-right-color-126.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-color-125.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-color-124.xht"
    },
    {
@@ -15482,15 +15482,15 @@
     "id": "border-right-color-109.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-color-108.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-color-107.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-color-106.xht"
    },
    {
@@ -15522,15 +15522,15 @@
     "id": "border-right-color-099.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-color-098.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-color-097.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-color-096.xht"
    },
    {
@@ -15574,15 +15574,15 @@
     "id": "border-right-color-086.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-color-085.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-color-084.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-color-083.xht"
    },
    {
@@ -15594,7 +15594,7 @@
     "id": "border-right-color-081.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-color-080.xht"
    },
    {
@@ -15738,11 +15738,11 @@
     "id": "border-right-color-045.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-color-044.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-color-043.xht"
    },
    {
@@ -15754,15 +15754,15 @@
     "id": "border-right-color-041.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-color-040.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-color-039.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-color-038.xht"
    },
    {
@@ -15778,7 +15778,7 @@
     "id": "border-right-color-035.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-color-034.xht"
    },
    {
@@ -15786,7 +15786,7 @@
     "id": "border-right-color-033.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-color-032.xht"
    },
    {
@@ -15830,11 +15830,11 @@
     "id": "border-right-color-022.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-color-021.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-color-020.xht"
    },
    {
@@ -15846,7 +15846,7 @@
     "id": "border-right-color-018.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-color-017.xht"
    },
    {
@@ -15870,7 +15870,7 @@
     "id": "border-right-color-012.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-color-011.xht"
    },
    {
@@ -15878,7 +15878,7 @@
     "id": "border-right-color-010.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-color-009.xht"
    },
    {
@@ -16010,11 +16010,11 @@
     "id": "border-left-width-applies-to-013.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-width-applies-to-012.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-width-applies-to-009.xht"
    },
    {
@@ -16086,11 +16086,11 @@
     "id": "border-left-width-079.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-width-073.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-width-072.xht"
    },
    {
@@ -16102,7 +16102,7 @@
     "id": "border-left-width-070.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-width-069.xht"
    },
    {
@@ -16134,11 +16134,11 @@
     "id": "border-left-width-057.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-width-051.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-width-050.xht"
    },
    {
@@ -16154,11 +16154,11 @@
     "id": "border-left-width-046.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-width-040.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-width-039.xht"
    },
    {
@@ -16174,11 +16174,11 @@
     "id": "border-left-width-035.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-width-029.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-width-028.xht"
    },
    {
@@ -16198,11 +16198,11 @@
     "id": "border-left-width-024.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-width-018.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-width-017.xht"
    },
    {
@@ -16322,7 +16322,7 @@
     "id": "border-left-color-144.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-143.xht"
    },
    {
@@ -16330,11 +16330,11 @@
     "id": "border-left-color-142.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-141.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-140.xht"
    },
    {
@@ -16358,7 +16358,7 @@
     "id": "border-left-color-135.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-134.xht"
    },
    {
@@ -16374,11 +16374,11 @@
     "id": "border-left-color-131.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-130.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-129.xht"
    },
    {
@@ -16394,23 +16394,23 @@
     "id": "border-left-color-126.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-125.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-124.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-123.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-122.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-121.xht"
    },
    {
@@ -16418,7 +16418,7 @@
     "id": "border-left-color-120.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-119.xht"
    },
    {
@@ -16446,11 +16446,11 @@
     "id": "border-left-color-113.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-112.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-111.xht"
    },
    {
@@ -16458,23 +16458,23 @@
     "id": "border-left-color-110.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-109.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-108.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-107.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-106.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-105.xht"
    },
    {
@@ -16486,11 +16486,11 @@
     "id": "border-left-color-103.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-102.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-101.xht"
    },
    {
@@ -16498,19 +16498,19 @@
     "id": "border-left-color-100.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-099.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-098.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-097.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-096.xht"
    },
    {
@@ -16526,11 +16526,11 @@
     "id": "border-left-color-093.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-092.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-091.xht"
    },
    {
@@ -16538,19 +16538,19 @@
     "id": "border-left-color-090.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-089.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-088.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-087.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-086.xht"
    },
    {
@@ -16558,19 +16558,19 @@
     "id": "border-left-color-085.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-084.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-083.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-082.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-081.xht"
    },
    {
@@ -16578,19 +16578,19 @@
     "id": "border-left-color-080.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-079.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-078.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-077.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-076.xht"
    },
    {
@@ -16606,11 +16606,11 @@
     "id": "border-left-color-073.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-072.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-071.xht"
    },
    {
@@ -16618,19 +16618,19 @@
     "id": "border-left-color-070.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-069.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-068.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-067.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-066.xht"
    },
    {
@@ -16646,35 +16646,35 @@
     "id": "border-left-color-063.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-062.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-061.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-060.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-059.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-058.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-057.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-056.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-055.xht"
    },
    {
@@ -16690,11 +16690,11 @@
     "id": "border-left-color-052.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-051.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-050.xht"
    },
    {
@@ -16702,15 +16702,15 @@
     "id": "border-left-color-049.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-048.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-047.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-046.xht"
    },
    {
@@ -16726,35 +16726,35 @@
     "id": "border-left-color-043.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-042.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-041.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-040.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-039.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-038.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-037.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-036.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-035.xht"
    },
    {
@@ -16766,11 +16766,11 @@
     "id": "border-left-color-033.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-032.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-031.xht"
    },
    {
@@ -16778,11 +16778,11 @@
     "id": "border-left-color-030.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-029.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-028.xht"
    },
    {
@@ -16794,15 +16794,15 @@
     "id": "border-left-color-026.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-025.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-024.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-023.xht"
    },
    {
@@ -16810,7 +16810,7 @@
     "id": "border-left-color-022.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-021.xht"
    },
    {
@@ -16822,19 +16822,19 @@
     "id": "border-left-color-019.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-018.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-017.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-016.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-015.xht"
    },
    {
@@ -16842,11 +16842,11 @@
     "id": "border-left-color-014.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-013.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-012.xht"
    },
    {
@@ -16862,15 +16862,15 @@
     "id": "border-left-color-009.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-008.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-007.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-006.xht"
    },
    {
@@ -16882,15 +16882,15 @@
     "id": "border-left-color-004.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-003.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-001.xht"
    },
    {
@@ -16950,7 +16950,7 @@
     "id": "border-left-008.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-006.xht"
    },
    {
@@ -16962,7 +16962,7 @@
     "id": "border-left-003.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-001.xht"
    },
    {
@@ -17250,11 +17250,11 @@
     "id": "border-bottom-width-applies-to-013.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-width-applies-to-012.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-width-applies-to-009.xht"
    },
    {
@@ -17330,11 +17330,11 @@
     "id": "border-bottom-width-078.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-width-073.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-width-072.xht"
    },
    {
@@ -17346,7 +17346,7 @@
     "id": "border-bottom-width-070.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-width-069.xht"
    },
    {
@@ -17386,11 +17386,11 @@
     "id": "border-bottom-width-056.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-width-051.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-width-050.xht"
    },
    {
@@ -17410,11 +17410,11 @@
     "id": "border-bottom-width-045.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-width-040.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-width-039.xht"
    },
    {
@@ -17434,11 +17434,11 @@
     "id": "border-bottom-width-034.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-width-029.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-width-028.xht"
    },
    {
@@ -17462,11 +17462,11 @@
     "id": "border-bottom-width-023.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-width-018.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-width-017.xht"
    },
    {
@@ -17590,7 +17590,7 @@
     "id": "border-bottom-color-144.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-143.xht"
    },
    {
@@ -17598,11 +17598,11 @@
     "id": "border-bottom-color-142.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-141.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-140.xht"
    },
    {
@@ -17626,7 +17626,7 @@
     "id": "border-bottom-color-135.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-134.xht"
    },
    {
@@ -17642,11 +17642,11 @@
     "id": "border-bottom-color-131.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-130.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-129.xht"
    },
    {
@@ -17662,23 +17662,23 @@
     "id": "border-bottom-color-126.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-125.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-124.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-123.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-122.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-121.xht"
    },
    {
@@ -17686,7 +17686,7 @@
     "id": "border-bottom-color-120.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-119.xht"
    },
    {
@@ -17714,11 +17714,11 @@
     "id": "border-bottom-color-113.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-112.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-111.xht"
    },
    {
@@ -17726,23 +17726,23 @@
     "id": "border-bottom-color-110.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-109.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-108.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-107.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-106.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-105.xht"
    },
    {
@@ -17754,11 +17754,11 @@
     "id": "border-bottom-color-103.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-102.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-101.xht"
    },
    {
@@ -17766,19 +17766,19 @@
     "id": "border-bottom-color-100.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-099.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-098.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-097.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-096.xht"
    },
    {
@@ -17794,11 +17794,11 @@
     "id": "border-bottom-color-093.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-092.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-091.xht"
    },
    {
@@ -17806,19 +17806,19 @@
     "id": "border-bottom-color-090.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-089.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-088.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-087.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-086.xht"
    },
    {
@@ -17826,19 +17826,19 @@
     "id": "border-bottom-color-085.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-084.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-083.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-082.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-081.xht"
    },
    {
@@ -17846,19 +17846,19 @@
     "id": "border-bottom-color-080.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-079.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-078.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-077.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-076.xht"
    },
    {
@@ -17874,11 +17874,11 @@
     "id": "border-bottom-color-073.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-072.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-071.xht"
    },
    {
@@ -17886,19 +17886,19 @@
     "id": "border-bottom-color-070.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-069.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-068.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-067.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-066.xht"
    },
    {
@@ -17914,35 +17914,35 @@
     "id": "border-bottom-color-063.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-062.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-061.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-060.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-059.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-058.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-057.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-056.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-055.xht"
    },
    {
@@ -17958,11 +17958,11 @@
     "id": "border-bottom-color-052.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-051.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-050.xht"
    },
    {
@@ -17970,15 +17970,15 @@
     "id": "border-bottom-color-049.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-048.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-047.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-046.xht"
    },
    {
@@ -17994,35 +17994,35 @@
     "id": "border-bottom-color-043.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-042.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-041.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-040.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-039.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-038.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-037.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-036.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-035.xht"
    },
    {
@@ -18034,11 +18034,11 @@
     "id": "border-bottom-color-033.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-032.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-031.xht"
    },
    {
@@ -18046,11 +18046,11 @@
     "id": "border-bottom-color-030.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-029.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-028.xht"
    },
    {
@@ -18062,15 +18062,15 @@
     "id": "border-bottom-color-026.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-025.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-024.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-023.xht"
    },
    {
@@ -18078,7 +18078,7 @@
     "id": "border-bottom-color-022.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-021.xht"
    },
    {
@@ -18090,19 +18090,19 @@
     "id": "border-bottom-color-019.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-018.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-017.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-016.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-015.xht"
    },
    {
@@ -18110,11 +18110,11 @@
     "id": "border-bottom-color-014.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-013.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-012.xht"
    },
    {
@@ -18130,15 +18130,15 @@
     "id": "border-bottom-color-009.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-008.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-007.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-006.xht"
    },
    {
@@ -18150,15 +18150,15 @@
     "id": "border-bottom-color-004.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-003.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-001.xht"
    },
    {
@@ -18410,7 +18410,7 @@
     "id": "block-replaced-height-004.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "block-replaced-height-002.xht"
    },
    {
@@ -19266,15 +19266,15 @@
     "id": "background-reset-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-repeat-repeat-y.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-repeat-repeat-x.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-repeat-no-repeat.xht"
    },
    {
@@ -19330,7 +19330,7 @@
     "id": "background-repeat-005.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-repeat-004.xht"
    },
    {
@@ -19502,7 +19502,7 @@
     "id": "background-position-152.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-position-151.xht"
    },
    {
@@ -19510,15 +19510,15 @@
     "id": "background-position-150.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-position-149.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-position-148.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-position-147.xht"
    },
    {
@@ -19542,7 +19542,7 @@
     "id": "background-position-142.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-position-141.xht"
    },
    {
@@ -19558,11 +19558,11 @@
     "id": "background-position-138.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-position-137.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-position-136.xht"
    },
    {
@@ -19578,11 +19578,11 @@
     "id": "background-position-133.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-position-132.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-position-131.xht"
    },
    {
@@ -19598,11 +19598,11 @@
     "id": "background-position-128.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-position-127.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-position-126.xht"
    },
    {
@@ -19614,15 +19614,15 @@
     "id": "background-position-124.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-position-123.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-position-122.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-position-121.xht"
    },
    {
@@ -19638,11 +19638,11 @@
     "id": "background-position-118.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-position-117.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-position-116.xht"
    },
    {
@@ -19854,7 +19854,7 @@
     "id": "background-image-cover-004.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-image-cover-002.xht"
    },
    {
@@ -19870,11 +19870,11 @@
     "id": "background-image-applies-to-013.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-image-applies-to-012.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-image-applies-to-009.xht"
    },
    {
@@ -19934,11 +19934,11 @@
     "id": "background-color-applies-to-013.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-color-applies-to-012.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-color-applies-to-009.xht"
    },
    {
@@ -20390,7 +20390,7 @@
     "id": "background-color-043.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-color-042.xht"
    },
    {
@@ -20502,7 +20502,7 @@
     "id": "background-color-015.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-color-014.xht"
    },
    {
@@ -20566,7 +20566,7 @@
     "id": "background-bg-pos-206.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-bg-pos-204.xht"
    },
    {
@@ -20582,11 +20582,11 @@
     "id": "background-attachment-applies-to-013.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-attachment-applies-to-012.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-attachment-applies-to-009.xht"
    },
    {
@@ -20634,11 +20634,11 @@
     "id": "background-applies-to-013.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-applies-to-012.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-applies-to-009.xht"
    },
    {
@@ -21058,7 +21058,7 @@
     "id": "background-014.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-010.xht"
    },
    {
@@ -21618,7 +21618,7 @@
     "id": "abspos-width-005.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "abspos-width-004.xht"
    },
    {
@@ -21630,7 +21630,7 @@
     "id": "abspos-width-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "abspos-width-001.xht"
    },
    {
@@ -21906,15 +21906,15 @@
     "id": "absolute-replaced-width-064.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "absolute-replaced-width-062.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "absolute-replaced-width-057.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "absolute-replaced-width-055.xht"
    },
    {
@@ -21934,15 +21934,15 @@
     "id": "absolute-replaced-width-050.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "absolute-replaced-width-048.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "absolute-replaced-width-043.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "absolute-replaced-width-041.xht"
    },
    {
@@ -21958,7 +21958,7 @@
     "id": "absolute-replaced-width-037.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "absolute-replaced-width-036.xht"
    },
    {
@@ -21978,7 +21978,7 @@
     "id": "absolute-replaced-width-030.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "absolute-replaced-width-029.xht"
    },
    {
@@ -22030,7 +22030,7 @@
     "id": "absolute-replaced-width-008.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "absolute-replaced-width-006.xht"
    },
    {
@@ -22058,7 +22058,7 @@
     "id": "absolute-replaced-width-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "absolute-replaced-width-001.xht"
    },
    {
@@ -23294,8 +23294,8 @@
   "selectedCount": "5822"
  },
  "meta": {
-  "startDate": "2015-10-16",
-  "timeTaken": "2180196",
+  "startDate": "2015-10-18",
+  "timeTaken": "2363811",
   "browser": "gngr"
  }
 }
