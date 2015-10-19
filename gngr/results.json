@@ -4586,7 +4586,7 @@
     "id": "numbers-units-007.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "numbers-units-006.xht"
    },
    {
@@ -4826,7 +4826,7 @@
     "id": "min-width-037.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "min-width-036.xht"
    },
    {
@@ -4938,7 +4938,7 @@
     "id": "min-height-applies-to-012.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "min-height-applies-to-009.xht"
    },
    {
@@ -5634,7 +5634,7 @@
     "id": "max-width-001.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "max-height-percentage-003.xht"
    },
    {
@@ -8022,11 +8022,11 @@
     "id": "left-040.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "left-032.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "left-031.xht"
    },
    {
@@ -8330,7 +8330,7 @@
     "id": "inline-svg-100-percent-in-body.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "inline-replaced-width-017.xht"
    },
    {
@@ -8890,7 +8890,7 @@
     "id": "height-table-cell-001.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "height-percentage-005.xht"
    },
    {
@@ -9566,7 +9566,7 @@
     "id": "font-family-valid-characters-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-family-rule-005.xht"
    },
    {
@@ -10270,7 +10270,7 @@
     "id": "floats-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "float-replaced-width-011.xht"
    },
    {
@@ -10834,7 +10834,7 @@
     "id": "first-letter-nested-004.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "first-letter-nested-003.xht"
    },
    {
@@ -12766,7 +12766,7 @@
     "id": "cascade-import-dynamic-002.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "cascade-import-dynamic-001.xht"
    },
    {
@@ -21930,7 +21930,7 @@
     "id": "absolute-replaced-width-051.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "absolute-replaced-width-050.xht"
    },
    {
@@ -21998,7 +21998,7 @@
     "id": "absolute-replaced-width-023.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "absolute-replaced-width-022.xht"
    },
    {
