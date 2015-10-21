@@ -450,7 +450,7 @@
     "id": "whitespace-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "white-space-processing-049.xht"
    },
    {
@@ -478,11 +478,11 @@
     "id": "white-space-nowrap-005.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "white-space-nowrap-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "white-space-normal-009.xht"
    },
    {
@@ -950,11 +950,11 @@
     "id": "units-009.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "units-008.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "units-006.xht"
    },
    {
@@ -1422,11 +1422,11 @@
     "id": "text-align-white-space-005.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "text-align-white-space-004.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "text-align-white-space-003.xht"
    },
    {
@@ -1434,7 +1434,7 @@
     "id": "text-align-white-space-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "text-align-white-space-001.xht"
    },
    {
@@ -4562,7 +4562,7 @@
     "id": "numbers-units-015.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "numbers-units-013.xht"
    },
    {
@@ -4634,7 +4634,7 @@
     "id": "min-width-applies-to-009.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-width-applies-to-008.xht"
    },
    {
@@ -5026,11 +5026,11 @@
     "id": "min-height-083.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-082.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-081.xht"
    },
    {
@@ -5038,11 +5038,11 @@
     "id": "min-height-080.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-079.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-078.xht"
    },
    {
@@ -5054,11 +5054,11 @@
     "id": "min-height-072.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-071.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-070.xht"
    },
    {
@@ -5066,11 +5066,11 @@
     "id": "min-height-069.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-068.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-067.xht"
    },
    {
@@ -5330,7 +5330,7 @@
     "id": "max-width-applies-to-009.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-width-applies-to-008.xht"
    },
    {
@@ -5670,7 +5670,7 @@
     "id": "max-height-applies-to-009.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-height-applies-to-008.xht"
    },
    {
@@ -6842,7 +6842,7 @@
     "id": "margin-collapse-131.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "margin-collapse-130.xht"
    },
    {
@@ -7046,7 +7046,7 @@
     "id": "margin-collapse-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "margin-collapse-001.xht"
    },
    {
@@ -8422,11 +8422,11 @@
     "id": "inline-replaced-height-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "inline-non-replaced-width-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "inline-non-replaced-width-001.xht"
    },
    {
@@ -8450,7 +8450,7 @@
     "id": "inline-formatting-context-015.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "inline-formatting-context-013.xht"
    },
    {
@@ -8466,7 +8466,7 @@
     "id": "inline-formatting-context-009.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "inline-formatting-context-008.xht"
    },
    {
@@ -8618,7 +8618,7 @@
     "id": "inline-block-non-replaced-width-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "inline-block-non-replaced-width-001.xht"
    },
    {
@@ -9762,7 +9762,7 @@
     "id": "font-family-011.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-family-009.xht"
    },
    {
@@ -9826,7 +9826,7 @@
     "id": "font-146.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-051.xht"
    },
    {
@@ -10102,11 +10102,11 @@
     "id": "floats-124.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "floats-123.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "floats-122.xht"
    },
    {
@@ -10114,7 +10114,7 @@
     "id": "floats-121.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "floats-120.xht"
    },
    {
@@ -10122,11 +10122,11 @@
     "id": "floats-119.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "floats-118.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "floats-117.xht"
    },
    {
@@ -10234,7 +10234,7 @@
     "id": "floats-014.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "floats-009.xht"
    },
    {
@@ -10454,7 +10454,7 @@
     "id": "float-006.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "float-005.xht"
    },
    {
@@ -11686,7 +11686,7 @@
     "id": "colors-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "colors-001.xht"
    },
    {
@@ -11754,251 +11754,251 @@
     "id": "color-175.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-174.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-145.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-144.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-143.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-142.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-141.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-140.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-139.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-138.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-137.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-136.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-135.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-134.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-133.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-132.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-131.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-130.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-129.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-128.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-127.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-126.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-125.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-124.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-123.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-122.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-121.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-120.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-119.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-118.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-117.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-116.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-115.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-114.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-113.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-112.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-111.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-110.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-109.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-108.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-107.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-106.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-105.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-104.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-103.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-102.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-101.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-100.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-099.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-098.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-097.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-096.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-095.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-094.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-093.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-092.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-091.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-090.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-089.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-088.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-087.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-086.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-085.xht"
    },
    {
@@ -12010,219 +12010,219 @@
     "id": "color-083.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-082.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-081.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-080.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-079.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-078.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-077.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-076.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-075.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-074.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-073.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-072.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-071.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-070.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-069.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-068.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-067.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-066.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-065.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-064.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-063.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-062.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-061.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-060.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-059.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-058.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-057.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-056.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-055.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-054.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-053.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-052.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-051.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-050.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-049.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-048.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-047.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-046.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-045.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-044.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-043.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-042.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-041.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-040.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-039.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-038.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-037.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-036.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-035.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-034.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-033.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-032.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-031.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-030.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-029.xht"
    },
    {
@@ -12230,111 +12230,111 @@
     "id": "color-028.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-027.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-026.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-025.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-024.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-023.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-022.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-021.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-020.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-019.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-018.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-017.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-016.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-015.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-014.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-013.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-012.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-011.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-010.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-009.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-008.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-007.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-006.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-005.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-004.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-003.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-001.xht"
    },
    {
@@ -12846,7 +12846,7 @@
     "id": "c563-list-type-000.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c562-white-sp-000.xht"
    },
    {
@@ -12974,7 +12974,7 @@
     "id": "c5510-padn-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c5510-padn-001.xht"
    },
    {
@@ -12994,7 +12994,7 @@
     "id": "c5509-padn-l-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c5509-padn-l-001.xht"
    },
    {
@@ -13030,11 +13030,11 @@
     "id": "c5508-ipadn-b-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c5508-ipadn-b-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c5508-ipadn-b-000.xht"
    },
    {
@@ -13046,7 +13046,7 @@
     "id": "c5507-padn-r-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c5507-padn-r-001.xht"
    },
    {
@@ -13082,7 +13082,7 @@
     "id": "c5506-ipadn-t-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c5506-ipadn-t-001.xht"
    },
    {
@@ -13094,7 +13094,7 @@
     "id": "c5505-mrgn-003.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c5505-mrgn-001.xht"
    },
    {
@@ -13110,7 +13110,7 @@
     "id": "c5504-mrgn-l-003.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c5504-mrgn-l-001.xht"
    },
    {
@@ -13150,7 +13150,7 @@
     "id": "c5503-mrgn-b-000.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c5503-imrgn-b-000.xht"
    },
    {
@@ -13158,7 +13158,7 @@
     "id": "c5502-mrgn-r-003.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c5502-mrgn-r-001.xht"
    },
    {
@@ -13198,7 +13198,7 @@
     "id": "c5501-mrgn-t-000.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c5501-imrgn-t-000.xht"
    },
    {
@@ -13322,7 +13322,7 @@
     "id": "c526-font-sz-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c526-font-sz-001.xht"
    },
    {
@@ -18314,15 +18314,15 @@
     "id": "blocks-025.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "blocks-022.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "blocks-021.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "blocks-020.xht"
    },
    {
@@ -18418,7 +18418,7 @@
     "id": "block-replaced-height-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "block-non-replaced-width-007.xht"
    },
    {
@@ -18450,7 +18450,7 @@
     "id": "block-non-replaced-height-011.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "block-non-replaced-height-005.xht"
    },
    {
@@ -18706,7 +18706,7 @@
     "id": "block-in-inline-append-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "block-in-inline-append-001.xht"
    },
    {
@@ -18770,7 +18770,7 @@
     "id": "block-formatting-contexts-005.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "block-formatting-contexts-004.xht"
    },
    {
@@ -18822,23 +18822,23 @@
     "id": "bidi-breaking-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "bidi-box-model-045.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "bidi-box-model-044.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "bidi-box-model-043.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "bidi-box-model-042.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "bidi-box-model-041.xht"
    },
    {
@@ -18846,35 +18846,35 @@
     "id": "bidi-box-model-040.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "bidi-box-model-039.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "bidi-box-model-038.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "bidi-box-model-037.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "bidi-box-model-036.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "bidi-box-model-035.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "bidi-box-model-034.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "bidi-box-model-033.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "bidi-box-model-032.xht"
    },
    {
@@ -18882,35 +18882,35 @@
     "id": "bidi-box-model-031.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "bidi-box-model-030.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "bidi-box-model-029.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "bidi-box-model-028.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "bidi-box-model-027.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "bidi-box-model-026.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "bidi-box-model-025.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "bidi-box-model-024.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "bidi-box-model-023.xht"
    },
    {
@@ -18918,35 +18918,35 @@
     "id": "bidi-box-model-022.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "bidi-box-model-021.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "bidi-box-model-020.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "bidi-box-model-019.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "bidi-box-model-018.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "bidi-box-model-017.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "bidi-box-model-016.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "bidi-box-model-015.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "bidi-box-model-014.xht"
    },
    {
@@ -18954,15 +18954,15 @@
     "id": "bidi-box-model-013.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "bidi-box-model-012.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "bidi-box-model-011.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "bidi-box-model-010.xht"
    },
    {
@@ -20098,15 +20098,15 @@
     "id": "background-color-116.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-color-115.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-color-114.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-color-113.xht"
    },
    {
@@ -20118,7 +20118,7 @@
     "id": "background-color-111.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-color-110.xht"
    },
    {
@@ -20178,15 +20178,15 @@
     "id": "background-color-096.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-color-095.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-color-094.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-color-093.xht"
    },
    {
@@ -20198,7 +20198,7 @@
     "id": "background-color-091.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-color-090.xht"
    },
    {
@@ -20258,15 +20258,15 @@
     "id": "background-color-076.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-color-075.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-color-074.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-color-073.xht"
    },
    {
@@ -20278,7 +20278,7 @@
     "id": "background-color-071.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-color-070.xht"
    },
    {
@@ -20342,15 +20342,15 @@
     "id": "background-color-055.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-color-054.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-color-053.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-color-052.xht"
    },
    {
@@ -20362,7 +20362,7 @@
     "id": "background-color-050.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-color-049.xht"
    },
    {
@@ -21522,7 +21522,7 @@
     "id": "anonymous-inline-whitespace-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "anonymous-boxes-inheritance-001.xht"
    },
    {
@@ -22282,7 +22282,7 @@
     "id": "absolute-non-replaced-width-007.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "absolute-non-replaced-width-006.xht"
    },
    {
@@ -22370,7 +22370,7 @@
     "id": "absolute-non-replaced-height-008.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "absolute-non-replaced-height-007.xht"
    },
    {
@@ -23295,7 +23295,7 @@
  },
  "meta": {
   "startDate": "2015-10-20",
-  "timeTaken": "3202160",
+  "timeTaken": "3249993",
   "browser": "gngr"
  }
 }
