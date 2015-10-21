@@ -450,7 +450,7 @@
     "id": "whitespace-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "white-space-processing-049.xht"
    },
    {
@@ -462,11 +462,11 @@
     "id": "white-space-pre-005.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "white-space-pre-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "white-space-pre-001.xht"
    },
    {
@@ -478,7 +478,7 @@
     "id": "white-space-nowrap-005.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "white-space-nowrap-001.xht"
    },
    {
@@ -510,11 +510,11 @@
     "id": "white-space-normal-003.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "white-space-normal-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "white-space-normal-001.xht"
    },
    {
@@ -10862,7 +10862,7 @@
     "id": "first-letter-dynamic-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "first-letter-dynamic-001.xht"
    },
    {
@@ -12226,7 +12226,7 @@
     "id": "color-029.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-028.xht"
    },
    {
@@ -12338,7 +12338,7 @@
     "id": "color-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-000.xht"
    },
    {
@@ -12982,7 +12982,7 @@
     "id": "c5510-padn-000.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c5510-ipadn-000.xht"
    },
    {
@@ -13002,7 +13002,7 @@
     "id": "c5509-padn-l-000.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c5509-ipadn-l-004.xht"
    },
    {
@@ -13054,7 +13054,7 @@
     "id": "c5507-padn-r-000.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c5507-ipadn-r-004.xht"
    },
    {
@@ -13102,7 +13102,7 @@
     "id": "c5505-mrgn-000.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c5505-imrgn-000.xht"
    },
    {
@@ -13166,7 +13166,7 @@
     "id": "c5502-mrgn-r-000.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c5502-imrgn-r-006.xht"
    },
    {
@@ -23294,8 +23294,8 @@
   "selectedCount": "5822"
  },
  "meta": {
-  "startDate": "2015-10-15",
-  "timeTaken": "2725944",
+  "startDate": "2015-10-21",
+  "timeTaken": "2962633",
   "browser": "firefox"
  }
 }
