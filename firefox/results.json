@@ -874,7 +874,7 @@
     "id": "uri-016.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "uri-015.xht"
    },
    {
@@ -939,11 +939,23 @@
    },
    {
     "pass": "true",
+    "id": "universal-selector-005.xht"
+   },
+   {
+    "pass": "true",
     "id": "universal-selector-004.xht"
    },
    {
     "pass": "true",
     "id": "universal-selector-003.xht"
+   },
+   {
+    "pass": "false",
+    "id": "universal-selector-002.xht"
+   },
+   {
+    "pass": "true",
+    "id": "universal-selector-001.xht"
    },
    {
     "pass": "false",
@@ -1044,6 +1056,10 @@
    {
     "pass": "true",
     "id": "unicode-bidi-001.xht"
+   },
+   {
+    "pass": "true",
+    "id": "type-selector-001.xht"
    },
    {
     "pass": "true",
@@ -1675,7 +1691,15 @@
    },
    {
     "pass": "true",
+    "id": "sibling-selector-003.xht"
+   },
+   {
+    "pass": "true",
     "id": "sibling-selector-002.xht"
+   },
+   {
+    "pass": "true",
+    "id": "sibling-selector-001.xht"
    },
    {
     "pass": "true",
@@ -4435,15 +4459,19 @@
    },
    {
     "pass": "true",
-    "id": "outline-style-004.xht"
+    "id": "outline-style-014.xht"
    },
    {
     "pass": "true",
-    "id": "outline-style-003.xht"
+    "id": "outline-style-013.xht"
    },
    {
     "pass": "true",
-    "id": "outline-style-002.xht"
+    "id": "outline-style-012.xht"
+   },
+   {
+    "pass": "true",
+    "id": "outline-style-011.xht"
    },
    {
     "pass": "true",
@@ -4608,6 +4636,10 @@
    {
     "pass": "false",
     "id": "multicol-height-002.xht"
+   },
+   {
+    "pass": "true",
+    "id": "min-width-tables-001.xht"
    },
    {
     "pass": "true",
@@ -8095,10 +8127,14 @@
    },
    {
     "pass": "true",
+    "id": "lang-selector-001.xht"
+   },
+   {
+    "pass": "true",
     "id": "keywords-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "keywords-000.xht"
    },
    {
@@ -8636,14 +8672,6 @@
    {
     "pass": "true",
     "id": "inline-block-height-001.xht"
-   },
-   {
-    "pass": "false",
-    "id": "inline-block-alignment-009.xht"
-   },
-   {
-    "pass": "false",
-    "id": "inline-block-alignment-008.xht"
    },
    {
     "pass": "false",
@@ -9240,6 +9268,18 @@
    {
     "pass": "true",
     "id": "height-001.xht"
+   },
+   {
+    "pass": "true",
+    "id": "grouping-002.xht"
+   },
+   {
+    "pass": "true",
+    "id": "grouping-001.xht"
+   },
+   {
+    "pass": "true",
+    "id": "grouping-000.xht"
    },
    {
     "pass": "false",
@@ -10894,7 +10934,7 @@
     "id": "escapes-015.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "escapes-014.xht"
    },
    {
@@ -10918,35 +10958,35 @@
     "id": "escapes-009.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "escapes-008.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "escapes-007.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "escapes-006.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "escapes-005.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "escapes-004.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "escapes-003.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "escapes-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "escapes-001.xht"
    },
    {
@@ -11099,6 +11139,10 @@
    },
    {
     "pass": "true",
+    "id": "dynamic-sibling-combinator-001.xht"
+   },
+   {
+    "pass": "true",
     "id": "display-none-003.xht"
    },
    {
@@ -11243,11 +11287,55 @@
    },
    {
     "pass": "true",
+    "id": "descendent-selector-011.xht"
+   },
+   {
+    "pass": "true",
+    "id": "descendent-selector-010.xht"
+   },
+   {
+    "pass": "true",
+    "id": "descendent-selector-009.xht"
+   },
+   {
+    "pass": "true",
+    "id": "descendent-selector-008.xht"
+   },
+   {
+    "pass": "true",
+    "id": "descendent-selector-007.xht"
+   },
+   {
+    "pass": "true",
+    "id": "descendent-selector-006.xht"
+   },
+   {
+    "pass": "true",
     "id": "descendent-selector-005.xht"
    },
    {
     "pass": "true",
+    "id": "descendent-selector-004.xht"
+   },
+   {
+    "pass": "true",
+    "id": "descendent-selector-003.xht"
+   },
+   {
+    "pass": "true",
+    "id": "descendent-selector-002.xht"
+   },
+   {
+    "pass": "true",
     "id": "descendent-selector-001.xht"
+   },
+   {
+    "pass": "true",
+    "id": "descendant-selector-001.xht"
+   },
+   {
+    "pass": "true",
+    "id": "descendant-selector-000.xht"
    },
    {
     "pass": "true",
@@ -12715,6 +12803,18 @@
    },
    {
     "pass": "true",
+    "id": "child-selector-003.xht"
+   },
+   {
+    "pass": "true",
+    "id": "child-selector-002.xht"
+   },
+   {
+    "pass": "true",
+    "id": "child-selector-001.xht"
+   },
+   {
+    "pass": "true",
     "id": "charset-attr-001.xht"
    },
    {
@@ -12734,11 +12834,11 @@
     "id": "case-sensitive-003.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "case-sensitive-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "case-sensitive-000.xht"
    },
    {
@@ -21107,6 +21207,18 @@
    },
    {
     "pass": "true",
+    "id": "attribute-value-selector-003.xht"
+   },
+   {
+    "pass": "true",
+    "id": "attribute-value-selector-002.xht"
+   },
+   {
+    "pass": "true",
+    "id": "attribute-value-selector-001.xht"
+   },
+   {
+    "pass": "true",
     "id": "attribute-token-selector-002.xht"
    },
    {
@@ -21116,6 +21228,38 @@
    {
     "pass": "true",
     "id": "attribute-selector-001.xht"
+   },
+   {
+    "pass": "true",
+    "id": "attribute-007.xht"
+   },
+   {
+    "pass": "true",
+    "id": "attribute-006.xht"
+   },
+   {
+    "pass": "true",
+    "id": "attribute-005.xht"
+   },
+   {
+    "pass": "true",
+    "id": "attribute-004.xht"
+   },
+   {
+    "pass": "true",
+    "id": "attribute-003.xht"
+   },
+   {
+    "pass": "true",
+    "id": "attribute-002.xht"
+   },
+   {
+    "pass": "true",
+    "id": "attribute-001.xht"
+   },
+   {
+    "pass": "true",
+    "id": "attribute-000.xht"
    },
    {
     "pass": "true",
@@ -21274,31 +21418,31 @@
     "id": "at-charset-quotes-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "at-charset-077.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "at-charset-076.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "at-charset-075.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "at-charset-074.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "at-charset-073.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "at-charset-072.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "at-charset-071.xht"
    },
    {
@@ -21612,6 +21756,18 @@
    {
     "pass": "true",
     "id": "adjacent-floats-001.xht"
+   },
+   {
+    "pass": "true",
+    "id": "adjacent-002.xht"
+   },
+   {
+    "pass": "true",
+    "id": "adjacent-001.xht"
+   },
+   {
+    "pass": "true",
+    "id": "adjacent-000.xht"
    },
    {
     "pass": "true",
@@ -23290,12 +23446,12 @@
     "id": "abs-pos-non-replaced-vlr-003.xht"
    }
   ],
-  "totalCount": "5822",
-  "selectedCount": "5822"
+  "totalCount": "5861",
+  "selectedCount": "5861"
  },
  "meta": {
-  "startDate": "2015-10-21",
-  "timeTaken": "2962633",
+  "startDate": "2015-10-27",
+  "timeTaken": "3127259",
   "browser": "firefox"
  }
 }
