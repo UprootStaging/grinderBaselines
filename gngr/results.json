@@ -14302,7 +14302,7 @@
     "id": "border-top-style-005.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-style-002.xht"
    },
    {
@@ -15370,7 +15370,7 @@
     "id": "border-right-style-005.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-style-002.xht"
    },
    {
@@ -16350,7 +16350,7 @@
     "id": "border-left-style-005.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-style-002.xht"
    },
    {
@@ -17618,7 +17618,7 @@
     "id": "border-bottom-style-005.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-style-002.xht"
    },
    {
