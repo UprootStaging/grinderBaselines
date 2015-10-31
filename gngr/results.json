@@ -302,7 +302,7 @@
     "id": "width-057.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "width-056.xht"
    },
    {
@@ -2382,11 +2382,11 @@
     "id": "right-109.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "right-104.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "right-103.xht"
    },
    {
@@ -2442,11 +2442,11 @@
     "id": "right-076.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "right-068.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "right-067.xht"
    },
    {
@@ -2790,7 +2790,7 @@
     "id": "position-relative-010.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "position-relative-009.xht"
    },
    {
@@ -2798,7 +2798,7 @@
     "id": "position-relative-007.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "position-relative-006.xht"
    },
    {
@@ -2806,7 +2806,7 @@
     "id": "position-relative-005.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "position-relative-004.xht"
    },
    {
@@ -3406,7 +3406,7 @@
     "id": "padding-right-059.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "padding-right-058.xht"
    },
    {
@@ -3614,7 +3614,7 @@
     "id": "padding-left-applies-to-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "padding-left-103.xht"
    },
    {
@@ -3714,11 +3714,11 @@
     "id": "padding-left-067.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "padding-left-062.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "padding-left-061.xht"
    },
    {
@@ -3730,7 +3730,7 @@
     "id": "padding-left-059.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "padding-left-058.xht"
    },
    {
@@ -6570,7 +6570,7 @@
     "id": "margin-left-applies-to-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "margin-left-113.xht"
    },
    {
@@ -6650,11 +6650,11 @@
     "id": "margin-left-076.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "margin-left-068.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "margin-left-067.xht"
    },
    {
@@ -7914,7 +7914,7 @@
     "id": "left-applies-to-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "left-113.xht"
    },
    {
@@ -7934,11 +7934,11 @@
     "id": "left-109.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "left-104.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "left-103.xht"
    },
    {
@@ -8938,7 +8938,7 @@
     "id": "height-percentage-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "height-percentage-001.xht"
    },
    {
@@ -9138,7 +9138,7 @@
     "id": "height-057.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "height-056.xht"
    },
    {
@@ -13450,7 +13450,7 @@
     "id": "c43-rpl-ibx-000.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c43-rpl-bbx-002.xht"
    },
    {
@@ -13678,7 +13678,7 @@
     "id": "bottom-offset-003.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "bottom-offset-002.xht"
    },
    {
@@ -20494,7 +20494,7 @@
     "id": "background-color-042.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-color-041.xht"
    },
    {
@@ -20514,7 +20514,7 @@
     "id": "background-color-037.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-color-036.xht"
    },
    {
@@ -20566,7 +20566,7 @@
     "id": "background-color-024.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-color-023.xht"
    },
    {
@@ -20586,7 +20586,7 @@
     "id": "background-color-019.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-color-018.xht"
    },
    {
@@ -20606,7 +20606,7 @@
     "id": "background-color-014.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-color-013.xht"
    },
    {
@@ -20774,7 +20774,7 @@
     "id": "background-329.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-328.xht"
    },
    {
@@ -23450,8 +23450,8 @@
   "selectedCount": "5861"
  },
  "meta": {
-  "startDate": "2015-10-26",
-  "timeTaken": "2449332",
+  "startDate": "2015-10-31",
+  "timeTaken": "2384745",
   "browser": "gngr"
  }
 }
