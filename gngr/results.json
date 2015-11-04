@@ -58,7 +58,7 @@
     "id": "z-index-013.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "z-index-012.xht"
    },
    {
@@ -98,11 +98,11 @@
     "id": "z-index-003.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "z-index-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "z-index-001.xht"
    },
    {
@@ -8838,7 +8838,7 @@
     "id": "id-selector-006.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "id-selector-005.xht"
    },
    {
