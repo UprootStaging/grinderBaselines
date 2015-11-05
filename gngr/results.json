@@ -1782,7 +1782,7 @@
     "id": "selectors-parsing-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "selectors-002.xht"
    },
    {
@@ -11834,7 +11834,7 @@
     "id": "color-177.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "color-176.xht"
    },
    {
@@ -21910,7 +21910,7 @@
     "id": "abspos-containing-block-initial-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "abspos-containing-block-010.xht"
    },
    {
