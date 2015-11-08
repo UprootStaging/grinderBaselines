@@ -1870,7 +1870,7 @@
     "id": "run-in-run-in-between-003.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "run-in-run-in-between-002.xht"
    },
    {
@@ -1882,7 +1882,7 @@
     "id": "run-in-restyle-003.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "run-in-restyle-002.xht"
    },
    {
@@ -1910,7 +1910,7 @@
     "id": "run-in-listitem-between-003.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "run-in-listitem-between-002.xht"
    },
    {
@@ -2006,7 +2006,7 @@
     "id": "run-in-contains-table-inside-inline-003.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "run-in-contains-table-inside-inline-002.xht"
    },
    {
@@ -2034,7 +2034,7 @@
     "id": "run-in-contains-table-003.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "run-in-contains-table-002.xht"
    },
    {
@@ -2162,7 +2162,7 @@
     "id": "run-in-block-between-003.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "run-in-block-between-002.xht"
    },
    {
@@ -23450,8 +23450,8 @@
   "selectedCount": "5861"
  },
  "meta": {
-  "startDate": "2015-10-31",
-  "timeTaken": "2384745",
+  "startDate": "2015-11-08",
+  "timeTaken": "2263357",
   "browser": "gngr"
  }
 }
