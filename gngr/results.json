@@ -1598,7 +1598,7 @@
     "id": "style-attr-specificity-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "style-attr-cascade-007.xht"
    },
    {
@@ -1722,7 +1722,7 @@
     "id": "shand-border-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "shand-border-000.xht"
    },
    {
@@ -4290,23 +4290,23 @@
     "id": "overflow-applies-to-014.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "overflow-applies-to-013.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "overflow-applies-to-012.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "overflow-applies-to-009.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "overflow-applies-to-008.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "overflow-applies-to-007.xht"
    },
    {
@@ -7582,7 +7582,7 @@
     "id": "line-height-129.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "line-height-128.xht"
    },
    {
@@ -9798,7 +9798,7 @@
     "id": "font-family-013.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-family-011.xht"
    },
    {
@@ -13010,7 +13010,7 @@
     "id": "c5514-ibrdr-lw-000.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c5514-brdr-lw-003.xht"
    },
    {
@@ -13018,7 +13018,7 @@
     "id": "c5514-brdr-lw-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c5514-brdr-lw-001.xht"
    },
    {
@@ -13026,7 +13026,7 @@
     "id": "c5513-ibrdr-bw-000.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c5513-brdr-bw-003.xht"
    },
    {
@@ -13034,7 +13034,7 @@
     "id": "c5513-brdr-bw-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c5513-brdr-bw-001.xht"
    },
    {
@@ -13042,7 +13042,7 @@
     "id": "c5512-ibrdr-rw-000.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c5512-brdr-rw-003.xht"
    },
    {
@@ -13050,7 +13050,7 @@
     "id": "c5512-brdr-rw-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c5512-brdr-rw-001.xht"
    },
    {
@@ -13058,7 +13058,7 @@
     "id": "c5511-ibrdr-tw-000.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c5511-brdr-tw-003.xht"
    },
    {
@@ -15074,11 +15074,11 @@
     "id": "border-spacing-applies-to-016.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-shorthands-003.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-shorthands-002.xht"
    },
    {
@@ -17226,7 +17226,7 @@
     "id": "border-color-011.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-color-010.xht"
    },
    {
@@ -23451,7 +23451,7 @@
  },
  "meta": {
   "startDate": "2015-11-13",
-  "timeTaken": "2436585",
+  "timeTaken": "2359666",
   "browser": "gngr"
  }
 }
