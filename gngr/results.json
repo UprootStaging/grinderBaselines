@@ -442,11 +442,11 @@
     "id": "width-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "whitespace-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "whitespace-001.xht"
    },
    {
@@ -1086,19 +1086,19 @@
     "id": "top-applies-to-015.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "top-applies-to-014.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "top-applies-to-013.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "top-applies-to-012.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "top-applies-to-009.xht"
    },
    {
@@ -1646,7 +1646,7 @@
     "id": "stack-floats-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "specificity-013.xht"
    },
    {
@@ -2818,7 +2818,7 @@
     "id": "position-relative-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "position-fixed-007.xht"
    },
    {
@@ -6934,11 +6934,11 @@
     "id": "margin-collapse-104.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "margin-collapse-103.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "margin-collapse-102.xht"
    },
    {
@@ -6958,11 +6958,11 @@
     "id": "margin-collapse-039.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "margin-collapse-038.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "margin-collapse-037.xht"
    },
    {
@@ -6978,11 +6978,11 @@
     "id": "margin-collapse-033.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "margin-collapse-031.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "margin-collapse-028.xht"
    },
    {
@@ -6990,7 +6990,7 @@
     "id": "margin-collapse-027.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "margin-collapse-026.xht"
    },
    {
@@ -7022,7 +7022,7 @@
     "id": "margin-collapse-018.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "margin-collapse-017.xht"
    },
    {
@@ -7042,11 +7042,11 @@
     "id": "margin-collapse-014.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "margin-collapse-013.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "margin-collapse-009.xht"
    },
    {
@@ -7062,7 +7062,7 @@
     "id": "margin-collapse-006.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "margin-collapse-005.xht"
    },
    {
@@ -8390,7 +8390,7 @@
     "id": "inline-replaced-width-012.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "inline-replaced-width-011.xht"
    },
    {
@@ -9618,7 +9618,7 @@
     "id": "font-family-rule-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-family-name-024.xht"
    },
    {
@@ -10098,7 +10098,7 @@
     "id": "floats-143.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "floats-142.xht"
    },
    {
@@ -10134,7 +10134,7 @@
     "id": "floats-132.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "floats-125.xht"
    },
    {
@@ -10262,7 +10262,7 @@
     "id": "floats-022.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "floats-019.xht"
    },
    {
@@ -10938,7 +10938,7 @@
     "id": "escapes-014.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "escapes-013.xht"
    },
    {
@@ -11730,7 +11730,7 @@
     "id": "comments-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "combinator-004.xht"
    },
    {
@@ -11742,7 +11742,7 @@
     "id": "combinator-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "combinator-001.xht"
    },
    {
@@ -13118,7 +13118,7 @@
     "id": "c5509-ipadn-l-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c5509-ipadn-l-000.xht"
    },
    {
@@ -13170,7 +13170,7 @@
     "id": "c5507-ipadn-r-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c5507-ipadn-r-000.xht"
    },
    {
@@ -13242,7 +13242,7 @@
     "id": "c5504-imrgn-l-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c5504-imrgn-l-000.xht"
    },
    {
@@ -13290,7 +13290,7 @@
     "id": "c5502-imrgn-r-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c5502-imrgn-r-000.xht"
    },
    {
@@ -13414,7 +13414,7 @@
     "id": "c531-color-000.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c526-font-sz-003.xht"
    },
    {
@@ -13522,11 +13522,11 @@
     "id": "c17-comments-000.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c16-descendant-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c16-descendant-001.xht"
    },
    {
@@ -16062,7 +16062,7 @@
     "id": "border-right-applies-to-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-018.xht"
    },
    {
@@ -17042,7 +17042,7 @@
     "id": "border-left-applies-to-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-018.xht"
    },
    {
@@ -17066,11 +17066,11 @@
     "id": "border-left-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-dynamic-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-dynamic-001.xht"
    },
    {
@@ -18426,7 +18426,7 @@
     "id": "blocks-020.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "blocks-019.xht"
    },
    {
@@ -23450,8 +23450,8 @@
   "selectedCount": "5861"
  },
  "meta": {
-  "startDate": "2015-11-08",
-  "timeTaken": "2263357",
+  "startDate": "2015-11-13",
+  "timeTaken": "2367706",
   "browser": "gngr"
  }
 }
