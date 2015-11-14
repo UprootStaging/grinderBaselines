@@ -14070,7 +14070,7 @@
     "id": "border-top-width-applies-to-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-width-095.xht"
    },
    {
@@ -14362,7 +14362,7 @@
     "id": "border-top-color-175.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-top-color-174.xht"
    },
    {
@@ -15430,7 +15430,7 @@
     "id": "border-right-color-175.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-right-color-174.xht"
    },
    {
@@ -16146,7 +16146,7 @@
     "id": "border-left-width-applies-to-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-width-095.xht"
    },
    {
@@ -16410,7 +16410,7 @@
     "id": "border-left-color-175.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-174.xht"
    },
    {
@@ -17386,7 +17386,7 @@
     "id": "border-bottom-width-applies-to-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-width-095.xht"
    },
    {
@@ -17678,7 +17678,7 @@
     "id": "border-bottom-color-175.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-color-174.xht"
    },
    {
@@ -23450,8 +23450,8 @@
   "selectedCount": "5861"
  },
  "meta": {
-  "startDate": "2015-11-13",
-  "timeTaken": "2359666",
+  "startDate": "2015-11-14",
+  "timeTaken": "2390268",
   "browser": "gngr"
  }
 }
