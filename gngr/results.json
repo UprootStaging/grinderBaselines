@@ -17074,27 +17074,27 @@
     "id": "border-dynamic-001.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "border-conflict-style-106.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "border-conflict-style-105.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "border-conflict-style-104.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "border-conflict-style-103.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "border-conflict-style-102.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "border-conflict-style-101.xht"
    },
    {
@@ -23451,7 +23451,7 @@
  },
  "meta": {
   "startDate": "2015-11-14",
-  "timeTaken": "2390268",
+  "timeTaken": "2317665",
   "browser": "gngr"
  }
 }
