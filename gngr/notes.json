@@ -1,5 +1,7 @@
 {
   "z-index-abspos-001.xht" : "stacking context: https://github.com/UprootLabs/gngr/issues/193",
+  "combinator-002.xht" : "margin collapse across siblings",
+  "combinator-003.xht" : "margin collapse across siblings",
   "border-top-width-081.xht" : "[low] https://github.com/radkovo/jStyleParser/issues/44",
   "border-top-width-070.xht" : "[low] https://github.com/radkovo/jStyleParser/issues/44",
   "border-top-width-059.xht" : "[low] https://github.com/radkovo/jStyleParser/issues/44",
