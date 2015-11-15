@@ -2298,7 +2298,7 @@
     "id": "right-offset-percentage-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "right-offset-004.xht"
    },
    {
@@ -7622,7 +7622,7 @@
     "id": "line-height-103.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "line-height-102.xht"
    },
    {
@@ -7630,11 +7630,11 @@
     "id": "line-height-101.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "line-height-095.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "line-height-094.xht"
    },
    {
@@ -7690,7 +7690,7 @@
     "id": "line-height-070.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "line-height-069.xht"
    },
    {
@@ -11654,7 +11654,7 @@
     "id": "containing-block-019.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "containing-block-010.xht"
    },
    {
@@ -11662,7 +11662,7 @@
     "id": "containing-block-009.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "containing-block-008.xht"
    },
    {
@@ -12646,7 +12646,7 @@
     "id": "clear-float-006.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "clear-float-005.xht"
    },
    {
@@ -12766,7 +12766,7 @@
     "id": "clear-003.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "clear-002.xht"
    },
    {
@@ -22630,7 +22630,7 @@
     "id": "abs-pos-non-replaced-vrl-190.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "abs-pos-non-replaced-vrl-188.xht"
    },
    {
@@ -22642,7 +22642,7 @@
     "id": "abs-pos-non-replaced-vrl-184.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "abs-pos-non-replaced-vrl-182.xht"
    },
    {
@@ -23014,7 +23014,7 @@
     "id": "abs-pos-non-replaced-vlr-223.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "abs-pos-non-replaced-vlr-221.xht"
    },
    {
@@ -23026,7 +23026,7 @@
     "id": "abs-pos-non-replaced-vlr-217.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "abs-pos-non-replaced-vlr-215.xht"
    },
    {
@@ -23078,7 +23078,7 @@
     "id": "abs-pos-non-replaced-vlr-191.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "abs-pos-non-replaced-vlr-189.xht"
    },
    {
@@ -23090,7 +23090,7 @@
     "id": "abs-pos-non-replaced-vlr-185.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "abs-pos-non-replaced-vlr-183.xht"
    },
    {
@@ -23451,7 +23451,7 @@
  },
  "meta": {
   "startDate": "2015-11-15",
-  "timeTaken": "2280661",
+  "timeTaken": "2328152",
   "browser": "gngr"
  }
 }
