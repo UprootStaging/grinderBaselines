@@ -4,6 +4,7 @@
   "combinator-003.xht" : "margin collapse across siblings",
   "selectors-parsing-001.xht" : "[low] https://github.com/radkovo/jStyleParser/issues/46",
   "run-in-text-between-005.xht" : "[low] fails on Chromium too",
+  "numbers-units-015.xht" : "[low] depends on https://github.com/w3c/csswg-test/issues/943",
   "border-top-width-081.xht" : "[low] https://github.com/radkovo/jStyleParser/issues/44",
   "border-top-width-070.xht" : "[low] https://github.com/radkovo/jStyleParser/issues/44",
   "border-top-width-059.xht" : "[low] https://github.com/radkovo/jStyleParser/issues/44",
