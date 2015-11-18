@@ -1914,7 +1914,7 @@
     "id": "run-in-listitem-between-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "run-in-listitem-between-001.xht"
    },
    {
@@ -4602,15 +4602,15 @@
     "id": "numbers-units-011.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "numbers-units-010.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "numbers-units-009.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "numbers-units-007.xht"
    },
    {
@@ -7502,7 +7502,7 @@
     "id": "list-style-image-004.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "list-style-021.xht"
    },
    {
@@ -9426,7 +9426,7 @@
     "id": "font-size-123.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-size-122.xht"
    },
    {
@@ -9738,7 +9738,7 @@
     "id": "font-family-invalid-characters-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-family-applies-to-017.xht"
    },
    {
@@ -9770,7 +9770,7 @@
     "id": "font-family-applies-to-008.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-family-applies-to-007.xht"
    },
    {
@@ -9778,15 +9778,15 @@
     "id": "font-family-applies-to-006.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-family-applies-to-005.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-family-applies-to-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-family-applies-to-001.xht"
    },
    {
@@ -23451,7 +23451,7 @@
  },
  "meta": {
   "startDate": "2015-11-18",
-  "timeTaken": "2362634",
+  "timeTaken": "2279538",
   "browser": "gngr"
  }
 }
