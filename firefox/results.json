@@ -450,7 +450,7 @@
     "id": "whitespace-001.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "white-space-processing-049.xht"
    },
    {
@@ -478,7 +478,7 @@
     "id": "white-space-nowrap-005.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "white-space-nowrap-001.xht"
    },
    {
@@ -950,7 +950,7 @@
     "id": "universal-selector-003.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "universal-selector-002.xht"
    },
    {
@@ -1588,6 +1588,614 @@
    {
     "pass": "true",
     "id": "table-backgrounds-bc-cell-001.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-206.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-205.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-204.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-203.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-202.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-201.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-200.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-199.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-198.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-197.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-196.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-195.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-194.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-193.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-192.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-191.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-190.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-189.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-188.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-187.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-186.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-185.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-184.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-183.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-182.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-181.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-180.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-179.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-178.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-177.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-176.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-175.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-174.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-173.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-172.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-171.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-170.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-169.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-168.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-167.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-166.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-165.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-164.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-163.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-162.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-161.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-160.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-159.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-158.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-157.xht"
+   },
+   {
+    "pass": "false",
+    "id": "table-anonymous-objects-156.xht"
+   },
+   {
+    "pass": "false",
+    "id": "table-anonymous-objects-155.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-154.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-153.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-152.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-151.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-150.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-149.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-148.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-147.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-146.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-145.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-144.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-143.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-142.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-141.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-140.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-139.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-138.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-137.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-136.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-135.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-134.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-133.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-132.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-131.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-130.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-129.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-128.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-127.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-126.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-125.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-124.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-123.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-122.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-121.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-120.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-119.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-118.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-117.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-116.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-115.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-114.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-113.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-112.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-111.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-110.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-109.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-108.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-107.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-106.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-105.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-104.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-103.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-102.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-101.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-100.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-099.xht"
+   },
+   {
+    "pass": "false",
+    "id": "table-anonymous-objects-098.xht"
+   },
+   {
+    "pass": "false",
+    "id": "table-anonymous-objects-097.xht"
+   },
+   {
+    "pass": "false",
+    "id": "table-anonymous-objects-096.xht"
+   },
+   {
+    "pass": "false",
+    "id": "table-anonymous-objects-095.xht"
+   },
+   {
+    "pass": "false",
+    "id": "table-anonymous-objects-094.xht"
+   },
+   {
+    "pass": "false",
+    "id": "table-anonymous-objects-093.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-092.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-091.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-090.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-089.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-088.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-087.xht"
+   },
+   {
+    "pass": "false",
+    "id": "table-anonymous-objects-086.xht"
+   },
+   {
+    "pass": "false",
+    "id": "table-anonymous-objects-085.xht"
+   },
+   {
+    "pass": "false",
+    "id": "table-anonymous-objects-084.xht"
+   },
+   {
+    "pass": "false",
+    "id": "table-anonymous-objects-083.xht"
+   },
+   {
+    "pass": "false",
+    "id": "table-anonymous-objects-082.xht"
+   },
+   {
+    "pass": "false",
+    "id": "table-anonymous-objects-081.xht"
+   },
+   {
+    "pass": "false",
+    "id": "table-anonymous-objects-080.xht"
+   },
+   {
+    "pass": "false",
+    "id": "table-anonymous-objects-079.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-078.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-077.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-076.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-075.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-074.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-073.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-072.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-071.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-070.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-069.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-068.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-067.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-066.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-065.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-020.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-019.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-018.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-017.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-016.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-015.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-012.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-011.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-010.xht"
+   },
+   {
+    "pass": "true",
+    "id": "table-anonymous-objects-009.xht"
    },
    {
     "pass": "true",
@@ -2560,6 +3168,10 @@
    {
     "pass": "true",
     "id": "right-004.xht"
+   },
+   {
+    "pass": "true",
+    "id": "reset-counter-001.xht"
    },
    {
     "pass": "true",
@@ -4491,6 +5103,22 @@
    },
    {
     "pass": "true",
+    "id": "outline-color-130.xht"
+   },
+   {
+    "pass": "true",
+    "id": "outline-color-122.xht"
+   },
+   {
+    "pass": "true",
+    "id": "outline-color-121.xht"
+   },
+   {
+    "pass": "true",
+    "id": "outline-color-119.xht"
+   },
+   {
+    "pass": "true",
     "id": "outline-color-115.xht"
    },
    {
@@ -4503,7 +5131,31 @@
    },
    {
     "pass": "true",
+    "id": "outline-color-112.xht"
+   },
+   {
+    "pass": "true",
+    "id": "outline-color-111.xht"
+   },
+   {
+    "pass": "true",
     "id": "outline-color-110.xht"
+   },
+   {
+    "pass": "true",
+    "id": "outline-color-109.xht"
+   },
+   {
+    "pass": "true",
+    "id": "outline-color-102.xht"
+   },
+   {
+    "pass": "true",
+    "id": "outline-color-101.xht"
+   },
+   {
+    "pass": "true",
+    "id": "outline-color-099.xht"
    },
    {
     "pass": "true",
@@ -4519,7 +5171,31 @@
    },
    {
     "pass": "true",
+    "id": "outline-color-092.xht"
+   },
+   {
+    "pass": "true",
+    "id": "outline-color-091.xht"
+   },
+   {
+    "pass": "true",
     "id": "outline-color-090.xht"
+   },
+   {
+    "pass": "true",
+    "id": "outline-color-089.xht"
+   },
+   {
+    "pass": "true",
+    "id": "outline-color-082.xht"
+   },
+   {
+    "pass": "true",
+    "id": "outline-color-081.xht"
+   },
+   {
+    "pass": "true",
+    "id": "outline-color-079.xht"
    },
    {
     "pass": "true",
@@ -4535,7 +5211,35 @@
    },
    {
     "pass": "true",
+    "id": "outline-color-072.xht"
+   },
+   {
+    "pass": "true",
+    "id": "outline-color-071.xht"
+   },
+   {
+    "pass": "true",
     "id": "outline-color-070.xht"
+   },
+   {
+    "pass": "true",
+    "id": "outline-color-069.xht"
+   },
+   {
+    "pass": "true",
+    "id": "outline-color-062.xht"
+   },
+   {
+    "pass": "true",
+    "id": "outline-color-061.xht"
+   },
+   {
+    "pass": "true",
+    "id": "outline-color-059.xht"
+   },
+   {
+    "pass": "true",
+    "id": "outline-color-058.xht"
    },
    {
     "pass": "true",
@@ -4551,7 +5255,79 @@
    },
    {
     "pass": "true",
+    "id": "outline-color-051.xht"
+   },
+   {
+    "pass": "true",
+    "id": "outline-color-050.xht"
+   },
+   {
+    "pass": "true",
     "id": "outline-color-049.xht"
+   },
+   {
+    "pass": "true",
+    "id": "outline-color-048.xht"
+   },
+   {
+    "pass": "true",
+    "id": "outline-color-047.xht"
+   },
+   {
+    "pass": "true",
+    "id": "outline-color-046.xht"
+   },
+   {
+    "pass": "true",
+    "id": "outline-color-041.xht"
+   },
+   {
+    "pass": "true",
+    "id": "outline-color-036.xht"
+   },
+   {
+    "pass": "true",
+    "id": "outline-color-031.xht"
+   },
+   {
+    "pass": "true",
+    "id": "outline-color-030.xht"
+   },
+   {
+    "pass": "true",
+    "id": "outline-color-025.xht"
+   },
+   {
+    "pass": "true",
+    "id": "outline-color-024.xht"
+   },
+   {
+    "pass": "true",
+    "id": "outline-color-023.xht"
+   },
+   {
+    "pass": "true",
+    "id": "outline-color-018.xht"
+   },
+   {
+    "pass": "true",
+    "id": "outline-color-013.xht"
+   },
+   {
+    "pass": "true",
+    "id": "outline-color-008.xht"
+   },
+   {
+    "pass": "true",
+    "id": "outline-color-007.xht"
+   },
+   {
+    "pass": "true",
+    "id": "outline-color-002.xht"
+   },
+   {
+    "pass": "true",
+    "id": "outline-color-001.xht"
    },
    {
     "pass": "true",
@@ -7602,15 +8378,15 @@
     "id": "line-height-121.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "line-height-112.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "line-height-106.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "line-height-105.xht"
    },
    {
@@ -7630,11 +8406,11 @@
     "id": "line-height-101.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "line-height-095.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "line-height-094.xht"
    },
    {
@@ -7650,11 +8426,11 @@
     "id": "line-height-090.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "line-height-084.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "line-height-083.xht"
    },
    {
@@ -7674,11 +8450,11 @@
     "id": "line-height-079.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "line-height-073.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "line-height-072.xht"
    },
    {
@@ -7690,7 +8466,7 @@
     "id": "line-height-070.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "line-height-069.xht"
    },
    {
@@ -7698,11 +8474,11 @@
     "id": "line-height-068.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "line-height-062.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "line-height-061.xht"
    },
    {
@@ -7722,11 +8498,11 @@
     "id": "line-height-057.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "line-height-051.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "line-height-050.xht"
    },
    {
@@ -7742,11 +8518,11 @@
     "id": "line-height-046.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "line-height-040.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "line-height-039.xht"
    },
    {
@@ -7762,11 +8538,11 @@
     "id": "line-height-035.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "line-height-029.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "line-height-028.xht"
    },
    {
@@ -7786,11 +8562,11 @@
     "id": "line-height-024.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "line-height-018.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "line-height-017.xht"
    },
    {
@@ -7806,11 +8582,11 @@
     "id": "line-height-013.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "line-height-007.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "line-height-006.xht"
    },
    {
@@ -7836,6 +8612,54 @@
    {
     "pass": "false",
     "id": "line-breaking-bidi-001.xht"
+   },
+   {
+    "pass": "false",
+    "id": "line-box-height-vrl-012.xht"
+   },
+   {
+    "pass": "false",
+    "id": "line-box-height-vrl-010.xht"
+   },
+   {
+    "pass": "false",
+    "id": "line-box-height-vrl-008.xht"
+   },
+   {
+    "pass": "false",
+    "id": "line-box-height-vrl-006.xht"
+   },
+   {
+    "pass": "false",
+    "id": "line-box-height-vrl-004.xht"
+   },
+   {
+    "pass": "false",
+    "id": "line-box-height-vrl-002.xht"
+   },
+   {
+    "pass": "false",
+    "id": "line-box-height-vlr-013.xht"
+   },
+   {
+    "pass": "false",
+    "id": "line-box-height-vlr-011.xht"
+   },
+   {
+    "pass": "false",
+    "id": "line-box-height-vlr-009.xht"
+   },
+   {
+    "pass": "false",
+    "id": "line-box-height-vlr-007.xht"
+   },
+   {
+    "pass": "false",
+    "id": "line-box-height-vlr-005.xht"
+   },
+   {
+    "pass": "false",
+    "id": "line-box-height-vlr-003.xht"
    },
    {
     "pass": "true",
@@ -8715,6 +9539,10 @@
    },
    {
     "pass": "true",
+    "id": "increment-counter-001.xht"
+   },
+   {
+    "pass": "true",
     "id": "import-001.xht"
    },
    {
@@ -9426,7 +10254,7 @@
     "id": "font-size-123.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "font-size-122.xht"
    },
    {
@@ -10122,11 +10950,11 @@
     "id": "floats-135.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "floats-134.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "floats-133.xht"
    },
    {
@@ -10902,7 +11730,7 @@
     "id": "first-letter-dynamic-002.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "first-letter-dynamic-001.xht"
    },
    {
@@ -11467,7 +12295,127 @@
    },
    {
     "pass": "true",
+    "id": "counter-reset-visibility-001.xht"
+   },
+   {
+    "pass": "true",
     "id": "counter-reset-increment-002.xht"
+   },
+   {
+    "pass": "true",
+    "id": "counter-reset-applies-to-015.xht"
+   },
+   {
+    "pass": "true",
+    "id": "counter-reset-applies-to-014.xht"
+   },
+   {
+    "pass": "true",
+    "id": "counter-reset-applies-to-013.xht"
+   },
+   {
+    "pass": "true",
+    "id": "counter-reset-applies-to-012.xht"
+   },
+   {
+    "pass": "true",
+    "id": "counter-reset-applies-to-011.xht"
+   },
+   {
+    "pass": "true",
+    "id": "counter-reset-applies-to-009.xht"
+   },
+   {
+    "pass": "true",
+    "id": "counter-reset-applies-to-008.xht"
+   },
+   {
+    "pass": "true",
+    "id": "counter-reset-applies-to-007.xht"
+   },
+   {
+    "pass": "true",
+    "id": "counter-reset-applies-to-006.xht"
+   },
+   {
+    "pass": "true",
+    "id": "counter-reset-applies-to-005.xht"
+   },
+   {
+    "pass": "true",
+    "id": "counter-reset-applies-to-004.xht"
+   },
+   {
+    "pass": "true",
+    "id": "counter-reset-applies-to-003.xht"
+   },
+   {
+    "pass": "true",
+    "id": "counter-reset-applies-to-002.xht"
+   },
+   {
+    "pass": "true",
+    "id": "counter-reset-applies-to-001.xht"
+   },
+   {
+    "pass": "true",
+    "id": "counter-increment-visibility-001.xht"
+   },
+   {
+    "pass": "true",
+    "id": "counter-increment-applies-to-015.xht"
+   },
+   {
+    "pass": "true",
+    "id": "counter-increment-applies-to-014.xht"
+   },
+   {
+    "pass": "true",
+    "id": "counter-increment-applies-to-013.xht"
+   },
+   {
+    "pass": "true",
+    "id": "counter-increment-applies-to-012.xht"
+   },
+   {
+    "pass": "true",
+    "id": "counter-increment-applies-to-011.xht"
+   },
+   {
+    "pass": "true",
+    "id": "counter-increment-applies-to-009.xht"
+   },
+   {
+    "pass": "true",
+    "id": "counter-increment-applies-to-008.xht"
+   },
+   {
+    "pass": "true",
+    "id": "counter-increment-applies-to-007.xht"
+   },
+   {
+    "pass": "true",
+    "id": "counter-increment-applies-to-006.xht"
+   },
+   {
+    "pass": "true",
+    "id": "counter-increment-applies-to-005.xht"
+   },
+   {
+    "pass": "true",
+    "id": "counter-increment-applies-to-004.xht"
+   },
+   {
+    "pass": "true",
+    "id": "counter-increment-applies-to-003.xht"
+   },
+   {
+    "pass": "true",
+    "id": "counter-increment-applies-to-002.xht"
+   },
+   {
+    "pass": "true",
+    "id": "counter-increment-applies-to-001.xht"
    },
    {
     "pass": "true",
@@ -13082,7 +14030,7 @@
     "id": "c5510-padn-000.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "c5510-ipadn-000.xht"
    },
    {
@@ -13110,7 +14058,7 @@
     "id": "c5509-ipadn-l-003.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "c5509-ipadn-l-002.xht"
    },
    {
@@ -13126,7 +14074,7 @@
     "id": "c5508-ipadn-b-003.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "c5508-ipadn-b-002.xht"
    },
    {
@@ -13178,7 +14126,7 @@
     "id": "c5506-padn-t-000.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "c5506-ipadn-t-002.xht"
    },
    {
@@ -13202,7 +14150,7 @@
     "id": "c5505-mrgn-000.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "c5505-imrgn-000.xht"
    },
    {
@@ -13218,7 +14166,7 @@
     "id": "c5504-mrgn-l-000.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "c5504-imrgn-l-006.xht"
    },
    {
@@ -13234,7 +14182,7 @@
     "id": "c5504-imrgn-l-003.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "c5504-imrgn-l-002.xht"
    },
    {
@@ -13266,7 +14214,7 @@
     "id": "c5502-mrgn-r-000.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "c5502-imrgn-r-006.xht"
    },
    {
@@ -19170,6 +20118,10 @@
     "id": "bidi-001.xht"
    },
    {
+    "pass": "false",
+    "id": "before-first-letter-selector-001.xht"
+   },
+   {
     "pass": "true",
     "id": "before-content-display-018.xht"
    },
@@ -19244,6 +20196,10 @@
    {
     "pass": "true",
     "id": "before-after-table-parts-001.xht"
+   },
+   {
+    "pass": "true",
+    "id": "before-after-selector-001.xht"
    },
    {
     "pass": "true",
@@ -23446,12 +24402,12 @@
     "id": "abs-pos-non-replaced-vlr-003.xht"
    }
   ],
-  "totalCount": "5861",
-  "selectedCount": "5861"
+  "totalCount": "6100",
+  "selectedCount": "6100"
  },
  "meta": {
-  "startDate": "2015-10-27",
-  "timeTaken": "3127259",
+  "startDate": "2015-11-18",
+  "timeTaken": "3282434",
   "browser": "firefox"
  }
 }
