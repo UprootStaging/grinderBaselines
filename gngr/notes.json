@@ -10,6 +10,10 @@
 
   "numbers-units-015.xht" : "[low] depends on https://github.com/w3c/csswg-test/issues/943",
   "numbers-units-021.xht" : "[low] depends on https://github.com/radkovo/jStyleParser/issues/50",
+  "inline-table-width-002b.xht" : "pixel mismatch",
+  "inline-table-width-002a.xht" : "pixel mismatch",
+  "inline-table-002b.xht" : "pixel mismatch",
+  "inline-table-002a.xht" : "pixel mismatch",
 
   "pseudo-001.xht" : "[low] fails in chromium",
   "pseudo-014.xht" : "[low] fails in chromium",
