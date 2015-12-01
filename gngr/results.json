@@ -11034,11 +11034,11 @@
     "id": "floats-041.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "floats-040.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "floats-039.xht"
    },
    {
@@ -11110,7 +11110,7 @@
     "id": "floats-008.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "floats-007.xht"
    },
    {
@@ -13570,7 +13570,7 @@
     "id": "clearance-006.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "clear-inline-001.xht"
    },
    {
@@ -13710,7 +13710,7 @@
     "id": "clear-004.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "clear-003.xht"
    },
    {
@@ -24406,8 +24406,8 @@
   "selectedCount": "6100"
  },
  "meta": {
-  "startDate": "2015-11-19",
-  "timeTaken": "2330128",
+  "startDate": "2015-12-01",
+  "timeTaken": "2314458",
   "browser": "gngr"
  }
 }
