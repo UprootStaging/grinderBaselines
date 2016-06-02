@@ -5422,7 +5422,7 @@
     "id": "min-width-percentage-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-width-percentage-001.xht"
    },
    {
@@ -5434,11 +5434,11 @@
     "id": "min-width-applies-to-015.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-width-applies-to-012.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-width-applies-to-009.xht"
    },
    {
@@ -5462,7 +5462,7 @@
     "id": "min-width-applies-to-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-width-103.xht"
    },
    {
@@ -5478,11 +5478,11 @@
     "id": "min-width-100.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-width-095.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-width-094.xht"
    },
    {
@@ -5494,7 +5494,7 @@
     "id": "min-width-092.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-width-091.xht"
    },
    {
@@ -5506,11 +5506,11 @@
     "id": "min-width-089.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-width-084.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-width-083.xht"
    },
    {
@@ -5522,7 +5522,7 @@
     "id": "min-width-081.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-width-080.xht"
    },
    {
@@ -5534,11 +5534,11 @@
     "id": "min-width-078.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-width-073.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-width-072.xht"
    },
    {
@@ -5550,7 +5550,7 @@
     "id": "min-width-070.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-width-069.xht"
    },
    {
@@ -5562,11 +5562,11 @@
     "id": "min-width-067.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-width-062.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-width-061.xht"
    },
    {
@@ -5578,7 +5578,7 @@
     "id": "min-width-059.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-width-058.xht"
    },
    {
@@ -5590,11 +5590,11 @@
     "id": "min-width-056.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-width-051.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-width-050.xht"
    },
    {
@@ -5606,7 +5606,7 @@
     "id": "min-width-048.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-width-047.xht"
    },
    {
@@ -5618,11 +5618,11 @@
     "id": "min-width-045.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-width-040.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-width-039.xht"
    },
    {
@@ -5634,7 +5634,7 @@
     "id": "min-width-037.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-width-036.xht"
    },
    {
@@ -5646,11 +5646,11 @@
     "id": "min-width-034.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-width-029.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-width-028.xht"
    },
    {
@@ -5662,7 +5662,7 @@
     "id": "min-width-026.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-width-025.xht"
    },
    {
@@ -5674,11 +5674,11 @@
     "id": "min-width-023.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-width-018.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-width-017.xht"
    },
    {
@@ -5698,11 +5698,11 @@
     "id": "min-width-012.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-width-007.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-width-006.xht"
    },
    {
@@ -5714,7 +5714,7 @@
     "id": "min-width-004.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-width-003.xht"
    },
    {
@@ -5842,7 +5842,7 @@
     "id": "min-height-081.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-080.xht"
    },
    {
@@ -5898,7 +5898,7 @@
     "id": "min-height-059.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-058.xht"
    },
    {
@@ -5926,7 +5926,7 @@
     "id": "min-height-048.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-047.xht"
    },
    {
@@ -5954,7 +5954,7 @@
     "id": "min-height-037.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-036.xht"
    },
    {
@@ -5982,7 +5982,7 @@
     "id": "min-height-026.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-025.xht"
    },
    {
@@ -24406,8 +24406,8 @@
   "selectedCount": "6100"
  },
  "meta": {
-  "startDate": "2015-12-01",
-  "timeTaken": "2314458",
+  "startDate": "2016-06-02",
+  "timeTaken": "2266360",
   "browser": "gngr"
  }
 }
