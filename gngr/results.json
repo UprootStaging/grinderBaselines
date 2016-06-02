@@ -6094,7 +6094,7 @@
     "id": "media-dependency-006.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "media-dependency-005.xht"
    },
    {
@@ -6106,7 +6106,7 @@
     "id": "media-dependency-003.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "media-dependency-002.xht"
    },
    {
@@ -13766,7 +13766,7 @@
     "id": "charset-attr-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "case-sensitive-007.xht"
    },
    {
@@ -22318,11 +22318,11 @@
     "id": "at-import-007.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "at-import-006.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "at-import-005.xht"
    },
    {
@@ -22434,11 +22434,11 @@
     "id": "at-charset-054.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "at-charset-053.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "at-charset-052.xht"
    },
    {
@@ -22490,11 +22490,11 @@
     "id": "at-charset-040.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "at-charset-038.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "at-charset-037.xht"
    },
    {
