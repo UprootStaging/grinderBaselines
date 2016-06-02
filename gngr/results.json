@@ -10266,159 +10266,159 @@
     "id": "font-size-120.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-size-102.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-size-101.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-size-100.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-size-093.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-size-092.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-size-090.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-size-089.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-size-082.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-size-081.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-size-079.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-size-078.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-size-071.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-size-070.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-size-068.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-size-067.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-size-060.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-size-059.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-size-057.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-size-056.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-size-049.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-size-048.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-size-046.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-size-045.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-size-038.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-size-037.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-size-035.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-size-034.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-size-027.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-size-026.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-size-024.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-size-023.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-size-016.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-size-015.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-size-013.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-size-012.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-size-005.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-size-004.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-size-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-size-001.xht"
    },
    {
@@ -24407,7 +24407,7 @@
  },
  "meta": {
   "startDate": "2016-06-02",
-  "timeTaken": "2266360",
+  "timeTaken": "2437810",
   "browser": "gngr"
  }
 }
