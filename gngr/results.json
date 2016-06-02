@@ -14882,19 +14882,19 @@
     "id": "bottom-004.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-width-shorthand-004.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-width-shorthand-003.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-width-shorthand-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-width-shorthand-001.xht"
    },
    {
@@ -18114,7 +18114,7 @@
     "id": "border-conflict-element-001a.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-color-shorthand-001.xht"
    },
    {
@@ -18178,7 +18178,7 @@
     "id": "border-color-010.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-color-006.xht"
    },
    {
@@ -18186,7 +18186,7 @@
     "id": "border-color-005.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-color-001.xht"
    },
    {
@@ -24407,7 +24407,7 @@
  },
  "meta": {
   "startDate": "2016-06-02",
-  "timeTaken": "2437810",
+  "timeTaken": "2280015",
   "browser": "gngr"
  }
 }
