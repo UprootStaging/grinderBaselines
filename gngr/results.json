@@ -1378,7 +1378,7 @@
     "id": "text-indent-overflow-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "text-indent-intrinsic-004.xht"
    },
    {
@@ -1386,11 +1386,11 @@
     "id": "text-indent-intrinsic-003.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "text-indent-intrinsic-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "text-indent-intrinsic-001.xht"
    },
    {
@@ -1602,7 +1602,7 @@
     "id": "table-anonymous-objects-204.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "table-anonymous-objects-203.xht"
    },
    {
@@ -1666,7 +1666,7 @@
     "id": "table-anonymous-objects-188.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "table-anonymous-objects-187.xht"
    },
    {
@@ -1682,7 +1682,7 @@
     "id": "table-anonymous-objects-184.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "table-anonymous-objects-183.xht"
    },
    {
@@ -8618,7 +8618,7 @@
     "id": "line-box-height-vrl-012.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "line-box-height-vrl-010.xht"
    },
    {
@@ -8626,7 +8626,7 @@
     "id": "line-box-height-vrl-008.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "line-box-height-vrl-006.xht"
    },
    {
@@ -8634,7 +8634,7 @@
     "id": "line-box-height-vrl-004.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "line-box-height-vrl-002.xht"
    },
    {
@@ -8642,7 +8642,7 @@
     "id": "line-box-height-vlr-013.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "line-box-height-vlr-011.xht"
    },
    {
@@ -8650,7 +8650,7 @@
     "id": "line-box-height-vlr-009.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "line-box-height-vlr-007.xht"
    },
    {
@@ -8658,7 +8658,7 @@
     "id": "line-box-height-vlr-005.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "line-box-height-vlr-003.xht"
    },
    {
@@ -10250,7 +10250,7 @@
     "id": "font-size-124.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-size-123.xht"
    },
    {
@@ -10262,7 +10262,7 @@
     "id": "font-size-121.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-size-120.xht"
    },
    {
@@ -10446,15 +10446,15 @@
     "id": "font-family-rule-001.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "font-family-name-024.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-family-name-023.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-family-name-022.xht"
    },
    {
@@ -10462,19 +10462,19 @@
     "id": "font-family-name-021.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-family-name-020.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-family-name-019.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-family-name-018.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-family-name-017.xht"
    },
    {
@@ -11690,27 +11690,27 @@
     "id": "first-letter-nested-007.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "first-letter-nested-006.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "first-letter-nested-005.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "first-letter-nested-004.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "first-letter-nested-003.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "first-letter-nested-002.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "first-letter-nested-001.xht"
    },
    {
@@ -19386,7 +19386,7 @@
     "id": "blocks-017.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "blocks-016.xht"
    },
    {
@@ -19398,7 +19398,7 @@
     "id": "blocks-014.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "blocks-013.xht"
    },
    {
@@ -22974,7 +22974,7 @@
     "id": "abspos-009.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "abspos-008.xht"
    },
    {
@@ -24407,7 +24407,7 @@
  },
  "meta": {
   "startDate": "2016-06-03",
-  "timeTaken": "2409316",
+  "timeTaken": "2319201",
   "browser": "gngr"
  }
 }
