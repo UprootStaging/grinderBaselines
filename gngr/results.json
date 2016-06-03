@@ -14310,7 +14310,7 @@
     "id": "c536-bgpos-000.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c534-bgreps-005.xht"
    },
    {
@@ -14318,11 +14318,11 @@
     "id": "c534-bgreps-004.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c534-bgreps-003.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c534-bgreps-002.xht"
    },
    {
@@ -21726,7 +21726,7 @@
     "id": "background-applies-to-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-329.xht"
    },
    {
@@ -21786,7 +21786,7 @@
     "id": "background-184.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-182.xht"
    },
    {
@@ -21930,7 +21930,7 @@
     "id": "background-090.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-087.xht"
    },
    {
@@ -24406,8 +24406,8 @@
   "selectedCount": "6100"
  },
  "meta": {
-  "startDate": "2016-06-02",
-  "timeTaken": "2208972",
+  "startDate": "2016-06-03",
+  "timeTaken": "2409316",
   "browser": "gngr"
  }
 }
