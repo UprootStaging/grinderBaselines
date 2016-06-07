@@ -3086,7 +3086,7 @@
     "id": "root-canvas-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "root-box-003.xht"
    },
    {
@@ -10330,7 +10330,7 @@
     "id": "height-percentage-004.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "height-percentage-003a.xht"
    },
    {
@@ -16962,7 +16962,7 @@
     "id": "c526-font-sz-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c45-bg-canvas-000.xht"
    },
    {
@@ -24238,7 +24238,7 @@
     "id": "background-color-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-body-001.xht"
    },
    {
@@ -27035,7 +27035,7 @@
  },
  "meta": {
   "startDate": "2016-06-07",
-  "timeTaken": "2314409",
+  "timeTaken": "2671264",
   "browser": "gngr"
  }
 }
