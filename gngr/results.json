@@ -2,6 +2,10 @@
  "css21-reftests": {
   "results": [
    {
+    "pass": "false",
+    "id": "z-index-dynamic-001.xht"
+   },
+   {
     "pass": "true",
     "id": "z-index-abspos-007.xht"
    },
@@ -142,6 +146,10 @@
     "id": "width-applies-to-012.xht"
    },
    {
+    "pass": "false",
+    "id": "width-applies-to-011.xht"
+   },
+   {
     "pass": "true",
     "id": "width-applies-to-009.xht"
    },
@@ -156,6 +164,10 @@
    {
     "pass": "false",
     "id": "width-applies-to-006.xht"
+   },
+   {
+    "pass": "false",
+    "id": "width-applies-to-005.xht"
    },
    {
     "pass": "false",
@@ -1362,6 +1374,62 @@
     "id": "text-transform-capitalize-001.xht"
    },
    {
+    "pass": "false",
+    "id": "text-transform-applies-to-015.xht"
+   },
+   {
+    "pass": "false",
+    "id": "text-transform-applies-to-014.xht"
+   },
+   {
+    "pass": "false",
+    "id": "text-transform-applies-to-013.xht"
+   },
+   {
+    "pass": "false",
+    "id": "text-transform-applies-to-012.xht"
+   },
+   {
+    "pass": "false",
+    "id": "text-transform-applies-to-011.xht"
+   },
+   {
+    "pass": "false",
+    "id": "text-transform-applies-to-010.xht"
+   },
+   {
+    "pass": "false",
+    "id": "text-transform-applies-to-009.xht"
+   },
+   {
+    "pass": "false",
+    "id": "text-transform-applies-to-008.xht"
+   },
+   {
+    "pass": "true",
+    "id": "text-transform-applies-to-007.xht"
+   },
+   {
+    "pass": "false",
+    "id": "text-transform-applies-to-006.xht"
+   },
+   {
+    "pass": "true",
+    "id": "text-transform-applies-to-005.xht"
+   },
+   {
+    "pass": "true",
+    "id": "text-transform-applies-to-004.xht"
+   },
+   {
+    "pass": "true",
+    "id": "text-transform-applies-to-002.xht"
+   },
+   {
+    "pass": "true",
+    "id": "text-transform-applies-to-001.xht"
+   },
+   {
     "pass": "true",
     "id": "text-indent-wrap-001.xht"
    },
@@ -1406,8 +1474,64 @@
     "id": "text-indent-113.xht"
    },
    {
+    "pass": "true",
+    "id": "text-indent-080.xht"
+   },
+   {
+    "pass": "true",
+    "id": "text-indent-079.xht"
+   },
+   {
+    "pass": "true",
+    "id": "text-indent-068.xht"
+   },
+   {
+    "pass": "true",
+    "id": "text-indent-067.xht"
+   },
+   {
+    "pass": "true",
+    "id": "text-indent-056.xht"
+   },
+   {
+    "pass": "true",
+    "id": "text-indent-055.xht"
+   },
+   {
+    "pass": "true",
+    "id": "text-indent-044.xht"
+   },
+   {
+    "pass": "true",
+    "id": "text-indent-043.xht"
+   },
+   {
+    "pass": "true",
+    "id": "text-indent-032.xht"
+   },
+   {
+    "pass": "true",
+    "id": "text-indent-031.xht"
+   },
+   {
+    "pass": "true",
+    "id": "text-indent-020.xht"
+   },
+   {
+    "pass": "true",
+    "id": "text-indent-019.xht"
+   },
+   {
     "pass": "false",
     "id": "text-indent-012.xht"
+   },
+   {
+    "pass": "true",
+    "id": "text-indent-008.xht"
+   },
+   {
+    "pass": "true",
+    "id": "text-indent-007.xht"
    },
    {
     "pass": "true",
@@ -1420,6 +1544,54 @@
    {
     "pass": "true",
     "id": "text-decoration-image-001.xht"
+   },
+   {
+    "pass": "false",
+    "id": "text-decoration-applies-to-015.xht"
+   },
+   {
+    "pass": "false",
+    "id": "text-decoration-applies-to-014.xht"
+   },
+   {
+    "pass": "false",
+    "id": "text-decoration-applies-to-011.xht"
+   },
+   {
+    "pass": "false",
+    "id": "text-decoration-applies-to-010.xht"
+   },
+   {
+    "pass": "false",
+    "id": "text-decoration-applies-to-009.xht"
+   },
+   {
+    "pass": "false",
+    "id": "text-decoration-applies-to-008.xht"
+   },
+   {
+    "pass": "false",
+    "id": "text-decoration-applies-to-007.xht"
+   },
+   {
+    "pass": "false",
+    "id": "text-decoration-applies-to-006.xht"
+   },
+   {
+    "pass": "true",
+    "id": "text-decoration-applies-to-005.xht"
+   },
+   {
+    "pass": "true",
+    "id": "text-decoration-applies-to-004.xht"
+   },
+   {
+    "pass": "true",
+    "id": "text-decoration-applies-to-002.xht"
+   },
+   {
+    "pass": "true",
+    "id": "text-decoration-applies-to-001.xht"
    },
    {
     "pass": "false",
@@ -2159,6 +2331,30 @@
    },
    {
     "pass": "false",
+    "id": "table-anonymous-objects-064.xht"
+   },
+   {
+    "pass": "false",
+    "id": "table-anonymous-objects-063.xht"
+   },
+   {
+    "pass": "false",
+    "id": "table-anonymous-objects-062.xht"
+   },
+   {
+    "pass": "false",
+    "id": "table-anonymous-objects-061.xht"
+   },
+   {
+    "pass": "false",
+    "id": "table-anonymous-objects-060.xht"
+   },
+   {
+    "pass": "false",
+    "id": "table-anonymous-objects-059.xht"
+   },
+   {
+    "pass": "false",
     "id": "table-anonymous-objects-020.xht"
    },
    {
@@ -2252,6 +2448,10 @@
    {
     "pass": "false",
     "id": "stack-floats-001.xht"
+   },
+   {
+    "pass": "false",
+    "id": "square-brackets-001.xht"
    },
    {
     "pass": "true",
@@ -3256,6 +3456,54 @@
    {
     "pass": "false",
     "id": "relpos-calcs-001.xht"
+   },
+   {
+    "pass": "false",
+    "id": "quotes-applies-to-015.xht"
+   },
+   {
+    "pass": "false",
+    "id": "quotes-applies-to-014.xht"
+   },
+   {
+    "pass": "false",
+    "id": "quotes-applies-to-013.xht"
+   },
+   {
+    "pass": "false",
+    "id": "quotes-applies-to-012.xht"
+   },
+   {
+    "pass": "false",
+    "id": "quotes-applies-to-011.xht"
+   },
+   {
+    "pass": "false",
+    "id": "quotes-applies-to-009.xht"
+   },
+   {
+    "pass": "false",
+    "id": "quotes-applies-to-008.xht"
+   },
+   {
+    "pass": "false",
+    "id": "quotes-applies-to-007.xht"
+   },
+   {
+    "pass": "false",
+    "id": "quotes-applies-to-004.xht"
+   },
+   {
+    "pass": "false",
+    "id": "quotes-applies-to-003.xht"
+   },
+   {
+    "pass": "false",
+    "id": "quotes-applies-to-002.xht"
+   },
+   {
+    "pass": "false",
+    "id": "quotes-applies-to-001.xht"
    },
    {
     "pass": "false",
@@ -5411,6 +5659,10 @@
    },
    {
     "pass": "false",
+    "id": "multiple-content-values-001.xht"
+   },
+   {
+    "pass": "false",
     "id": "multicol-height-002.xht"
    },
    {
@@ -5434,8 +5686,20 @@
     "id": "min-width-applies-to-015.xht"
    },
    {
+    "pass": "false",
+    "id": "min-width-applies-to-014.xht"
+   },
+   {
+    "pass": "false",
+    "id": "min-width-applies-to-013.xht"
+   },
+   {
     "pass": "true",
     "id": "min-width-applies-to-012.xht"
+   },
+   {
+    "pass": "false",
+    "id": "min-width-applies-to-011.xht"
    },
    {
     "pass": "true",
@@ -5444,6 +5708,18 @@
    {
     "pass": "true",
     "id": "min-width-applies-to-008.xht"
+   },
+   {
+    "pass": "false",
+    "id": "min-width-applies-to-007.xht"
+   },
+   {
+    "pass": "false",
+    "id": "min-width-applies-to-006.xht"
+   },
+   {
+    "pass": "false",
+    "id": "min-width-applies-to-005.xht"
    },
    {
     "pass": "true",
@@ -5744,6 +6020,10 @@
    {
     "pass": "false",
     "id": "min-height-applies-to-012.xht"
+   },
+   {
+    "pass": "false",
+    "id": "min-height-applies-to-011.xht"
    },
    {
     "pass": "false",
@@ -6130,8 +6410,20 @@
     "id": "max-width-applies-to-015.xht"
    },
    {
+    "pass": "false",
+    "id": "max-width-applies-to-014.xht"
+   },
+   {
+    "pass": "false",
+    "id": "max-width-applies-to-013.xht"
+   },
+   {
     "pass": "true",
     "id": "max-width-applies-to-012.xht"
+   },
+   {
+    "pass": "false",
+    "id": "max-width-applies-to-011.xht"
    },
    {
     "pass": "true",
@@ -6140,6 +6432,18 @@
    {
     "pass": "true",
     "id": "max-width-applies-to-008.xht"
+   },
+   {
+    "pass": "false",
+    "id": "max-width-applies-to-007.xht"
+   },
+   {
+    "pass": "false",
+    "id": "max-width-applies-to-006.xht"
+   },
+   {
+    "pass": "false",
+    "id": "max-width-applies-to-005.xht"
    },
    {
     "pass": "false",
@@ -6472,6 +6776,10 @@
    {
     "pass": "true",
     "id": "max-height-applies-to-012.xht"
+   },
+   {
+    "pass": "false",
+    "id": "max-height-applies-to-011.xht"
    },
    {
     "pass": "true",
@@ -7787,6 +8095,10 @@
    },
    {
     "pass": "false",
+    "id": "margin-collapse-021.xht"
+   },
+   {
+    "pass": "false",
     "id": "margin-collapse-020.xht"
    },
    {
@@ -8263,6 +8575,58 @@
    },
    {
     "pass": "false",
+    "id": "list-style-type-applies-to-015.xht"
+   },
+   {
+    "pass": "false",
+    "id": "list-style-type-applies-to-014.xht"
+   },
+   {
+    "pass": "false",
+    "id": "list-style-type-applies-to-013.xht"
+   },
+   {
+    "pass": "false",
+    "id": "list-style-type-applies-to-012.xht"
+   },
+   {
+    "pass": "false",
+    "id": "list-style-type-applies-to-011.xht"
+   },
+   {
+    "pass": "false",
+    "id": "list-style-type-applies-to-010.xht"
+   },
+   {
+    "pass": "false",
+    "id": "list-style-type-applies-to-009.xht"
+   },
+   {
+    "pass": "false",
+    "id": "list-style-type-applies-to-008.xht"
+   },
+   {
+    "pass": "false",
+    "id": "list-style-type-applies-to-007.xht"
+   },
+   {
+    "pass": "false",
+    "id": "list-style-type-applies-to-004.xht"
+   },
+   {
+    "pass": "false",
+    "id": "list-style-type-applies-to-003.xht"
+   },
+   {
+    "pass": "false",
+    "id": "list-style-type-applies-to-002.xht"
+   },
+   {
+    "pass": "false",
+    "id": "list-style-type-applies-to-001.xht"
+   },
+   {
+    "pass": "false",
     "id": "list-style-position-024.xht"
    },
    {
@@ -8276,6 +8640,58 @@
    {
     "pass": "true",
     "id": "list-style-image-004.xht"
+   },
+   {
+    "pass": "false",
+    "id": "list-style-applies-to-015.xht"
+   },
+   {
+    "pass": "false",
+    "id": "list-style-applies-to-014.xht"
+   },
+   {
+    "pass": "false",
+    "id": "list-style-applies-to-013.xht"
+   },
+   {
+    "pass": "false",
+    "id": "list-style-applies-to-012.xht"
+   },
+   {
+    "pass": "false",
+    "id": "list-style-applies-to-011.xht"
+   },
+   {
+    "pass": "false",
+    "id": "list-style-applies-to-010.xht"
+   },
+   {
+    "pass": "false",
+    "id": "list-style-applies-to-009.xht"
+   },
+   {
+    "pass": "false",
+    "id": "list-style-applies-to-008.xht"
+   },
+   {
+    "pass": "false",
+    "id": "list-style-applies-to-007.xht"
+   },
+   {
+    "pass": "false",
+    "id": "list-style-applies-to-004.xht"
+   },
+   {
+    "pass": "false",
+    "id": "list-style-applies-to-003.xht"
+   },
+   {
+    "pass": "false",
+    "id": "list-style-applies-to-002.xht"
+   },
+   {
+    "pass": "false",
+    "id": "list-style-applies-to-001.xht"
    },
    {
     "pass": "true",
@@ -8664,6 +9080,158 @@
    {
     "pass": "true",
     "id": "line-box-height-002.xht"
+   },
+   {
+    "pass": "false",
+    "id": "letter-spacing-applies-to-015.xht"
+   },
+   {
+    "pass": "false",
+    "id": "letter-spacing-applies-to-014.xht"
+   },
+   {
+    "pass": "false",
+    "id": "letter-spacing-applies-to-011.xht"
+   },
+   {
+    "pass": "false",
+    "id": "letter-spacing-applies-to-010.xht"
+   },
+   {
+    "pass": "false",
+    "id": "letter-spacing-applies-to-009.xht"
+   },
+   {
+    "pass": "false",
+    "id": "letter-spacing-applies-to-008.xht"
+   },
+   {
+    "pass": "false",
+    "id": "letter-spacing-applies-to-006.xht"
+   },
+   {
+    "pass": "false",
+    "id": "letter-spacing-applies-to-004.xht"
+   },
+   {
+    "pass": "false",
+    "id": "letter-spacing-applies-to-002.xht"
+   },
+   {
+    "pass": "false",
+    "id": "letter-spacing-applies-to-001.xht"
+   },
+   {
+    "pass": "true",
+    "id": "letter-spacing-100.xht"
+   },
+   {
+    "pass": "true",
+    "id": "letter-spacing-099.xht"
+   },
+   {
+    "pass": "true",
+    "id": "letter-spacing-098.xht"
+   },
+   {
+    "pass": "true",
+    "id": "letter-spacing-097.xht"
+   },
+   {
+    "pass": "true",
+    "id": "letter-spacing-090.xht"
+   },
+   {
+    "pass": "true",
+    "id": "letter-spacing-089.xht"
+   },
+   {
+    "pass": "true",
+    "id": "letter-spacing-088.xht"
+   },
+   {
+    "pass": "true",
+    "id": "letter-spacing-078.xht"
+   },
+   {
+    "pass": "true",
+    "id": "letter-spacing-077.xht"
+   },
+   {
+    "pass": "true",
+    "id": "letter-spacing-076.xht"
+   },
+   {
+    "pass": "true",
+    "id": "letter-spacing-066.xht"
+   },
+   {
+    "pass": "true",
+    "id": "letter-spacing-065.xht"
+   },
+   {
+    "pass": "true",
+    "id": "letter-spacing-064.xht"
+   },
+   {
+    "pass": "true",
+    "id": "letter-spacing-054.xht"
+   },
+   {
+    "pass": "true",
+    "id": "letter-spacing-053.xht"
+   },
+   {
+    "pass": "true",
+    "id": "letter-spacing-052.xht"
+   },
+   {
+    "pass": "true",
+    "id": "letter-spacing-042.xht"
+   },
+   {
+    "pass": "true",
+    "id": "letter-spacing-041.xht"
+   },
+   {
+    "pass": "true",
+    "id": "letter-spacing-040.xht"
+   },
+   {
+    "pass": "true",
+    "id": "letter-spacing-030.xht"
+   },
+   {
+    "pass": "true",
+    "id": "letter-spacing-029.xht"
+   },
+   {
+    "pass": "true",
+    "id": "letter-spacing-028.xht"
+   },
+   {
+    "pass": "true",
+    "id": "letter-spacing-018.xht"
+   },
+   {
+    "pass": "true",
+    "id": "letter-spacing-017.xht"
+   },
+   {
+    "pass": "true",
+    "id": "letter-spacing-016.xht"
+   },
+   {
+    "pass": "true",
+    "id": "letter-spacing-006.xht"
+   },
+   {
+    "pass": "true",
+    "id": "letter-spacing-005.xht"
+   },
+   {
+    "pass": "true",
+    "id": "letter-spacing-004.xht"
    },
    {
     "pass": "false",
@@ -9499,6 +10067,14 @@
    },
    {
     "pass": "false",
+    "id": "inline-block-alignment-srl-008.xht"
+   },
+   {
+    "pass": "false",
+    "id": "inline-block-alignment-slr-009.xht"
+   },
+   {
+    "pass": "false",
     "id": "inline-block-alignment-007.xht"
    },
    {
@@ -9792,6 +10368,10 @@
    {
     "pass": "true",
     "id": "height-applies-to-012.xht"
+   },
+   {
+    "pass": "false",
+    "id": "height-applies-to-011.xht"
    },
    {
     "pass": "false",
@@ -10194,6 +10774,46 @@
     "id": "font-weight-applies-to-016.xht"
    },
    {
+    "pass": "false",
+    "id": "font-weight-applies-to-015.xht"
+   },
+   {
+    "pass": "false",
+    "id": "font-weight-applies-to-014.xht"
+   },
+   {
+    "pass": "false",
+    "id": "font-weight-applies-to-011.xht"
+   },
+   {
+    "pass": "false",
+    "id": "font-weight-applies-to-010.xht"
+   },
+   {
+    "pass": "false",
+    "id": "font-weight-applies-to-009.xht"
+   },
+   {
+    "pass": "false",
+    "id": "font-weight-applies-to-008.xht"
+   },
+   {
+    "pass": "true",
+    "id": "font-weight-applies-to-007.xht"
+   },
+   {
+    "pass": "false",
+    "id": "font-weight-applies-to-006.xht"
+   },
+   {
+    "pass": "true",
+    "id": "font-weight-applies-to-005.xht"
+   },
+   {
+    "pass": "true",
+    "id": "font-weight-applies-to-004.xht"
+   },
+   {
     "pass": "true",
     "id": "font-weight-applies-to-002.xht"
    },
@@ -10203,7 +10823,59 @@
    },
    {
     "pass": "true",
+    "id": "font-variant-applies-to-017.xht"
+   },
+   {
+    "pass": "true",
     "id": "font-variant-applies-to-016.xht"
+   },
+   {
+    "pass": "false",
+    "id": "font-variant-applies-to-015.xht"
+   },
+   {
+    "pass": "false",
+    "id": "font-variant-applies-to-014.xht"
+   },
+   {
+    "pass": "false",
+    "id": "font-variant-applies-to-011.xht"
+   },
+   {
+    "pass": "false",
+    "id": "font-variant-applies-to-010.xht"
+   },
+   {
+    "pass": "false",
+    "id": "font-variant-applies-to-009.xht"
+   },
+   {
+    "pass": "false",
+    "id": "font-variant-applies-to-008.xht"
+   },
+   {
+    "pass": "true",
+    "id": "font-variant-applies-to-007.xht"
+   },
+   {
+    "pass": "false",
+    "id": "font-variant-applies-to-006.xht"
+   },
+   {
+    "pass": "true",
+    "id": "font-variant-applies-to-005.xht"
+   },
+   {
+    "pass": "true",
+    "id": "font-variant-applies-to-004.xht"
+   },
+   {
+    "pass": "true",
+    "id": "font-variant-applies-to-002.xht"
+   },
+   {
+    "pass": "true",
+    "id": "font-variant-applies-to-001.xht"
    },
    {
     "pass": "true",
@@ -10216,6 +10888,42 @@
    {
     "pass": "true",
     "id": "font-style-applies-to-016.xht"
+   },
+   {
+    "pass": "false",
+    "id": "font-style-applies-to-014.xht"
+   },
+   {
+    "pass": "false",
+    "id": "font-style-applies-to-011.xht"
+   },
+   {
+    "pass": "false",
+    "id": "font-style-applies-to-010.xht"
+   },
+   {
+    "pass": "false",
+    "id": "font-style-applies-to-009.xht"
+   },
+   {
+    "pass": "false",
+    "id": "font-style-applies-to-008.xht"
+   },
+   {
+    "pass": "true",
+    "id": "font-style-applies-to-007.xht"
+   },
+   {
+    "pass": "false",
+    "id": "font-style-applies-to-006.xht"
+   },
+   {
+    "pass": "true",
+    "id": "font-style-applies-to-005.xht"
+   },
+   {
+    "pass": "true",
+    "id": "font-style-applies-to-004.xht"
    },
    {
     "pass": "true",
@@ -10696,6 +11404,54 @@
    {
     "pass": "true",
     "id": "font-051.xht"
+   },
+   {
+    "pass": "true",
+    "id": "font-043.xht"
+   },
+   {
+    "pass": "true",
+    "id": "font-042.xht"
+   },
+   {
+    "pass": "true",
+    "id": "font-032.xht"
+   },
+   {
+    "pass": "true",
+    "id": "font-031.xht"
+   },
+   {
+    "pass": "true",
+    "id": "font-030.xht"
+   },
+   {
+    "pass": "true",
+    "id": "font-029.xht"
+   },
+   {
+    "pass": "true",
+    "id": "font-016.xht"
+   },
+   {
+    "pass": "true",
+    "id": "font-015.xht"
+   },
+   {
+    "pass": "true",
+    "id": "font-014.xht"
+   },
+   {
+    "pass": "true",
+    "id": "font-013.xht"
+   },
+   {
+    "pass": "true",
+    "id": "font-012.xht"
+   },
+   {
+    "pass": "true",
+    "id": "font-011.xht"
    },
    {
     "pass": "true",
@@ -11603,6 +12359,10 @@
    },
    {
     "pass": "false",
+    "id": "first-line-pseudo-018.xht"
+   },
+   {
+    "pass": "false",
     "id": "first-line-pseudo-016.xht"
    },
    {
@@ -11684,6 +12444,1630 @@
    {
     "pass": "false",
     "id": "first-letter-quote-001.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-412.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-411.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-410.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-409.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-408.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-407.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-406.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-405.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-404.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-403.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-402.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-401.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-400.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-399.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-398.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-397.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-396.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-395.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-394.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-393.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-392.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-391.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-390.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-389.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-388.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-387.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-386.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-385.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-384.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-383.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-382.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-381.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-380.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-379.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-378.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-377.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-376.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-375.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-374.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-373.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-372.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-371.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-370.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-369.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-368.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-367.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-366.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-365.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-364.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-363.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-362.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-361.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-360.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-359.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-357.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-356.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-355.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-354.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-353.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-352.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-351.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-350.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-349.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-348.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-347.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-346.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-345.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-344.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-343.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-342.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-341.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-340.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-339.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-338.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-337.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-336.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-335.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-334.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-333.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-332.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-331.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-330.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-329.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-328.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-327.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-326.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-325.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-324.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-323.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-322.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-321.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-320.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-319.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-318.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-317.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-316.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-315.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-314.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-313.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-312.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-311.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-310.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-309.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-308.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-307.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-306.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-305.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-304.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-303.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-302.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-301.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-300.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-299.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-298.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-297.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-296.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-295.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-294.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-293.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-292.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-291.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-290.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-289.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-288.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-287.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-286.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-285.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-284.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-283.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-282.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-281.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-280.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-279.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-278.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-277.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-276.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-275.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-274.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-273.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-272.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-271.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-270.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-269.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-268.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-267.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-266.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-265.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-264.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-263.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-262.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-260.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-259.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-258.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-257.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-256.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-255.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-254.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-253.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-252.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-251.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-250.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-249.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-248.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-247.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-246.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-245.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-244.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-243.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-242.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-241.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-240.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-239.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-238.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-237.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-236.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-235.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-234.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-233.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-232.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-231.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-230.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-229.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-228.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-227.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-226.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-225.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-224.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-223.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-222.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-221.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-220.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-219.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-218.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-217.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-216.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-215.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-214.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-213.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-212.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-211.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-208.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-207.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-206.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-205.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-204.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-203.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-202.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-201.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-200.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-199.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-198.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-197.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-196.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-195.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-194.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-193.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-192.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-191.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-190.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-189.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-188.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-187.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-186.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-185.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-184.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-183.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-182.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-181.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-180.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-179.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-178.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-177.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-176.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-175.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-174.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-173.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-172.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-171.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-170.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-169.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-168.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-167.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-166.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-165.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-164.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-163.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-162.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-161.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-160.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-159.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-158.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-157.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-156.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-155.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-154.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-153.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-152.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-151.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-150.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-149.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-148.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-147.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-146.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-145.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-144.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-143.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-142.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-141.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-140.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-139.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-138.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-137.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-136.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-135.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-134.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-133.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-132.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-131.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-130.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-129.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-128.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-127.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-126.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-125.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-124.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-123.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-122.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-121.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-120.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-119.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-118.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-117.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-116.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-115.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-113.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-112.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-111.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-110.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-109.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-108.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-107.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-106.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-105.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-104.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-103.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-102.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-101.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-100.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-099.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-098.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-097.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-096.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-095.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-094.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-093.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-092.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-091.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-090.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-089.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-088.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-087.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-086.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-085.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-084.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-083.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-082.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-081.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-080.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-079.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-078.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-077.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-076.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-075.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-074.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-073.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-072.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-071.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-070.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-069.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-068.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-067.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-066.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-065.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-064.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-063.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-062.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-061.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-060.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-059.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-058.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-057.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-056.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-055.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-054.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-053.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-052.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-051.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-050.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-049.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-048.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-047.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-046.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-045.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-044.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-043.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-042.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-041.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-040.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-039.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-038.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-037.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-036.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-035.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-034.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-033.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-032.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-031.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-030.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-029.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-028.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-027.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-026.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-025.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-024.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-023.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-022.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-021.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-020.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-019.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-018.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-017.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-016.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-015.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-014.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-013.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-012.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-010.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-009.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-008.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-007.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-006.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-005.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-004.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-003.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-002.xht"
+   },
+   {
+    "pass": "false",
+    "id": "first-letter-punctuation-001.xht"
    },
    {
     "pass": "false",
@@ -12359,6 +14743,102 @@
    },
    {
     "pass": "false",
+    "id": "counter-reset-055.xht"
+   },
+   {
+    "pass": "false",
+    "id": "counter-reset-048.xht"
+   },
+   {
+    "pass": "false",
+    "id": "counter-reset-047.xht"
+   },
+   {
+    "pass": "false",
+    "id": "counter-reset-046.xht"
+   },
+   {
+    "pass": "false",
+    "id": "counter-reset-045.xht"
+   },
+   {
+    "pass": "false",
+    "id": "counter-reset-044.xht"
+   },
+   {
+    "pass": "false",
+    "id": "counter-reset-040.xht"
+   },
+   {
+    "pass": "false",
+    "id": "counter-reset-035.xht"
+   },
+   {
+    "pass": "false",
+    "id": "counter-reset-034.xht"
+   },
+   {
+    "pass": "false",
+    "id": "counter-reset-033.xht"
+   },
+   {
+    "pass": "false",
+    "id": "counter-reset-032.xht"
+   },
+   {
+    "pass": "false",
+    "id": "counter-reset-031.xht"
+   },
+   {
+    "pass": "false",
+    "id": "counter-reset-027.xht"
+   },
+   {
+    "pass": "false",
+    "id": "counter-reset-022.xht"
+   },
+   {
+    "pass": "false",
+    "id": "counter-reset-021.xht"
+   },
+   {
+    "pass": "false",
+    "id": "counter-reset-020.xht"
+   },
+   {
+    "pass": "false",
+    "id": "counter-reset-019.xht"
+   },
+   {
+    "pass": "false",
+    "id": "counter-reset-018.xht"
+   },
+   {
+    "pass": "false",
+    "id": "counter-reset-014.xht"
+   },
+   {
+    "pass": "false",
+    "id": "counter-reset-009.xht"
+   },
+   {
+    "pass": "false",
+    "id": "counter-reset-008.xht"
+   },
+   {
+    "pass": "false",
+    "id": "counter-reset-007.xht"
+   },
+   {
+    "pass": "false",
+    "id": "counter-reset-006.xht"
+   },
+   {
+    "pass": "false",
+    "id": "counter-reset-005.xht"
+   },
+   {
+    "pass": "false",
     "id": "counter-increment-visibility-001.xht"
    },
    {
@@ -12416,6 +14896,62 @@
    {
     "pass": "false",
     "id": "counter-increment-applies-to-001.xht"
+   },
+   {
+    "pass": "false",
+    "id": "counter-increment-046.xht"
+   },
+   {
+    "pass": "false",
+    "id": "counter-increment-045.xht"
+   },
+   {
+    "pass": "false",
+    "id": "counter-increment-044.xht"
+   },
+   {
+    "pass": "false",
+    "id": "counter-increment-033.xht"
+   },
+   {
+    "pass": "false",
+    "id": "counter-increment-032.xht"
+   },
+   {
+    "pass": "false",
+    "id": "counter-increment-031.xht"
+   },
+   {
+    "pass": "false",
+    "id": "counter-increment-020.xht"
+   },
+   {
+    "pass": "false",
+    "id": "counter-increment-019.xht"
+   },
+   {
+    "pass": "false",
+    "id": "counter-increment-018.xht"
+   },
+   {
+    "pass": "false",
+    "id": "counter-increment-009.xht"
+   },
+   {
+    "pass": "false",
+    "id": "counter-increment-008.xht"
+   },
+   {
+    "pass": "false",
+    "id": "counter-increment-007.xht"
+   },
+   {
+    "pass": "false",
+    "id": "counter-increment-006.xht"
+   },
+   {
+    "pass": "false",
+    "id": "counter-increment-005.xht"
    },
    {
     "pass": "false",
@@ -12552,6 +15088,54 @@
    {
     "pass": "false",
     "id": "content-171.xht"
+   },
+   {
+    "pass": "false",
+    "id": "content-121.xht"
+   },
+   {
+    "pass": "false",
+    "id": "content-119.xht"
+   },
+   {
+    "pass": "false",
+    "id": "content-118.xht"
+   },
+   {
+    "pass": "false",
+    "id": "content-117.xht"
+   },
+   {
+    "pass": "false",
+    "id": "content-116.xht"
+   },
+   {
+    "pass": "false",
+    "id": "content-115.xht"
+   },
+   {
+    "pass": "false",
+    "id": "content-114.xht"
+   },
+   {
+    "pass": "false",
+    "id": "content-112.xht"
+   },
+   {
+    "pass": "false",
+    "id": "content-111.xht"
+   },
+   {
+    "pass": "false",
+    "id": "content-110.xht"
+   },
+   {
+    "pass": "false",
+    "id": "content-108.xht"
+   },
+   {
+    "pass": "false",
+    "id": "content-107.xht"
    },
    {
     "pass": "true",
@@ -13720,6 +16304,10 @@
    {
     "pass": "true",
     "id": "clear-001.xht"
+   },
+   {
+    "pass": "true",
+    "id": "class-selector-008.xht"
    },
    {
     "pass": "true",
@@ -17159,6 +19747,10 @@
    },
    {
     "pass": "true",
+    "id": "border-left-width-067.xht"
+   },
+   {
+    "pass": "true",
     "id": "border-left-width-062.xht"
    },
    {
@@ -17183,6 +19775,10 @@
    },
    {
     "pass": "true",
+    "id": "border-left-width-056.xht"
+   },
+   {
+    "pass": "true",
     "id": "border-left-width-051.xht"
    },
    {
@@ -17203,6 +19799,10 @@
    },
    {
     "pass": "true",
+    "id": "border-left-width-045.xht"
+   },
+   {
+    "pass": "true",
     "id": "border-left-width-040.xht"
    },
    {
@@ -17220,6 +19820,10 @@
    {
     "pass": "true",
     "id": "border-left-width-035.xht"
+   },
+   {
+    "pass": "true",
+    "id": "border-left-width-034.xht"
    },
    {
     "pass": "true",
@@ -17247,6 +19851,10 @@
    },
    {
     "pass": "true",
+    "id": "border-left-width-023.xht"
+   },
+   {
+    "pass": "true",
     "id": "border-left-width-018.xht"
    },
    {
@@ -17264,6 +19872,10 @@
    {
     "pass": "true",
     "id": "border-left-width-013.xht"
+   },
+   {
+    "pass": "true",
+    "id": "border-left-width-012.xht"
    },
    {
     "pass": "true",
@@ -20203,6 +22815,18 @@
    },
    {
     "pass": "false",
+    "id": "before-after-positioned-004.xht"
+   },
+   {
+    "pass": "false",
+    "id": "before-after-positioned-003.xht"
+   },
+   {
+    "pass": "false",
+    "id": "before-after-positioned-002.xht"
+   },
+   {
+    "pass": "false",
     "id": "before-after-positioned-001.xht"
    },
    {
@@ -21612,6 +24236,10 @@
    {
     "pass": "true",
     "id": "background-color-001.xht"
+   },
+   {
+    "pass": "false",
+    "id": "background-body-001.xht"
    },
    {
     "pass": "false",
@@ -24402,12 +27030,12 @@
     "id": "abs-pos-non-replaced-vlr-003.xht"
    }
   ],
-  "totalCount": "6100",
-  "selectedCount": "6100"
+  "totalCount": "6757",
+  "selectedCount": "6757"
  },
  "meta": {
   "startDate": "2016-06-07",
-  "timeTaken": "2136743",
+  "timeTaken": "2314409",
   "browser": "gngr"
  }
 }
