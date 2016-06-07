@@ -15,11 +15,6 @@
   "inline-table-002b.xht" : "pixel mismatch",
   "inline-table-002a.xht" : "pixel mismatch",
 
-  "pseudo-001.xht" : "[low] fails in chromium",
-  "pseudo-014.xht" : "[low] fails in chromium",
-  "pseudo-015.xht" : "[low] fails in chromium",
-  "pseudo-016.xht" : "[low] fails in chromium",
-
   "top-007.xht" : "negative margin",
   "top-008.xht" : "negative margin",
   "top-019.xht" : "negative margin",
