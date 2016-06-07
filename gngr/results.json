@@ -1474,11 +1474,11 @@
     "id": "table-visual-layout-026a.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "table-visual-layout-018.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "table-visual-layout-017.xht"
    },
    {
@@ -4902,7 +4902,7 @@
     "id": "overflow-applies-to-014.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "overflow-applies-to-013.xht"
    },
    {
@@ -4918,7 +4918,7 @@
     "id": "overflow-applies-to-008.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "overflow-applies-to-007.xht"
    },
    {
@@ -11922,7 +11922,7 @@
     "id": "empty-cells-applies-to-016.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "empty-cells-applies-to-014.xht"
    },
    {
@@ -17314,7 +17314,7 @@
     "id": "border-left-color-applies-to-014.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-color-applies-to-013.xht"
    },
    {
@@ -17950,7 +17950,7 @@
     "id": "border-left-applies-to-014.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-left-applies-to-013.xht"
    },
    {
@@ -20226,7 +20226,7 @@
     "id": "before-after-display-types-001.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "before-after-011.xht"
    },
    {
@@ -24406,8 +24406,8 @@
   "selectedCount": "6100"
  },
  "meta": {
-  "startDate": "2016-06-06",
-  "timeTaken": "2187787",
+  "startDate": "2016-06-07",
+  "timeTaken": "2136743",
   "browser": "gngr"
  }
 }
