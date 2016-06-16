@@ -25598,7 +25598,7 @@
     "id": "abspos-011.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "abspos-009.xht"
    },
    {
@@ -25942,7 +25942,7 @@
     "id": "absolute-replaced-height-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "absolute-non-replaced-width-027.xht"
    },
    {
@@ -25986,19 +25986,19 @@
     "id": "absolute-non-replaced-width-017.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "absolute-non-replaced-width-016.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "absolute-non-replaced-width-015.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "absolute-non-replaced-width-014.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "absolute-non-replaced-width-013.xht"
    },
    {
@@ -26006,11 +26006,11 @@
     "id": "absolute-non-replaced-width-012.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "absolute-non-replaced-width-011.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "absolute-non-replaced-width-010.xht"
    },
    {
@@ -26030,7 +26030,7 @@
     "id": "absolute-non-replaced-width-005.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "absolute-non-replaced-width-004.xht"
    },
    {
@@ -27034,8 +27034,8 @@
   "selectedCount": "6757"
  },
  "meta": {
-  "startDate": "2016-06-07",
-  "timeTaken": "2671264",
+  "startDate": "2016-06-16",
+  "timeTaken": "2502772",
   "browser": "gngr"
  }
 }
