@@ -1,0 +1,41 @@
+<html>
+  <head>
+    <style>
+      .relWidget {
+        border:2px solid green;
+        position:relative;
+        right:10px;
+        bottom:5px;
+        padding: 10px;
+      }
+    </style>
+    <script>
+      window.onload = function() {
+        myInput.value = "changed";
+      }
+    </script>
+  </head>
+  <body>
+
+    <h3>nested relative</h3>
+    <div style="border:2px solid grey;padding:2em; position:relative; left:1em;">
+      <span style="display:inline-block; margin:4px;">
+        <input class="lsb" value="Google Search" name="btnG" type="submit">
+        <input class="lsb" value="Google Search" name="btnG" type="text">
+      </span>
+    </div>
+    <h3>immediate relative</h3>
+    <div style="border:2px solid grey;padding:2em; position:relative; left:1em;">
+        <input class="lsb" value="Google Search" name="btnG" type="submit">
+        <input class="lsb" value="Google Search" name="btnG" type="text">
+    </div>
+
+    <h3>float relative</h3>
+    <div >
+    <div style="border:8px solid grey;padding:2em; position:relative; float:left;left:8em;">
+        <input class="lsb" value="Google Search" name="btnG" type="submit">
+        <input class="lsb" value="Google Search" name="btnG" type="text">
+    </div>
+  </div>
+  </body>
+</html>

@@ -1,0 +1,27 @@
+<html>
+  <head>
+    <style>
+      body {background: grey; }
+      div.menu .entry {background: black; color: green; padding: 1em;  }
+      div.menu .entry .submenu {background: darkgrey; color: blue; position: absolute; }
+
+      /* div.menu .entry:hover .submenu {display:block} */
+
+    </style>
+  </head>
+  <body>
+  <P style="position: relative; margin-right: 10px; left: 10px;">
+  I used two red hyphens to serve as a change bar. They
+  will "float" to the left of the line containing THIS
+  <SPAN style="position: absolute; top: auto; left: -1em; color: red;">--</SPAN>
+  word.</P>
+  <div class="menu" style="margin:5em;">
+    <div><div class="entry">Entry1 <div class="submenu">Sub1</div> continued<div class="submenu" style="left:0em">another 1b</div> </div></div>
+    <div><div class="entry" style="margin:8em; padding:18em; border:80px solid green">Entry2 <div class="submenu">Sub2</div></div></div>
+    <div><div class="entry">Entry3 <div class="submenu">Sub3</div></div></div>
+  </div>
+
+
+  </body>
+
+</html>

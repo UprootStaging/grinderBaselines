@@ -1,0 +1,73 @@
+<html>
+  <style>
+    div {width:100px; height:100px; background: #ddd;}
+    td {padding:1em;}
+    tr.leftRight div {border-left:8px solid red; border-right:3px solid red }
+    body {background: #eff}
+  </style>
+  <body>
+    <table><tbody>
+      <tr>
+        <td>
+          <div style="border:1px dotted red" />
+        </td>
+        <td>
+          <div style="border:2px dotted red" />
+        </td>
+        <td>
+          <div style="border:4px dotted red" />
+        </td>
+        <td>
+          <div style="border:8px dotted red" />
+        </td>
+        <td>
+          <div style="border:16px dotted red" />
+        </td>
+        <td>
+          Dotted
+        </td>
+      </tr>
+      <tr class="leftRight">
+        <td>
+          <div style="border-top:1px dotted black" />
+        </td>
+        <td>
+          <div style="border-top:2px dotted black" />
+        </td>
+        <td>
+          <div style="border-top:4px dotted black" />
+        </td>
+        <td>
+          <div style="border-top:8px dotted black; border-right:8px solid red;" />
+        </td>
+        <td>
+          <div style="border-top:16px dotted black; border-right:none;" />
+        </td>
+        <td>
+          Dotted
+        </td>
+      </tr>
+      <tr class="leftRight">
+        <td>
+          <div style="border-top:1px dashed black" />
+        </td>
+        <td>
+          <div style="border-top:2px dashed black" />
+        </td>
+        <td>
+          <div style="border-top:4px dashed black" />
+        </td>
+        <td>
+          <div style="border-top:8px dashed black; border-right:8px solid red;" />
+        </td>
+        <td>
+          <div style="border-top:16px dashed black; border-right:none;" />
+        </td>
+        <td>
+          Dashed
+        </td>
+      </tr>
+    </tbody></table>
+  </body>
+</html>
+

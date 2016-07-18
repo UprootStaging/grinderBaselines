@@ -1,0 +1,107 @@
+<html>
+<head>
+<style>
+.thumb {
+  background: rgba(100, 100, 0, 0.7);
+  height: 200px;
+  width: 99px;
+  display:inline-block;
+  margin: 1em;
+}
+
+.thumb:hover {
+  background: cyan;
+}
+
+.thumb .thover {
+  display:none;
+  position: absolute;
+  top: 100%;
+  background: purple;
+}
+
+.thumb:hover .thover {
+  display:block;
+  background: red;
+}
+
+.post, .post img {
+    width: 180px;
+    height: 180px;
+}
+.post {
+    background-color: #181817;
+    border: 2px solid #444442;
+    display: inline-block;
+    margin: 4px 2px;
+    position: relative;
+}
+
+.post .hover, .post a.image-list-link {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.post a:hover+.hover {
+    display: block;
+}
+
+.post .hover {
+    display: none;
+    width: 120%;
+    z-index: 2;
+    background-color: #121211;
+    border: 2px solid #444442;
+    top: 91%;
+    margin-left: -19%;
+}
+
+.post p {
+    color: #fff;
+    overflow: hidden;
+    padding: 0;
+}
+
+a:hover {
+  background: red;
+}
+
+a:hover+.next {
+  background: red;
+}
+
+</style>
+</head>
+<body>
+<div style="background: black; padding:1em;">
+    <div style="position:relative; z-index:2; background: rgba(210, 10, 210, 0.3);">
+      <div class="thumb">Up Goer Five
+        <div class="thover">
+          Hover test
+        </div>
+      </div>
+    </div>
+  <!--
+  -->
+
+  <div>
+    <a href="/" > <img src="grid50.png"</> </a>
+      <div class="next"> Test </div>
+  </div>
+
+    <div class="post">
+      <a href="/" class="image-list-link"> <img src="grid50.png" /> </a>
+      <div class="hover"> <p>Hover test</p> </div>
+    </div>
+
+    <div class="post">
+      <a href="/" class="image-list-link"> <img src="grid50.png" /> </a>
+      <div class="hover"> <p>Hover test</p> </div>
+    </div>
+</div>
+</body>
+</html>
+
+
+

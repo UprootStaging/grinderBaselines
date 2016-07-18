@@ -1,0 +1,20 @@
+<html>
+  <body>
+    <p style="padding:1em; margin:auto; background:orange;">Margin auto</p>
+    <div style="margin:0 auto;background: orange; width:60%;">
+      Margin auto, width 60%
+    </div>
+    <hr/>
+    <div style="background: orange; width:60%;">
+      Margin normal, width 60%
+    </div>
+    <div style="background: orange; max-width:20em; margin:20 auto; padding: 4em; border: 20px solid blue">
+      Margin normal, max-width 50em
+    </div>
+    <!-- causes issue #20 -->
+    <div style="background: orange; width:50em; margin: 1em auto; padding:2em;">
+      Margin auto, width 50em
+    </div>
+  </body>
+</html>
+

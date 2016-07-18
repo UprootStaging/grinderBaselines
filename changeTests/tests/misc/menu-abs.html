@@ -1,0 +1,44 @@
+<html>
+  <head>
+    <style>
+      body {background: lightgrey; }
+      div.menu .entry {background: black; color: green; padding: 1em;}
+      div.menu .entry .submenu {background: darkgrey; color: blue; position: absolute}
+
+      ul.menu li {display:inline; margin: 1em; }
+      ul.menu li .entry {background: black; color: white; padding: 1em;}
+      ul.menu li .entry {position:relative; color:red}
+      ul.menu li .entry .submenu {position: absolute; left: 0; }
+      ul.menu li .entry:hover .submenu {display:block}
+    </style>
+  </head>
+  <body>
+  <div class="menu">
+    <div><div class="entry">Entry1 <div class="submenu">Sub1</div></div></div>
+    <div><div class="entry">Entry2 <div class="submenu">Sub2</div></div></div>
+    <div><div class="entry">Entry3 <div class="submenu">Sub3</div></div></div>
+  </div>
+
+  <hr/>
+  <p>in gngr, the below submenu entries are not properly positioned because the span
+     is not recognised as a containing block, since the span is display:inline
+     (If it is explicitly set to display:inline-block, it works)
+     See <a href="https://github.com/UprootLabs/gngr/issues/135">Issue #135</a>
+  </p>
+  <hr/>
+
+  <ul class="menu">
+    <li><span class="entry">Entry1 <div class="submenu">Sub1</div></span></li>
+    <li><span class="entry">Entry2 <div class="submenu">Sub2</div></span></li>
+    <li><span class="entry">Entry3 <div class="submenu">Sub3</div></span></li>
+  </ul>
+  <div style="margin-top:5em;">
+  <p>Hello Hello</p>
+  <p>Hello Hello</p>
+  <p>Hello Hello</p>
+  <p>Hello Hello</p>
+  <p>Hello Hello</p>
+  </div>
+  </body>
+
+</html>

@@ -1,0 +1,46 @@
+<html>
+  <style>
+    div {width:100px; height:120px; background: #ddd; margin:20px}
+    body {background: #eff}
+    tr.imgBkg div {background: url("../earth.png") }
+    tr.imgBkgNoRepeat div {background: url("../earth.png") no-repeat }
+    td {padding: 1em;}
+  </style>
+  <body>
+    <table><tbody>
+      <tr>
+        <td>
+          <div style="border:1px dotted red" />
+        </td>
+        <td>
+          <div style="border:16px dotted red" />
+        </td>
+        <td>
+          Dotted
+        </td>
+      </tr>
+      <tr class="leftRight">
+        <td>
+          <div style="border-top:1px dotted black" />
+        </td>
+        <td>
+          <div style="border-top:16px dotted red; border-right:none;" />
+        </td>
+        <td>
+          Dotted
+        </td>
+      </tr>
+      <tr class="imgBkg">
+        <td> <div style="border-top:1px dotted black" /> </td>
+        <td> <div style="border:26px dotted red; border-right:none;" /> </td>
+        <td> Dotted image background </td>
+      </tr>
+      <tr class="imgBkgNoRepeat">
+        <td> <div style="border-top:1px dotted black" /> </td>
+        <td> <div style="border:26px dotted red; border-right:none;" /> </td>
+        <td> Dotted image background no repeat </td>
+      </tr>
+    </tbody></table>
+  </body>
+</html>
+

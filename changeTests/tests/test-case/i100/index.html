@@ -1,0 +1,24 @@
+<html>
+  <style>
+    div.bordered {width:100px; height:120px; background: #ddd; margin:20px; border-color:rgba(200, 50, 50, 0.8)}
+    div.dotted {border-style:dotted}
+    div.thin {border-width:1px}
+    div.medium {border-width:4px}
+    div.thick {border-width:10px}
+    body {background: #eff}
+    tr { background: orange}
+    tr:hover div.bordered {border-color: blue; background: pink}
+  </style>
+  <body>
+    <p>The row should have an orange background.</p>
+    <p>Hovering over the table row should change the color of the children's borders</p>
+    <table><tbody>
+      <tr>
+        <td><div class="bordered dotted thick" /></td>
+        <td><div class="bordered dotted medium" /></td>
+        <td><div class="bordered dotted thin" /></td>
+      </tr>
+    </tbody></table>
+  </body>
+</html>
+

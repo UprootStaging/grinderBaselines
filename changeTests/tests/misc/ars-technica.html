@@ -1,0 +1,219 @@
+<html>
+<head>
+<style>
+#primary > ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    background: #252525;
+    width: 1020px;
+    height: 30px;
+    position: relative;
+}
+#primary > ul > li {
+    float: left;
+    padding: 0;
+    height: 30px;
+}
+#primary li.has-children > a {
+    padding-right: 10px;
+}
+#primary > ul > li > span#login-disabled, #primary > ul > li > a {
+    color: #fff;
+    padding: 4px 20px 2px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: "BebasNeue", sans-serif;
+    display: block;
+    box-sizing: border-box;
+    height: 30px;
+}
+#primary > ul > li > div.dropdown {
+    display: none;
+    position: absolute;
+    background: #000;
+    top: 30px;
+    left: 0px;
+    min-height: 200px;
+    width: 980px;
+    padding: 20px;
+    z-index: 2147483647;
+    color: #fff;
+}
+.unread-count {
+    color: #56A744;
+    min-width: 8px;
+    display: inline-block;
+    opacity: 0;
+}
+div#container {
+    width: 1020px;
+    margin: 0 auto;
+    text-align: left;
+    padding: 0;
+    padding-top: 156px;
+    position: relative;
+}
+#pushdown-wrap {
+    text-align: center;
+    background: #fff;
+}
+</style>
+
+</head>
+<body style="text-align:center">
+  <div id="container" style="position:relative; width:1020px; text-align:left; background: darkgrey; margin:0 auto;">
+    <header style="position:absolute; border:20px solid orange; width:inherit; top:0; height:156px;">
+      <aside style="width:728px; height:90px; overflow:hidden; float:right"></aside>
+      <h1 style="float:left">Ars Tech</h1>
+      <nav id="primary" style="width:1020px; height:30px; position:absolute; top:125px; left:0px">
+        <ul>
+          <li id="home-icon">
+          <a href="/"><span>Home</span></a>
+          </li>
+          <li class="has-children">
+          <a href="#">Main Menu</a>
+          <div id="main-menu" class="dropdown">
+            <div id="sections">
+              <ul class="cat-list">
+                <li class="top-row even">
+                <a class="cat-link" href="/information-technology">
+                  <span class="cat-name">Information Technology</span>
+                  <span class="subheading cat-desc">Technology Lab</span>
+                </a>
+                </li>
+                <li class="top-row odd">
+                <a class="cat-link" href="/gadgets">
+                  <span class="cat-name">Product News &amp; Reviews</span>
+                  <span class="subheading cat-desc">Gear &amp; Gadgets</span>
+                </a>
+                </li>
+                <li class="even">
+                <a class="cat-link" href="/business">
+                  <span class="cat-name">Business of Technology</span>
+                  <span class="subheading cat-desc">Ministry of Innovation</span>
+                </a>
+                </li>
+                <li class="odd">
+                <a class="cat-link" href="/security">
+                  <span class="cat-name">Security &amp; Hacktivism</span>
+                  <span class="subheading cat-desc">Risk Assessment</span>
+                </a>
+                </li>
+                <li class="even">
+                <a class="cat-link" href="/tech-policy">
+                  <span class="cat-name">Civilization &amp; Discontents</span>
+                  <span class="subheading cat-desc">Law &amp; Disorder</span>
+                </a>
+                </li>
+                <li class="odd">
+                <a class="cat-link" href="/apple">
+                  <span class="cat-name">The Apple Ecosystem</span>
+                  <span class="subheading cat-desc">Infinite Loop</span>
+                </a>
+                </li>
+                <li class="even">
+                <a class="cat-link" href="/gaming">
+                  <span class="cat-name">Gaming &amp; Entertainment</span>
+                  <span class="subheading cat-desc">Opposable Thumbs</span>
+                </a>
+                </li>
+                <li class="odd">
+                <a class="cat-link" href="/science">
+                  <span class="cat-name">Science &amp; Exploration</span>
+                  <span class="subheading cat-desc">The Scientific Method</span>
+                </a>
+                </li>
+                <li class="even">
+                <a class="cat-link" href="/cars">
+                  <span class="cat-name">All Things Automotive</span>
+                  <span class="subheading cat-desc">Cars Technica</span>
+                </a>
+                </li>
+              </ul>
+            </div>
+            <aside class="drop-extras">
+              <aside id="layout-swap">
+                <span class="subheading">Layout:</span>
+                <ul>
+                  <li class="grid active">
+                  <a href="http://arstechnica.com/?view=grid" title="Grid view"><span>Grid View</span></a>
+                  </li>
+                  <li class="article">
+                  <a href="http://arstechnica.com/?view=archive" title="Archive view"><span>Article View</span></a>
+                  </li>
+                  <li class="unified">
+                  <a href="http://arstechnica.com/?view=unified" title="Unified (US+UK) Archive view"><span>Unified View</span></a>
+                  </li>
+                </ul>
+              </aside>
+
+
+              <h2 class="subheading notched">Site Theme</h2>
+
+              <ul id="theme-switch">
+                <li class="light active">
+                <a href="http://arstechnica.com/?theme=light"><span class="subheading">Dark on light</span></a>
+                </li>
+                <li class="dark ">
+                <a href="http://arstechnica.com/?theme=dark"><span class="subheading">Light on dark</span></a>
+                </li>
+              </ul>
+              <div id="explore-ars">
+                <h2 class="subheading notched">Explore Ars</h2>
+                <ul>
+                  <li><a href="/reviews/">Reviews</a></li>
+                  <li><a href="/video/">Video</a></li>
+                  <li><a href="/staff/">Staff Blogs</a></li>
+                  <li><a href="/features/">Feature Archive</a></li>
+                  <li><a href="/staff-directory/">Staff Directory</a></li>
+                  <li><a href="/contact-us/">Contact Us</a></li>
+                </ul>
+              </div>
+            </aside>
+          </div>
+          </li>
+          <li class="has-children" id="my-stories">
+          <a href="#">My Stories: <span class="unread-count">0</span></a>
+          <div class="dropdown">
+            <nav class="my-stories-nav first">
+              <h2 class="subheading notched">New Since Last Visit <span class="unread-count"></span></h2>
+              <ol class="new-stories with-numbers"></ol>
+              <footer><a class="subheading" href="#" id="more-unread-stories">See more news stories</a></footer>
+            </nav>
+            <nav class="my-stories-nav middle">
+              <h2 class="subheading notched">We Recommend</h2>
+              <ol class="recommendations"></ol>
+            </nav>
+            <nav class="my-stories-nav">
+              <h2 class="subheading notched">My Discussions</h2>
+              <p class="discussions disabled">Log in to track your discussions.</p>
+            </nav>
+          </div>
+          </li>
+          <li class="no-children"><a href="http://arstechnica.com/civis/">Forums</a></li>
+          <li class="no-children subscribe">
+          <a href="/subscriptions/">Subscribe</a>
+          </li>
+          <li class="no-children"><a href="/jobs/">Jobs</a></li>
+          <li class="no-children"><a href="/feature-series/chasing-brilliance/">Ars Consortium</a></li>
+          <li id="search-container" class="right inactive">
+          <a id="search-switch" href="/search/"></a>
+          <form action="/search/" method="GET" id="search_form">
+            <input type="hidden" name="ie" value="UTF-8">
+            <input type="text" name="q" id="hdr_search_input" value="">
+            <input type="submit" value="">
+          </form>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <div id="pushdownwrap" style="text-align:center; background:#fff;">
+
+    </div>
+  </div>
+  </body>
+  </html>
+
+
+

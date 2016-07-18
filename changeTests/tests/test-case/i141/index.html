@@ -1,0 +1,17 @@
+<html>
+  <head>
+    <script>
+    window.onload = function() {
+      console.log(target.style.background);
+      console.log(target2.style.background);
+      console.log(getComputedStyle(target2, null).background);
+    };
+    </script>
+  </head>
+
+  <body>
+    <p>See console output</p>
+    <div id="target" style="background: red">Test for GH #141</div>
+    <div id="target2" style="background-color: red">Test for GH #141</div>
+  </body>
+</html>
