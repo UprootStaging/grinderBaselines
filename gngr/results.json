@@ -6798,11 +6798,11 @@
     "id": "max-height-applies-to-005.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-height-110.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-height-107.xht"
    },
    {
@@ -11154,7 +11154,7 @@
     "id": "font-family-rule-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "font-family-name-024.xht"
    },
    {
@@ -25446,7 +25446,7 @@
     "id": "abspos-containing-block-initial-009a.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "abspos-containing-block-initial-007.xht"
    },
    {
@@ -25498,15 +25498,15 @@
     "id": "abspos-containing-block-010.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "abspos-containing-block-009.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "abspos-containing-block-008.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "abspos-containing-block-007.xht"
    },
    {
@@ -27034,8 +27034,8 @@
   "selectedCount": "6757"
  },
  "meta": {
-  "startDate": "2016-07-11",
-  "timeTaken": "2821247",
+  "startDate": "2016-07-19",
+  "timeTaken": "2080876",
   "browser": "gngr"
  }
 }
