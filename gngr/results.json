@@ -6466,7 +6466,7 @@
     "id": "max-width-110.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-width-107.xht"
    },
    {
@@ -6474,7 +6474,7 @@
     "id": "max-width-106.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-width-105.xht"
    },
    {
@@ -27034,8 +27034,8 @@
   "selectedCount": "6757"
  },
  "meta": {
-  "startDate": "2016-07-19",
-  "timeTaken": "2080876",
+  "startDate": "2016-07-20",
+  "timeTaken": "2066473",
   "browser": "gngr"
  }
 }
