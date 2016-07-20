@@ -22994,15 +22994,15 @@
     "id": "background-repeat-applies-to-004.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-repeat-applies-to-003.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-repeat-applies-to-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-repeat-applies-to-001.xht"
    },
    {
@@ -23574,15 +23574,15 @@
     "id": "background-image-applies-to-004.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-image-applies-to-003.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-image-applies-to-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-image-applies-to-001.xht"
    },
    {
@@ -27035,7 +27035,7 @@
  },
  "meta": {
   "startDate": "2016-07-20",
-  "timeTaken": "2066473",
+  "timeTaken": "1979758",
   "browser": "gngr"
  }
 }
