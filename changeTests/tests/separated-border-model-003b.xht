@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+ <head>
+
+  <title>Adapted from CSS Test: border-collapse: separate - HTML/XHTML table set width greater than sum of columns</title>
+
+  <link rel="author" title="Gérard Talbot" href="http://www.gtalbot.org/BrowserBugsSection/css21testsuite/" />
+  <meta name="assert" content="In the border-collapse: separate model, the width of an HTML/XHTML table is the distance between the left and right table border edges. If the set width of an HTML/XHTML table is greater than the sum of the columns width (plus cell spacing and table borders), then the extra (exceeding) space should be distributed over the columns." />
+
+  <style type="text/css"><![CDATA[
+  table
+  {
+  background-color: black;
+  border-spacing: 50px 0;
+  table-layout: fixed;
+  width: 500px;
+  padding: 25px 39px 25px 33px;
+  }
+
+  table, td
+  {
+  border-left: black solid 11px;
+  border-right: black solid 17px;
+  }
+
+  td {
+    width: 100px; background: orange; border-color: blue;
+    padding: 25px 20px 25px 20px;
+  }
+
+  div
+  {
+  background-color: blue;
+  height: 100px;
+  width: 500px;
+  }
+  ]]></style>
+
+ </head>
+
+ <body>
+
+  <table>
+   <tr>
+    <td></td>
+   </tr>
+  </table>
+
+  <div></div>
+
+ </body>
+</html>
