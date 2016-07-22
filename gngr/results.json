@@ -20766,15 +20766,15 @@
     "id": "border-color-applies-to-004.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-color-applies-to-003.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-color-applies-to-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-color-applies-to-001.xht"
    },
    {
@@ -21930,15 +21930,15 @@
     "id": "border-applies-to-004.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-applies-to-003.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-applies-to-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-applies-to-001.xht"
    },
    {
@@ -27035,7 +27035,7 @@
  },
  "meta": {
   "startDate": "2016-07-22",
-  "timeTaken": "2147600",
+  "timeTaken": "2251625",
   "browser": "gngr"
  }
 }
