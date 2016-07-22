@@ -1,0 +1,39 @@
+<html>
+<head>
+<style type="text/css">
+    #test {
+        border: green solid 20px;
+        display: table-row-group;
+    }
+    #table {
+        border-collapse: collapse;
+        display: table;
+        table-layout: fixed;
+        width: 80px;
+    }
+    .row {
+        display: table-row;
+    }
+    .cell {
+        color: grey;
+        display: table-cell;
+        height: 40px;
+        border:1px solid red;
+    }
+</style>
+</head>
+<body>
+<div style="width:60px;height: 60px; border: 20px solid orange"></div>
+<div id="table">
+    <div id="test">
+        <div class="row">
+            <div class="cell">a</div><div class="cell">b</div>
+        </div>
+        <div class="row">
+            <div class="cell">c</div><div class="cell">d</div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
