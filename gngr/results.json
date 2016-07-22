@@ -530,7 +530,7 @@
     "id": "white-space-normal-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "white-space-mixed-003.xht"
    },
    {
@@ -990,7 +990,7 @@
     "id": "units-004.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "units-003.xht"
    },
    {
@@ -2546,15 +2546,15 @@
     "id": "sgml-comments-000.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "separated-border-model-009.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "separated-border-model-008.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "separated-border-model-007.xht"
    },
    {
@@ -3622,7 +3622,7 @@
     "id": "position-relative-019.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "position-relative-018.xht"
    },
    {
@@ -3690,19 +3690,19 @@
     "id": "position-applies-to-015.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "position-applies-to-014.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "position-applies-to-013.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "position-applies-to-012.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "position-applies-to-009.xht"
    },
    {
@@ -8438,7 +8438,7 @@
     "id": "margin-backgrounds-003.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "margin-backgrounds-002.xht"
    },
    {
@@ -9022,11 +9022,11 @@
     "id": "line-breaking-bidi-003.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "line-breaking-bidi-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "line-breaking-bidi-001.xht"
    },
    {
@@ -9262,19 +9262,19 @@
     "id": "left-applies-to-015.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "left-applies-to-014.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "left-applies-to-013.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "left-applies-to-012.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "left-applies-to-009.xht"
    },
    {
@@ -9770,7 +9770,7 @@
     "id": "inline-replaced-width-015.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "inline-replaced-width-014.xht"
    },
    {
@@ -10406,7 +10406,7 @@
     "id": "height-114.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "height-113.xht"
    },
    {
@@ -10718,7 +10718,7 @@
     "id": "fonts-012.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "fonts-011.xht"
    },
    {
@@ -11650,11 +11650,11 @@
     "id": "floats-153.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "floats-152.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "floats-150.xht"
    },
    {
@@ -11734,7 +11734,7 @@
     "id": "floats-122.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "floats-121.xht"
    },
    {
@@ -11778,7 +11778,7 @@
     "id": "floats-111.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "floats-101.xht"
    },
    {
@@ -11818,7 +11818,7 @@
     "id": "floats-029.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "floats-028.xht"
    },
    {
@@ -15166,7 +15166,7 @@
     "id": "containing-block-026.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "containing-block-023.xht"
    },
    {
@@ -16202,7 +16202,7 @@
     "id": "clear-default-inheritance-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "clear-clearance-calculation-005.xht"
    },
    {
@@ -16450,7 +16450,7 @@
     "id": "c71-fwd-parsing-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c71-fwd-parsing-001.xht"
    },
    {
@@ -16626,7 +16626,7 @@
     "id": "c5509-padn-l-003.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c5509-padn-l-002.xht"
    },
    {
@@ -16650,7 +16650,7 @@
     "id": "c5509-ipadn-l-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c5509-ipadn-l-001.xht"
    },
    {
@@ -16678,7 +16678,7 @@
     "id": "c5507-padn-r-003.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c5507-padn-r-002.xht"
    },
    {
@@ -16702,7 +16702,7 @@
     "id": "c5507-ipadn-r-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c5507-ipadn-r-001.xht"
    },
    {
@@ -16742,7 +16742,7 @@
     "id": "c5505-imrgn-000.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c5504-mrgn-l-003.xht"
    },
    {
@@ -16774,7 +16774,7 @@
     "id": "c5504-imrgn-l-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c5504-imrgn-l-001.xht"
    },
    {
@@ -16790,7 +16790,7 @@
     "id": "c5503-imrgn-b-000.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c5502-mrgn-r-003.xht"
    },
    {
@@ -16822,7 +16822,7 @@
     "id": "c5502-imrgn-r-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c5502-imrgn-r-001.xht"
    },
    {
@@ -16890,7 +16890,7 @@
     "id": "c541-word-sp-000.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c536-bgpos-001.xht"
    },
    {
@@ -16998,7 +16998,7 @@
     "id": "c42-ibx-ht-000.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c414-flt-wrap-001.xht"
    },
    {
@@ -17010,15 +17010,15 @@
     "id": "c414-flt-fit-005.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c414-flt-fit-004.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c414-flt-fit-003.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c414-flt-fit-002.xht"
    },
    {
@@ -17030,7 +17030,7 @@
     "id": "c414-flt-fit-000.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "c412-hz-box-000.xht"
    },
    {
@@ -17194,7 +17194,7 @@
     "id": "box-sizing-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "box-offsets-rel-pos-002.xht"
    },
    {
@@ -17226,19 +17226,19 @@
     "id": "bottom-applies-to-015.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "bottom-applies-to-014.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "bottom-applies-to-013.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "bottom-applies-to-012.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "bottom-applies-to-009.xht"
    },
    {
@@ -17502,7 +17502,7 @@
     "id": "border-width-applies-to-008.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-width-014.xht"
    },
    {
@@ -17526,19 +17526,19 @@
     "id": "border-width-009.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-width-008.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-width-007.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-width-006.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-width-005.xht"
    },
    {
@@ -21870,11 +21870,11 @@
     "id": "border-bottom-applies-to-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-018.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "border-bottom-016.xht"
    },
    {
@@ -23038,7 +23038,7 @@
     "id": "background-position-applies-to-013e.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-position-applies-to-013d.xht"
    },
    {
@@ -23062,15 +23062,15 @@
     "id": "background-position-applies-to-006e.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-position-applies-to-006d.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-position-applies-to-006c.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-position-applies-to-006b.xht"
    },
    {
@@ -23086,15 +23086,15 @@
     "id": "background-position-applies-to-005e.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-position-applies-to-005d.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-position-applies-to-005c.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-position-applies-to-005b.xht"
    },
    {
@@ -23114,15 +23114,15 @@
     "id": "background-position-applies-to-003e.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-position-applies-to-003d.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-position-applies-to-003c.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-position-applies-to-003b.xht"
    },
    {
@@ -23134,15 +23134,15 @@
     "id": "background-position-applies-to-002e.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-position-applies-to-002d.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-position-applies-to-002c.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-position-applies-to-002b.xht"
    },
    {
@@ -23158,15 +23158,15 @@
     "id": "background-position-applies-to-001e.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-position-applies-to-001d.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-position-applies-to-001c.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "background-position-applies-to-001b.xht"
    },
    {
@@ -25614,7 +25614,7 @@
     "id": "abspos-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "abspos-001.xht"
    },
    {
@@ -25806,7 +25806,7 @@
     "id": "absolute-replaced-height-036.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "absolute-replaced-height-035.xht"
    },
    {
@@ -25818,7 +25818,7 @@
     "id": "absolute-replaced-height-033.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "absolute-replaced-height-032.xht"
    },
    {
@@ -25834,7 +25834,7 @@
     "id": "absolute-replaced-height-029.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "absolute-replaced-height-028.xht"
    },
    {
@@ -25846,7 +25846,7 @@
     "id": "absolute-replaced-height-026.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "absolute-replaced-height-025.xht"
    },
    {
@@ -25862,7 +25862,7 @@
     "id": "absolute-replaced-height-022.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "absolute-replaced-height-021.xht"
    },
    {
@@ -25870,11 +25870,11 @@
     "id": "absolute-replaced-height-020.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "absolute-replaced-height-019.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "absolute-replaced-height-018.xht"
    },
    {
@@ -26058,7 +26058,7 @@
     "id": "absolute-non-replaced-max-height-010.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "absolute-non-replaced-max-height-009.xht"
    },
    {
@@ -26066,7 +26066,7 @@
     "id": "absolute-non-replaced-max-height-008.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "absolute-non-replaced-max-height-007.xht"
    },
    {
@@ -26102,7 +26102,7 @@
     "id": "absolute-non-replaced-height-010.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "absolute-non-replaced-height-009.xht"
    },
    {
@@ -27035,7 +27035,7 @@
  },
  "meta": {
   "startDate": "2016-07-22",
-  "timeTaken": "2251625",
+  "timeTaken": "2212755",
   "browser": "gngr"
  }
 }
