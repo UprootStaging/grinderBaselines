@@ -6002,7 +6002,7 @@
     "id": "min-width-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-percentage-003.xht"
    },
    {
@@ -6010,7 +6010,7 @@
     "id": "min-height-percentage-002.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-percentage-001.xht"
    },
    {
@@ -6018,7 +6018,7 @@
     "id": "min-height-applies-to-015.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-applies-to-012.xht"
    },
    {
@@ -6026,7 +6026,7 @@
     "id": "min-height-applies-to-011.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-applies-to-009.xht"
    },
    {
@@ -6042,27 +6042,27 @@
     "id": "min-height-applies-to-005.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-112.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-111.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-106.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-105.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-104.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-103.xht"
    },
    {
@@ -6078,11 +6078,11 @@
     "id": "min-height-100.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-095.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-094.xht"
    },
    {
@@ -6094,7 +6094,7 @@
     "id": "min-height-092.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-091.xht"
    },
    {
@@ -6106,11 +6106,11 @@
     "id": "min-height-089.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-084.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-083.xht"
    },
    {
@@ -6134,11 +6134,11 @@
     "id": "min-height-078.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-073.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-072.xht"
    },
    {
@@ -6150,7 +6150,7 @@
     "id": "min-height-070.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-069.xht"
    },
    {
@@ -6162,11 +6162,11 @@
     "id": "min-height-067.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-062.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-061.xht"
    },
    {
@@ -6190,11 +6190,11 @@
     "id": "min-height-056.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-051.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-050.xht"
    },
    {
@@ -6218,11 +6218,11 @@
     "id": "min-height-045.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-040.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-039.xht"
    },
    {
@@ -6246,11 +6246,11 @@
     "id": "min-height-034.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-029.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-028.xht"
    },
    {
@@ -6274,11 +6274,11 @@
     "id": "min-height-023.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-018.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-017.xht"
    },
    {
@@ -6298,11 +6298,11 @@
     "id": "min-height-012.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-007.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-006.xht"
    },
    {
@@ -6314,7 +6314,7 @@
     "id": "min-height-004.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "min-height-003.xht"
    },
    {
@@ -6746,7 +6746,7 @@
     "id": "max-width-001.xht"
    },
    {
-    "pass": "false",
+    "pass": "true",
     "id": "max-height-percentage-003.xht"
    },
    {
@@ -8078,7 +8078,7 @@
     "id": "margin-collapse-026.xht"
    },
    {
-    "pass": "true",
+    "pass": "false",
     "id": "margin-collapse-025.xht"
    },
    {
@@ -27034,8 +27034,8 @@
   "selectedCount": "6757"
  },
  "meta": {
-  "startDate": "2016-09-14",
-  "timeTaken": "2221507",
+  "startDate": "2016-09-26",
+  "timeTaken": "1925873",
   "browser": "gngr"
  }
 }
