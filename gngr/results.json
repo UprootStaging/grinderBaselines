@@ -2458,7 +2458,7 @@
     "id": "specificity-013.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "specificity-011.xht"
    },
    {
@@ -3518,19 +3518,19 @@
     "id": "quotes-035.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "quoted-string-004.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "quoted-string-003.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "quoted-string-002.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "quoted-string-001.xht"
    },
    {
@@ -14114,7 +14114,7 @@
     "id": "first-letter-dynamic-002.xht"
    },
    {
-    "pass": true,
+    "pass": false,
     "id": "first-letter-dynamic-001.xht"
    },
    {
@@ -14670,7 +14670,7 @@
     "id": "counters-003.xht"
    },
    {
-    "pass": true,
+    "pass": false,
     "id": "counters-002.xht"
    },
    {
@@ -22202,7 +22202,7 @@
     "id": "block-in-inline-insert-016a.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "block-in-inline-insert-015.xht"
    },
    {
@@ -22214,7 +22214,7 @@
     "id": "block-in-inline-insert-013.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "block-in-inline-insert-012.xht"
    },
    {
@@ -22734,7 +22734,7 @@
     "id": "before-first-letter-selector-001.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "before-content-display-018.xht"
    },
    {
@@ -22754,11 +22754,11 @@
     "id": "before-content-display-014.xht"
    },
    {
-    "pass": true,
+    "pass": false,
     "id": "before-content-display-013.xht"
    },
    {
-    "pass": true,
+    "pass": false,
     "id": "before-content-display-012.xht"
    },
    {
@@ -22790,15 +22790,15 @@
     "id": "before-content-display-005.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "before-content-display-003.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "before-content-display-002.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "before-content-display-001.xht"
    },
    {
@@ -22810,19 +22810,19 @@
     "id": "before-after-table-parts-001.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "before-after-selector-001.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "before-after-positioned-004.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "before-after-positioned-003.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "before-after-positioned-002.xht"
    },
    {
@@ -22854,7 +22854,7 @@
     "id": "before-after-011.xht"
    },
    {
-    "pass": true,
+    "pass": false,
     "id": "before-after-001.xht"
    },
    {
@@ -25270,7 +25270,7 @@
     "id": "anonymous-box-generation-001.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "after-content-display-018.xht"
    },
    {
@@ -25290,11 +25290,11 @@
     "id": "after-content-display-014.xht"
    },
    {
-    "pass": true,
+    "pass": false,
     "id": "after-content-display-013.xht"
    },
    {
-    "pass": true,
+    "pass": false,
     "id": "after-content-display-012.xht"
    },
    {
@@ -25314,7 +25314,7 @@
     "id": "after-content-display-008.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "after-content-display-007.xht"
    },
    {
@@ -25326,15 +25326,15 @@
     "id": "after-content-display-005.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "after-content-display-003.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "after-content-display-002.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "after-content-display-001.xht"
    },
    {
@@ -27030,12 +27030,12 @@
     "id": "abs-pos-non-replaced-vlr-003.xht"
    }
   ],
-  "totalCount": "6757",
-  "selectedCount": "6757"
+  "totalCount": 6757,
+  "selectedCount": 6757
  },
  "meta": {
-  "startDate": "2016-09-26",
-  "timeTaken": "1925873",
+  "startDate": "2016-09-28",
+  "timeTaken": 1909946,
   "browser": "gngr"
  }
 }
