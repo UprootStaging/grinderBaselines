@@ -1,0 +1,35 @@
+<html>
+  <head>
+    <style>
+
+p {padding-right: 1em; background: #eee}
+
+.a:after {content: "a"; color: blue; border: 2px solid red; margin: 2em}
+
+.b:after {content: "b"; color: blue; display: block}
+
+.c:after {content: "c";}
+
+.d:after {background: purple; padding: 10px;}
+
+.e:after {background: purple; padding: 10px; content: none}
+
+#id:after {content: "id"}
+
+    </style>
+  </head>
+
+  <body>
+    <p class="a">Only A</p>
+    <p class="b">Only B</p>
+    <p class="a b">A and B</p>
+    <p class="a c">A and C</p>
+    <p class="d">Only D</p>
+    <p class="a d">A and D</p>
+    <p class="e">Only E</p>
+    <p class="a e">A and E</p>
+    <p id="id">Only id</p>
+    <p id="id" class="a">Only id and a</p>
+    <p id="id" class="a b">id with a and b</p>
+  </body>
+</html>
