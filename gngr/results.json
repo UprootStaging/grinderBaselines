@@ -22754,11 +22754,11 @@
     "id": "before-content-display-014.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "before-content-display-013.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "before-content-display-012.xht"
    },
    {
@@ -25290,11 +25290,11 @@
     "id": "after-content-display-014.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "after-content-display-013.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "after-content-display-012.xht"
    },
    {
@@ -27035,7 +27035,7 @@
  },
  "meta": {
   "startDate": "2016-09-28",
-  "timeTaken": 1909946,
+  "timeTaken": 1902320,
   "browser": "gngr"
  }
 }
