@@ -3063,11 +3063,11 @@
    },
    {
     "pass": false,
-    "id": "rtl-span-only-ib.xht"
+    "id": "rtl-span-only.xht"
    },
    {
     "pass": false,
-    "id": "rtl-span-only.xht"
+    "id": "rtl-span-only-ib.xht"
    },
    {
     "pass": false,
@@ -8559,11 +8559,11 @@
    },
    {
     "pass": true,
-    "id": "ltr-span-only-ib.xht"
+    "id": "ltr-span-only.xht"
    },
    {
     "pass": true,
-    "id": "ltr-span-only.xht"
+    "id": "ltr-span-only-ib.xht"
    },
    {
     "pass": true,
@@ -27034,8 +27034,8 @@
   "selectedCount": 6757
  },
  "meta": {
-  "startDate": "2016-09-28",
-  "timeTaken": 1902320,
+  "startDate": "2016-09-29",
+  "timeTaken": 1906599,
   "browser": "gngr"
  }
 }
