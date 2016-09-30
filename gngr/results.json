@@ -1762,7 +1762,7 @@
     "id": "table-backgrounds-bc-cell-001.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "table-anonymous-objects-206.xht"
    },
    {
@@ -1842,7 +1842,7 @@
     "id": "table-anonymous-objects-187.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "table-anonymous-objects-186.xht"
    },
    {
@@ -1858,7 +1858,7 @@
     "id": "table-anonymous-objects-183.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "table-anonymous-objects-182.xht"
    },
    {
@@ -5658,7 +5658,7 @@
     "id": "numbers-units-001.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "multiple-content-values-001.xht"
    },
    {
@@ -14274,7 +14274,7 @@
     "id": "eof-004.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "eof-003.xht"
    },
    {
@@ -15058,7 +15058,7 @@
     "id": "content-counter-002.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "content-counter-001.xht"
    },
    {
@@ -15090,51 +15090,51 @@
     "id": "content-171.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "content-121.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "content-119.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "content-118.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "content-117.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "content-116.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "content-115.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "content-114.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "content-112.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "content-111.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "content-110.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "content-108.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "content-107.xht"
    },
    {
@@ -22738,7 +22738,7 @@
     "id": "before-content-display-018.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "before-content-display-017.xht"
    },
    {
@@ -22778,7 +22778,7 @@
     "id": "before-content-display-008.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "before-content-display-007.xht"
    },
    {
@@ -25274,7 +25274,7 @@
     "id": "after-content-display-018.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "after-content-display-017.xht"
    },
    {
@@ -27034,8 +27034,8 @@
   "selectedCount": 6757
  },
  "meta": {
-  "startDate": "2016-09-29",
-  "timeTaken": 1906599,
+  "startDate": "2016-09-30",
+  "timeTaken": 1901970,
   "browser": "gngr"
  }
 }
