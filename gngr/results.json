@@ -22854,7 +22854,7 @@
     "id": "before-after-011.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "before-after-001.xht"
    },
    {
@@ -27034,8 +27034,8 @@
   "selectedCount": 6757
  },
  "meta": {
-  "startDate": "2016-09-30",
-  "timeTaken": 1901970,
+  "startDate": "2016-10-01",
+  "timeTaken": 1909545,
   "browser": "gngr"
  }
 }
