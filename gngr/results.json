@@ -586,7 +586,7 @@
     "id": "vertical-align-sub-001.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "vertical-align-baseline-009.xht"
    },
    {
@@ -1374,7 +1374,7 @@
     "id": "text-transform-capitalize-001.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "text-transform-applies-to-015.xht"
    },
    {
@@ -1546,7 +1546,7 @@
     "id": "text-decoration-image-001.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "text-decoration-applies-to-015.xht"
    },
    {
@@ -1970,7 +1970,7 @@
     "id": "table-anonymous-objects-155.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "table-anonymous-objects-154.xht"
    },
    {
@@ -1978,7 +1978,7 @@
     "id": "table-anonymous-objects-153.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "table-anonymous-objects-152.xht"
    },
    {
@@ -1986,67 +1986,67 @@
     "id": "table-anonymous-objects-151.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "table-anonymous-objects-150.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "table-anonymous-objects-149.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "table-anonymous-objects-148.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "table-anonymous-objects-147.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "table-anonymous-objects-146.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "table-anonymous-objects-145.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "table-anonymous-objects-144.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "table-anonymous-objects-143.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "table-anonymous-objects-142.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "table-anonymous-objects-141.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "table-anonymous-objects-140.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "table-anonymous-objects-139.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "table-anonymous-objects-138.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "table-anonymous-objects-137.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "table-anonymous-objects-136.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "table-anonymous-objects-135.xht"
    },
    {
@@ -2646,11 +2646,11 @@
     "id": "run-in-table-between-003.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "run-in-table-between-002.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "run-in-table-between-001.xht"
    },
    {
@@ -5142,7 +5142,7 @@
     "id": "padding-001.xht"
    },
    {
-    "pass": true,
+    "pass": false,
     "id": "overflow-applies-to-015.xht"
    },
    {
@@ -10774,7 +10774,7 @@
     "id": "font-weight-applies-to-016.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "font-weight-applies-to-015.xht"
    },
    {
@@ -10830,7 +10830,7 @@
     "id": "font-variant-applies-to-016.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "font-variant-applies-to-015.xht"
    },
    {
@@ -11282,7 +11282,7 @@
     "id": "font-family-applies-to-016.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "font-family-applies-to-015.xht"
    },
    {
@@ -11354,7 +11354,7 @@
     "id": "font-applies-to-016.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "font-applies-to-015.xht"
    },
    {
@@ -15310,7 +15310,7 @@
     "id": "colors-001.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "color-applies-to-015.xht"
    },
    {
@@ -22682,11 +22682,11 @@
     "id": "bidi-009a.xht"
    },
    {
-    "pass": true,
+    "pass": false,
     "id": "bidi-008b.xht"
    },
    {
-    "pass": true,
+    "pass": false,
     "id": "bidi-008a.xht"
    },
    {
@@ -22782,7 +22782,7 @@
     "id": "before-content-display-007.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "before-content-display-006.xht"
    },
    {
@@ -25318,7 +25318,7 @@
     "id": "after-content-display-007.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "after-content-display-006.xht"
    },
    {
@@ -25466,7 +25466,7 @@
     "id": "abspos-containing-block-initial-005a.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "abspos-containing-block-initial-004f.xht"
    },
    {
@@ -27034,8 +27034,8 @@
   "selectedCount": 6757
  },
  "meta": {
-  "startDate": "2016-10-01",
-  "timeTaken": 1909545,
+  "startDate": "2016-10-09",
+  "timeTaken": 1924430,
   "browser": "gngr"
  }
 }
