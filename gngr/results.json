@@ -134,7 +134,7 @@
     "id": "width-applies-to-015.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "width-applies-to-014.xht"
    },
    {
@@ -622,7 +622,7 @@
     "id": "vertical-align-applies-to-015.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "vertical-align-applies-to-014.xht"
    },
    {
@@ -3782,7 +3782,7 @@
     "id": "padding-top-applies-to-015.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "padding-top-applies-to-014.xht"
    },
    {
@@ -4106,7 +4106,7 @@
     "id": "padding-right-applies-to-015.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "padding-right-applies-to-014.xht"
    },
    {
@@ -4422,7 +4422,7 @@
     "id": "padding-left-applies-to-015.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "padding-left-applies-to-014.xht"
    },
    {
@@ -4746,7 +4746,7 @@
     "id": "padding-bottom-applies-to-015.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "padding-bottom-applies-to-014.xht"
    },
    {
@@ -5058,7 +5058,7 @@
     "id": "padding-applies-to-015.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "padding-applies-to-014.xht"
    },
    {
@@ -7090,7 +7090,7 @@
     "id": "margin-top-applies-to-015.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "margin-top-applies-to-014.xht"
    },
    {
@@ -7358,7 +7358,7 @@
     "id": "margin-right-applies-to-015.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "margin-right-applies-to-014.xht"
    },
    {
@@ -7610,7 +7610,7 @@
     "id": "margin-left-applies-to-015.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "margin-left-applies-to-014.xht"
    },
    {
@@ -9682,19 +9682,19 @@
     "id": "inline-table-zorder-001.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "inline-table-width-002b.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "inline-table-width-002a.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "inline-table-width-001b.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "inline-table-width-001a.xht"
    },
    {
@@ -9706,11 +9706,11 @@
     "id": "inline-table-valign-001.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "inline-table-height-002.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "inline-table-height-001.xht"
    },
    {
@@ -9730,7 +9730,7 @@
     "id": "inline-table-alignment-002.xht"
    },
    {
-    "pass": true,
+    "pass": false,
     "id": "inline-table-003.xht"
    },
    {
@@ -10358,7 +10358,7 @@
     "id": "height-applies-to-015.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "height-applies-to-014.xht"
    },
    {
@@ -15314,7 +15314,7 @@
     "id": "color-applies-to-015.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "color-applies-to-014.xht"
    },
    {
@@ -17562,7 +17562,7 @@
     "id": "border-top-width-applies-to-015.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "border-top-width-applies-to-014.xht"
    },
    {
@@ -17850,7 +17850,7 @@
     "id": "border-top-color-applies-to-015.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "border-top-color-applies-to-014.xht"
    },
    {
@@ -18486,7 +18486,7 @@
     "id": "border-top-applies-to-015.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "border-top-applies-to-014.xht"
    },
    {
@@ -18630,7 +18630,7 @@
     "id": "border-right-width-applies-to-015.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "border-right-width-applies-to-014.xht"
    },
    {
@@ -18918,7 +18918,7 @@
     "id": "border-right-color-applies-to-015.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "border-right-color-applies-to-014.xht"
    },
    {
@@ -19554,7 +19554,7 @@
     "id": "border-right-applies-to-015.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "border-right-applies-to-014.xht"
    },
    {
@@ -19638,7 +19638,7 @@
     "id": "border-left-width-applies-to-015.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "border-left-width-applies-to-014.xht"
    },
    {
@@ -19922,7 +19922,7 @@
     "id": "border-left-color-applies-to-015.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "border-left-color-applies-to-014.xht"
    },
    {
@@ -20558,7 +20558,7 @@
     "id": "border-left-applies-to-015.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "border-left-applies-to-014.xht"
    },
    {
@@ -20902,7 +20902,7 @@
     "id": "border-bottom-width-applies-to-015.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "border-bottom-width-applies-to-014.xht"
    },
    {
@@ -21190,7 +21190,7 @@
     "id": "border-bottom-color-applies-to-015.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "border-bottom-color-applies-to-014.xht"
    },
    {
@@ -21826,7 +21826,7 @@
     "id": "border-bottom-applies-to-015.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "border-bottom-applies-to-014.xht"
    },
    {
@@ -22778,7 +22778,7 @@
     "id": "before-content-display-008.xht"
    },
    {
-    "pass": true,
+    "pass": false,
     "id": "before-content-display-007.xht"
    },
    {
@@ -22962,7 +22962,7 @@
     "id": "background-repeat-applies-to-015.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "background-repeat-applies-to-014.xht"
    },
    {
@@ -23542,7 +23542,7 @@
     "id": "background-image-applies-to-015.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "background-image-applies-to-014.xht"
    },
    {
@@ -23606,7 +23606,7 @@
     "id": "background-color-applies-to-015.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "background-color-applies-to-014.xht"
    },
    {
@@ -24310,7 +24310,7 @@
     "id": "background-applies-to-015.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "background-applies-to-014.xht"
    },
    {
@@ -25314,7 +25314,7 @@
     "id": "after-content-display-008.xht"
    },
    {
-    "pass": true,
+    "pass": false,
     "id": "after-content-display-007.xht"
    },
    {
@@ -27034,8 +27034,8 @@
   "selectedCount": 6757
  },
  "meta": {
-  "startDate": "2016-10-09",
-  "timeTaken": 1924430,
+  "startDate": "2016-10-20",
+  "timeTaken": 2144521,
   "browser": "gngr"
  }
 }
