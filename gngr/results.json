@@ -890,7 +890,7 @@
     "id": "uri-015.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "uri-014.xht"
    },
    {
@@ -926,11 +926,11 @@
     "id": "uri-006.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "uri-005.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "uri-004.xht"
    },
    {
@@ -2428,6 +2428,10 @@
    {
     "pass": true,
     "id": "style-attr-cascade-001.xht"
+   },
+   {
+    "pass": false,
+    "id": "style-01.xht"
    },
    {
     "pass": false,
@@ -5203,6 +5207,10 @@
    },
    {
     "pass": true,
+    "id": "outline-width-096.xht"
+   },
+   {
+    "pass": true,
     "id": "outline-width-091.xht"
    },
    {
@@ -5336,10 +5344,6 @@
    {
     "pass": true,
     "id": "outline-style-001.xht"
-   },
-   {
-    "pass": false,
-    "id": "outline-layout-006.xht"
    },
    {
     "pass": true,
@@ -5664,10 +5668,6 @@
    {
     "pass": false,
     "id": "multicol-height-002.xht"
-   },
-   {
-    "pass": false,
-    "id": "min-width-tables-001.xht"
    },
    {
     "pass": true,
@@ -6324,74 +6324,6 @@
    {
     "pass": true,
     "id": "min-height-001.xht"
-   },
-   {
-    "pass": true,
-    "id": "media-dependency-017.xht"
-   },
-   {
-    "pass": true,
-    "id": "media-dependency-016.xht"
-   },
-   {
-    "pass": true,
-    "id": "media-dependency-015.xht"
-   },
-   {
-    "pass": true,
-    "id": "media-dependency-014.xht"
-   },
-   {
-    "pass": true,
-    "id": "media-dependency-013.xht"
-   },
-   {
-    "pass": true,
-    "id": "media-dependency-012.xht"
-   },
-   {
-    "pass": true,
-    "id": "media-dependency-011.xht"
-   },
-   {
-    "pass": true,
-    "id": "media-dependency-010.xht"
-   },
-   {
-    "pass": true,
-    "id": "media-dependency-009.xht"
-   },
-   {
-    "pass": true,
-    "id": "media-dependency-008.xht"
-   },
-   {
-    "pass": true,
-    "id": "media-dependency-007.xht"
-   },
-   {
-    "pass": true,
-    "id": "media-dependency-006.xht"
-   },
-   {
-    "pass": true,
-    "id": "media-dependency-005.xht"
-   },
-   {
-    "pass": false,
-    "id": "media-dependency-004.xht"
-   },
-   {
-    "pass": true,
-    "id": "media-dependency-003.xht"
-   },
-   {
-    "pass": true,
-    "id": "media-dependency-002.xht"
-   },
-   {
-    "pass": true,
-    "id": "media-dependency-001.xht"
    },
    {
     "pass": true,
@@ -8634,6 +8566,10 @@
     "id": "list-style-position-023.xht"
    },
    {
+    "pass": false,
+    "id": "list-style-position-018.xht"
+   },
+   {
     "pass": true,
     "id": "list-style-image-005.xht"
    },
@@ -9052,6 +8988,14 @@
    {
     "pass": true,
     "id": "line-box-height-vrl-002.xht"
+   },
+   {
+    "pass": true,
+    "id": "line-box-height-vlr-023.xht"
+   },
+   {
+    "pass": true,
+    "id": "line-box-height-vlr-021.xht"
    },
    {
     "pass": false,
@@ -9699,10 +9643,6 @@
    },
    {
     "pass": false,
-    "id": "inline-table-valign-002.xht"
-   },
-   {
-    "pass": false,
     "id": "inline-table-valign-001.xht"
    },
    {
@@ -10159,30 +10099,6 @@
    },
    {
     "pass": true,
-    "id": "ident-019.xht"
-   },
-   {
-    "pass": true,
-    "id": "ident-018.xht"
-   },
-   {
-    "pass": true,
-    "id": "ident-017.xht"
-   },
-   {
-    "pass": false,
-    "id": "ident-016.xht"
-   },
-   {
-    "pass": true,
-    "id": "ident-015.xht"
-   },
-   {
-    "pass": false,
-    "id": "ident-014.xht"
-   },
-   {
-    "pass": true,
     "id": "ident-013.xht"
    },
    {
@@ -10252,10 +10168,6 @@
    {
     "pass": true,
     "id": "id-selector-001.xht"
-   },
-   {
-    "pass": false,
-    "id": "html-precedence-004.xht"
    },
    {
     "pass": true,
@@ -14671,14 +14583,6 @@
    },
    {
     "pass": false,
-    "id": "counters-002.xht"
-   },
-   {
-    "pass": true,
-    "id": "counters-001.xht"
-   },
-   {
-    "pass": false,
     "id": "counter-reset-visibility-001.xht"
    },
    {
@@ -16379,34 +16283,6 @@
    },
    {
     "pass": true,
-    "id": "cascade-import-dynamic-control.xht"
-   },
-   {
-    "pass": true,
-    "id": "cascade-import-dynamic-006.xht"
-   },
-   {
-    "pass": true,
-    "id": "cascade-import-dynamic-005.xht"
-   },
-   {
-    "pass": true,
-    "id": "cascade-import-dynamic-004.xht"
-   },
-   {
-    "pass": true,
-    "id": "cascade-import-dynamic-003.xht"
-   },
-   {
-    "pass": false,
-    "id": "cascade-import-dynamic-002.xht"
-   },
-   {
-    "pass": false,
-    "id": "cascade-import-dynamic-001.xht"
-   },
-   {
-    "pass": true,
     "id": "cascade-012.xht"
    },
    {
@@ -16458,7 +16334,7 @@
     "id": "c71-fwd-parsing-000.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "c64-uri-000.xht"
    },
    {
@@ -17171,23 +17047,11 @@
    },
    {
     "pass": false,
-    "id": "box-sizing-006.xht"
-   },
-   {
-    "pass": false,
     "id": "box-sizing-005.xht"
    },
    {
     "pass": false,
-    "id": "box-sizing-004.xht"
-   },
-   {
-    "pass": false,
     "id": "box-sizing-003.xht"
-   },
-   {
-    "pass": false,
-    "id": "box-sizing-002.xht"
    },
    {
     "pass": false,
@@ -20894,10 +20758,6 @@
     "id": "border-collapse-applies-to-016.xht"
    },
    {
-    "pass": true,
-    "id": "border-collapse-005.xht"
-   },
-   {
     "pass": false,
     "id": "border-bottom-width-applies-to-015.xht"
    },
@@ -22895,11 +22755,27 @@
    },
    {
     "pass": false,
+    "id": "background-root-017.xht"
+   },
+   {
+    "pass": false,
     "id": "background-root-016.xht"
    },
    {
     "pass": false,
     "id": "background-root-015.xht"
+   },
+   {
+    "pass": false,
+    "id": "background-root-014b.xht"
+   },
+   {
+    "pass": false,
+    "id": "background-root-013b.xht"
+   },
+   {
+    "pass": false,
+    "id": "background-root-012b.xht"
    },
    {
     "pass": false,
@@ -24942,30 +24818,6 @@
     "id": "at-import-009.xht"
    },
    {
-    "pass": true,
-    "id": "at-import-007.xht"
-   },
-   {
-    "pass": true,
-    "id": "at-import-006.xht"
-   },
-   {
-    "pass": true,
-    "id": "at-import-005.xht"
-   },
-   {
-    "pass": true,
-    "id": "at-import-004.xht"
-   },
-   {
-    "pass": true,
-    "id": "at-import-003.xht"
-   },
-   {
-    "pass": true,
-    "id": "at-import-002.xht"
-   },
-   {
     "pass": false,
     "id": "at-charset-utf16-le-003.xht"
    },
@@ -25082,15 +24934,15 @@
     "id": "at-charset-049.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "at-charset-048.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "at-charset-047.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "at-charset-046.xht"
    },
    {
@@ -25098,7 +24950,7 @@
     "id": "at-charset-045.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "at-charset-044.xht"
    },
    {
@@ -25110,12 +24962,16 @@
     "id": "at-charset-042.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "at-charset-041.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "at-charset-040.xht"
+   },
+   {
+    "pass": true,
+    "id": "at-charset-039.xht"
    },
    {
     "pass": true,
@@ -25142,23 +24998,23 @@
     "id": "at-charset-033.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "at-charset-030.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "at-charset-029.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "at-charset-028.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "at-charset-027.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "at-charset-026.xht"
    },
    {
@@ -25166,7 +25022,7 @@
     "id": "at-charset-025.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "at-charset-024.xht"
    },
    {
@@ -25206,7 +25062,7 @@
     "id": "at-charset-010.xht"
    },
    {
-    "pass": false,
+    "pass": true,
     "id": "at-charset-009.xht"
    },
    {
@@ -27030,12 +26886,12 @@
     "id": "abs-pos-non-replaced-vlr-003.xht"
    }
   ],
-  "totalCount": 6757,
-  "selectedCount": 6757
+  "totalCount": 6721,
+  "selectedCount": 6721
  },
  "meta": {
-  "startDate": "2016-10-20",
-  "timeTaken": 2144521,
+  "startDate": "2017-06-18",
+  "timeTaken": 2092016,
   "browser": "gngr"
  }
 }
