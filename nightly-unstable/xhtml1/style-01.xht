@@ -1,0 +1,27 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>The style attribute</title>
+<link href="reference/style-01-ref.xht" rel="match" />
+<link href="mailto:ms2ger@gmail.com" rel="author" title="Ms2ger" />
+<link href="https://html.spec.whatwg.org/multipage/#the-style-attribute" rel="help" />
+<link href="http://www.w3.org/TR/css-style-attr/#syntax" rel="help" />
+<link href="http://www.w3.org/TR/CSS21/cascade.html#cascading-order" rel="help" />
+<link href="http://www.w3.org/TR/CSS21/cascade.html#specificity" rel="help" />
+<style>
+#idsel { background: red; }
+#idsel2 { background: limegreen !important; }
+</style>
+</head><body><div id="test">
+<p style="background:limegreen">This line should have a green background.
+</p><p style="/**/background:limegreen">This line should have a green background.
+</p><p style="background/**/:limegreen">This line should have a green background.
+</p><p style="background:/**/limegreen">This line should have a green background.
+</p><p style="background:limegreen/**/">This line should have a green background.
+</p><p style="background:limegreen" id="idsel1">This line should have a green background.
+</p><p style="background:red" id="idsel2">This line should have a green background.
+</p><p style="background:limegreen; background:r/**/ed">This line should have a green background.
+</p><p style="background:limegreen;}">This line should have a green background.
+</p><p style="};background:limegreen">This line should have a green background.
+</p><p style="background:red;};background:limegreen">This line should have a green background.
+</p><p style="background:limegreen;{background:red}">This line should have a green background.
+</p></div>
+</body></html>
