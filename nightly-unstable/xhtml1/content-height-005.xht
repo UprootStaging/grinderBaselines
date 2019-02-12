@@ -1,0 +1,42 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta charset="utf-8" />
+<title>CSS2 inline level box content height test</title>
+<link href="https://florian.rivoal.net" rel="author" title="Florian Rivoal" />
+<link href="https://drafts.csswg.org/css2/visudet.html#line-height" rel="help" />
+<link href="reference/content-height-005-ref.xht" rel="mismatch" />
+<meta content="" name="flags" />
+<meta content="The height of the content area of an inline-level depends on the primary font" name="assert" />
+<style>
+@font-face {
+  font-family: 'high';
+  font-style: normal;
+  font-weight: 400;
+  src:  url(/fonts/Revalia.woff) format('woff');
+}
+@font-face {
+  font-family: 'deep';
+  font-style: normal;
+  font-weight: 400;
+  src: url(/fonts/AD.woff) format('woff');
+}
+
+div {
+  font-size: 50px;
+  display: inline-block;
+}
+
+span {
+  padding-left: 1em;
+  color: black;
+  border-top: solid 1px;
+  border-bottom: solid 1px;
+}
+
+div:nth-of-type(1) { font-family: deep; }
+div:nth-of-type(2) { font-family: high; margin-left: -1em; }
+</style>
+
+</head><body><p>Test passes if there are <strong>more than 2</strong> lines below.
+
+</p><div><span></span></div><div><span></span></div>
+</body></html>

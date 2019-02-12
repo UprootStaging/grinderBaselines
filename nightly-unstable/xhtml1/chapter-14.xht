@@ -40,7 +40,7 @@
       <tr><th colspan="4" scope="rowgroup">
         <a href="#s14.1">+</a>
         <a href="https://www.w3.org/TR/CSS21/colors.html#colors">14.1 Foreground color: the 'color' property</a></th></tr>
-      <!-- 168 tests -->
+      <!-- 167 tests -->
       <tr id="bidi-color-001-14.1" class="">
         <td>
             <a href="bidi-color-001.xht">bidi-color-001</a></td>
@@ -392,17 +392,6 @@
         <td>Color set to hex with three digits with the maximum value of #fff
           <ul class="assert">
             <li>The 'color' set to '#fff' renders the correct foreground color of an element's text content.</li>
-          </ul>
-        </td>
-      </tr>
-      <tr id="color-030-14.1" class="ahem invalid">
-        <td>
-            <a href="color-030.xht">color-030</a></td>
-        <td><a href="reference/color-002-ref.xht">=</a> </td>
-        <td><abbr class="ahem" title="Requires Ahem font">Ahem</abbr><abbr class="invalid" title="Tests invalid CSS">Invalid</abbr></td>
-        <td>Color set to hex with three digits with the maximum plus one value of #1000
-          <ul class="assert">
-            <li>The 'color' set to '#1000' falls back to the initial value and renders the correct foreground color of an element's text content.</li>
           </ul>
         </td>
       </tr>
@@ -1873,7 +1862,7 @@
       </tr>
     </tbody>
     <tbody id="s14.1.#propdef-color">
-      <!-- 161 tests -->
+      <!-- 160 tests -->
       <tr id="color-001-14.1.#propdef-color" class="ahem invalid">
         <td>
             <a href="color-001.xht">color-001</a></td>
@@ -2190,17 +2179,6 @@
         <td>Color set to hex with three digits with the maximum value of #fff
           <ul class="assert">
             <li>The 'color' set to '#fff' renders the correct foreground color of an element's text content.</li>
-          </ul>
-        </td>
-      </tr>
-      <tr id="color-030-14.1.#propdef-color" class="ahem invalid">
-        <td>
-            <a href="color-030.xht">color-030</a></td>
-        <td><a href="reference/color-002-ref.xht">=</a> </td>
-        <td><abbr class="ahem" title="Requires Ahem font">Ahem</abbr><abbr class="invalid" title="Tests invalid CSS">Invalid</abbr></td>
-        <td>Color set to hex with three digits with the maximum plus one value of #1000
-          <ul class="assert">
-            <li>The 'color' set to '#1000' falls back to the initial value and renders the correct foreground color of an element's text content.</li>
           </ul>
         </td>
       </tr>
@@ -4131,7 +4109,7 @@
       <tr><th colspan="4" scope="rowgroup">
         <a href="#s14.2.1">+</a>
         <a href="https://www.w3.org/TR/CSS21/colors.html#background-properties">14.2.1 Background properties: 'background-color', 'background-image', 'background-repeat', 'background-attachment', 'background-position', and 'background'</a></th></tr>
-      <!-- 747 tests -->
+      <!-- 748 tests -->
       <tr id="background-001-14.2.1" class="">
         <td>
             <a href="background-001.xht">background-001</a></td>
@@ -10245,6 +10223,17 @@
         <td>background-image applicability to ::first-letter
           <ul class="assert">
             <li>background-image applicability to ::first-letter</li>
+          </ul>
+        </td>
+      </tr>
+      <tr id="background-image-first-line-14.2.1" class="ahem image">
+        <td>
+            <a href="background-image-first-line.xht">background-image-first-line</a></td>
+        <td><a href="reference/background-image-first-line-ref.xht">=</a> </td>
+        <td><abbr class="ahem" title="Requires Ahem font">Ahem</abbr><abbr class="image" title="Requires bitmap graphic support">Bitmaps</abbr></td>
+        <td>background-image applicability to ::first-line
+          <ul class="assert">
+            <li>background-image applicability to ::first-line</li>
           </ul>
         </td>
       </tr>

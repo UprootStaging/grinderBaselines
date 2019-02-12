@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta charset="utf-8" />
+<title>CSS2 inline level box content height test</title>
+<link href="https://florian.rivoal.net" rel="author" title="Florian Rivoal" />
+<link href="https://drafts.csswg.org/css2/visudet.html#line-height" rel="help" />
+<link href="reference/content-height-003-ref.xht" rel="match" />
+<meta content="" name="flags" />
+<meta content="The height of the content area of an inline-level box does not depend on the value of the line-height property,
+                             even when fallback fonts are used at the exclusion of the first available font" name="assert" />
+<style>
+@font-face {
+  font-family: 'high-a-only';
+  font-style: normal;
+  font-weight: 400;
+  src:  url(/fonts/Revalia.woff) format('woff');
+  unicode-range: U+0061, U+0020;
+}
+@font-face {
+  font-family: 'deep-b-only';
+  font-style: normal;
+  font-weight: 400;
+  src: url(/fonts/AD.woff) format('woff');
+  unicode-range: U+0062, U+0020;
+}
+
+div {
+  font-size: 50px;
+  display: inline-block;
+  color: transparent;
+  font-family: high-a-only, deep-b-only;
+}
+
+span { background: blue; }
+
+div { line-height: 200px; }
+div:nth-of-type(2) { line-height: 30px; }
+div:nth-of-type(3) { line-height: normal; }
+</style>
+
+</head><body><p>Test passes if the blue shape below is a rectangle, but not some other polygon.
+
+</p><div><span>bb</span></div><div><span>bb</span></div><div><span>bb</span></div>
+</body></html>

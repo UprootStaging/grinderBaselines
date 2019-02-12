@@ -13,7 +13,7 @@
  <body>
 
   <h1>CSS 2.1 Conformance Test Suite</h1>
-  <h2>Tables (1152 tests)</h2>
+  <h2>Tables (1158 tests)</h2>
   <table width="100%">
     <col id="test-column"></col>
     <col id="refs-column"></col>
@@ -435,7 +435,7 @@
       <tr id="table-cell-001-17.2" class="">
         <td>
             <a href="table-cell-001.xht">table-cell-001</a></td>
-        <td></td>
+        <td><a href="reference/ref-filled-black-96px-square.xht">=</a> </td>
         <td></td>
         <td>Table-cell
           <ul class="assert">
@@ -690,13 +690,21 @@
       <tr><th colspan="4" scope="rowgroup">
         <a href="#s17.2.1">+</a>
         <a href="https://www.w3.org/TR/CSS21/tables.html#anonymous-boxes">17.2.1 Anonymous table objects</a></th></tr>
-      <!-- 216 tests -->
+      <!-- 218 tests -->
       <tr id="border-spacing-initial-002-17.2.1" class="">
         <td>
             <a href="border-spacing-initial-002.xht">border-spacing-initial-002</a></td>
         <td></td>
         <td></td>
         <td>CSS table model: initial border-spacing
+        </td>
+      </tr>
+      <tr id="table-anonymous-border-spacing-17.2.1" class="dom">
+        <td>
+            <a href="table-anonymous-border-spacing.xht">table-anonymous-border-spacing</a></td>
+        <td><a href="reference/table-anonymous-border-spacing-ref.xht">=</a> </td>
+        <td><abbr class="dom" title="Requires Document Object Model support">DOM/JS</abbr></td>
+        <td>
         </td>
       </tr>
       <tr id="table-anonymous-objects-000-17.2.1" class="">
@@ -2390,6 +2398,14 @@
           </ul>
         </td>
       </tr>
+      <tr id="table-anonymous-text-indent-17.2.1" class="dom">
+        <td>
+            <a href="table-anonymous-text-indent.xht">table-anonymous-text-indent</a></td>
+        <td><a href="reference/table-anonymous-text-indent-ref.xht">=</a> </td>
+        <td><abbr class="dom" title="Requires Document Object Model support">DOM/JS</abbr></td>
+        <td>
+        </td>
+      </tr>
       <tr id="table-caption-002-17.2.1" class="">
         <td>
             <a href="table-caption-002.xht">table-caption-002</a></td>
@@ -2879,7 +2895,7 @@
       <tr id="caption-side-applies-to-001-17.4.1" class="">
         <td>
             <a href="caption-side-applies-to-001.xht">caption-side-applies-to-001</a></td>
-        <td></td>
+        <td><a href="reference/caption-side-applies-to-001-ref.xht">=</a> </td>
         <td></td>
         <td>Caption-side and 'display: inline' elements
           <ul class="assert">
@@ -2890,7 +2906,7 @@
       <tr id="caption-side-applies-to-002-17.4.1" class="">
         <td>
             <a href="caption-side-applies-to-002.xht">caption-side-applies-to-002</a></td>
-        <td></td>
+        <td><a href="reference/caption-side-applies-to-002-ref.xht">=</a> </td>
         <td></td>
         <td>Caption-side and 'display: block' elements
           <ul class="assert">
@@ -2901,7 +2917,7 @@
       <tr id="caption-side-applies-to-003-17.4.1" class="">
         <td>
             <a href="caption-side-applies-to-003.xht">caption-side-applies-to-003</a></td>
-        <td></td>
+        <td><a href="reference/caption-side-applies-to-003-ref.xht">=</a> </td>
         <td></td>
         <td>Caption-side and 'display: list-item' elements
           <ul class="assert">
@@ -2923,7 +2939,7 @@
       <tr id="caption-side-applies-to-005-17.4.1" class="">
         <td>
             <a href="caption-side-applies-to-005.xht">caption-side-applies-to-005</a></td>
-        <td></td>
+        <td><a href="reference/caption-side-applies-to-001-ref.xht">=</a> </td>
         <td></td>
         <td>Caption-side and 'display: inline-block' elements
           <ul class="assert">
@@ -2934,7 +2950,7 @@
       <tr id="caption-side-applies-to-006-17.4.1" class="">
         <td>
             <a href="caption-side-applies-to-006.xht">caption-side-applies-to-006</a></td>
-        <td></td>
+        <td><a href="reference/caption-side-applies-to-006-ref.xht">=</a> </td>
         <td></td>
         <td>Caption-side and 'display: table' elements
           <ul class="assert">
@@ -2945,7 +2961,7 @@
       <tr id="caption-side-applies-to-007-17.4.1" class="">
         <td>
             <a href="caption-side-applies-to-007.xht">caption-side-applies-to-007</a></td>
-        <td></td>
+        <td><a href="reference/caption-side-applies-to-006-ref.xht">=</a> </td>
         <td></td>
         <td>Caption-side and 'display: inline-table' elements
           <ul class="assert">
@@ -2956,7 +2972,7 @@
       <tr id="caption-side-applies-to-008-17.4.1" class="">
         <td>
             <a href="caption-side-applies-to-008.xht">caption-side-applies-to-008</a></td>
-        <td></td>
+        <td><a href="reference/caption-side-applies-to-008-ref.xht">=</a> </td>
         <td></td>
         <td>Caption-side and 'display: table-row-group' elements
           <ul class="assert">
@@ -2967,7 +2983,7 @@
       <tr id="caption-side-applies-to-009-17.4.1" class="">
         <td>
             <a href="caption-side-applies-to-009.xht">caption-side-applies-to-009</a></td>
-        <td></td>
+        <td><a href="reference/caption-side-applies-to-008-ref.xht">=</a> </td>
         <td></td>
         <td>Caption-side and 'display: table-header-group' elements
           <ul class="assert">
@@ -2978,7 +2994,7 @@
       <tr id="caption-side-applies-to-010-17.4.1" class="">
         <td>
             <a href="caption-side-applies-to-010.xht">caption-side-applies-to-010</a></td>
-        <td></td>
+        <td><a href="reference/caption-side-applies-to-008-ref.xht">=</a> </td>
         <td></td>
         <td>Caption-side and 'display: table-footer-group' elements
           <ul class="assert">
@@ -2989,7 +3005,7 @@
       <tr id="caption-side-applies-to-011-17.4.1" class="">
         <td>
             <a href="caption-side-applies-to-011.xht">caption-side-applies-to-011</a></td>
-        <td></td>
+        <td><a href="reference/caption-side-applies-to-008-ref.xht">=</a> </td>
         <td></td>
         <td>Caption-side and 'display: table-column' elements
           <ul class="assert">
@@ -3000,7 +3016,7 @@
       <tr id="caption-side-applies-to-012-17.4.1" class="">
         <td>
             <a href="caption-side-applies-to-012.xht">caption-side-applies-to-012</a></td>
-        <td></td>
+        <td><a href="reference/caption-side-applies-to-008-ref.xht">=</a> </td>
         <td></td>
         <td>Caption-side and 'display: table-row' elements
           <ul class="assert">
@@ -3011,7 +3027,7 @@
       <tr id="caption-side-applies-to-013-17.4.1" class="">
         <td>
             <a href="caption-side-applies-to-013.xht">caption-side-applies-to-013</a></td>
-        <td></td>
+        <td><a href="reference/caption-side-applies-to-008-ref.xht">=</a> </td>
         <td></td>
         <td>Caption-side and 'display: table-column-group' elements
           <ul class="assert">
@@ -3022,7 +3038,7 @@
       <tr id="caption-side-applies-to-014-17.4.1" class="">
         <td>
             <a href="caption-side-applies-to-014.xht">caption-side-applies-to-014</a></td>
-        <td></td>
+        <td><a href="reference/caption-side-applies-to-008-ref.xht">=</a> </td>
         <td></td>
         <td>Caption-side and 'display: table-cell' elements
           <ul class="assert">
@@ -3033,7 +3049,7 @@
       <tr id="caption-side-applies-to-015-17.4.1" class="">
         <td>
             <a href="caption-side-applies-to-015.xht">caption-side-applies-to-015</a></td>
-        <td></td>
+        <td><a href="reference/caption-side-applies-to-006-ref.xht">=</a> </td>
         <td></td>
         <td>Caption-side and 'display: table-caption' elements
           <ul class="assert">
@@ -3055,7 +3071,7 @@
       <tr id="caption-side-applies-to-017-17.4.1" class="">
         <td>
             <a href="caption-side-applies-to-017.xht">caption-side-applies-to-017</a></td>
-        <td></td>
+        <td><a href="reference/caption-side-applies-to-017-ref.xht">=</a> </td>
         <td></td>
         <td>Caption-side and 'display: inherit' elements
           <ul class="assert">
@@ -3146,7 +3162,7 @@
       <tr id="caption-side-applies-to-001-17.4.1.#propdef-caption-side" class="">
         <td>
             <a href="caption-side-applies-to-001.xht">caption-side-applies-to-001</a></td>
-        <td></td>
+        <td><a href="reference/caption-side-applies-to-001-ref.xht">=</a> </td>
         <td></td>
         <td>Caption-side and 'display: inline' elements
           <ul class="assert">
@@ -3157,7 +3173,7 @@
       <tr id="caption-side-applies-to-002-17.4.1.#propdef-caption-side" class="">
         <td>
             <a href="caption-side-applies-to-002.xht">caption-side-applies-to-002</a></td>
-        <td></td>
+        <td><a href="reference/caption-side-applies-to-002-ref.xht">=</a> </td>
         <td></td>
         <td>Caption-side and 'display: block' elements
           <ul class="assert">
@@ -3168,7 +3184,7 @@
       <tr id="caption-side-applies-to-003-17.4.1.#propdef-caption-side" class="">
         <td>
             <a href="caption-side-applies-to-003.xht">caption-side-applies-to-003</a></td>
-        <td></td>
+        <td><a href="reference/caption-side-applies-to-003-ref.xht">=</a> </td>
         <td></td>
         <td>Caption-side and 'display: list-item' elements
           <ul class="assert">
@@ -3190,7 +3206,7 @@
       <tr id="caption-side-applies-to-005-17.4.1.#propdef-caption-side" class="">
         <td>
             <a href="caption-side-applies-to-005.xht">caption-side-applies-to-005</a></td>
-        <td></td>
+        <td><a href="reference/caption-side-applies-to-001-ref.xht">=</a> </td>
         <td></td>
         <td>Caption-side and 'display: inline-block' elements
           <ul class="assert">
@@ -3201,7 +3217,7 @@
       <tr id="caption-side-applies-to-006-17.4.1.#propdef-caption-side" class="">
         <td>
             <a href="caption-side-applies-to-006.xht">caption-side-applies-to-006</a></td>
-        <td></td>
+        <td><a href="reference/caption-side-applies-to-006-ref.xht">=</a> </td>
         <td></td>
         <td>Caption-side and 'display: table' elements
           <ul class="assert">
@@ -3212,7 +3228,7 @@
       <tr id="caption-side-applies-to-007-17.4.1.#propdef-caption-side" class="">
         <td>
             <a href="caption-side-applies-to-007.xht">caption-side-applies-to-007</a></td>
-        <td></td>
+        <td><a href="reference/caption-side-applies-to-006-ref.xht">=</a> </td>
         <td></td>
         <td>Caption-side and 'display: inline-table' elements
           <ul class="assert">
@@ -3223,7 +3239,7 @@
       <tr id="caption-side-applies-to-008-17.4.1.#propdef-caption-side" class="">
         <td>
             <a href="caption-side-applies-to-008.xht">caption-side-applies-to-008</a></td>
-        <td></td>
+        <td><a href="reference/caption-side-applies-to-008-ref.xht">=</a> </td>
         <td></td>
         <td>Caption-side and 'display: table-row-group' elements
           <ul class="assert">
@@ -3234,7 +3250,7 @@
       <tr id="caption-side-applies-to-009-17.4.1.#propdef-caption-side" class="">
         <td>
             <a href="caption-side-applies-to-009.xht">caption-side-applies-to-009</a></td>
-        <td></td>
+        <td><a href="reference/caption-side-applies-to-008-ref.xht">=</a> </td>
         <td></td>
         <td>Caption-side and 'display: table-header-group' elements
           <ul class="assert">
@@ -3245,7 +3261,7 @@
       <tr id="caption-side-applies-to-010-17.4.1.#propdef-caption-side" class="">
         <td>
             <a href="caption-side-applies-to-010.xht">caption-side-applies-to-010</a></td>
-        <td></td>
+        <td><a href="reference/caption-side-applies-to-008-ref.xht">=</a> </td>
         <td></td>
         <td>Caption-side and 'display: table-footer-group' elements
           <ul class="assert">
@@ -3256,7 +3272,7 @@
       <tr id="caption-side-applies-to-011-17.4.1.#propdef-caption-side" class="">
         <td>
             <a href="caption-side-applies-to-011.xht">caption-side-applies-to-011</a></td>
-        <td></td>
+        <td><a href="reference/caption-side-applies-to-008-ref.xht">=</a> </td>
         <td></td>
         <td>Caption-side and 'display: table-column' elements
           <ul class="assert">
@@ -3267,7 +3283,7 @@
       <tr id="caption-side-applies-to-012-17.4.1.#propdef-caption-side" class="">
         <td>
             <a href="caption-side-applies-to-012.xht">caption-side-applies-to-012</a></td>
-        <td></td>
+        <td><a href="reference/caption-side-applies-to-008-ref.xht">=</a> </td>
         <td></td>
         <td>Caption-side and 'display: table-row' elements
           <ul class="assert">
@@ -3278,7 +3294,7 @@
       <tr id="caption-side-applies-to-013-17.4.1.#propdef-caption-side" class="">
         <td>
             <a href="caption-side-applies-to-013.xht">caption-side-applies-to-013</a></td>
-        <td></td>
+        <td><a href="reference/caption-side-applies-to-008-ref.xht">=</a> </td>
         <td></td>
         <td>Caption-side and 'display: table-column-group' elements
           <ul class="assert">
@@ -3289,7 +3305,7 @@
       <tr id="caption-side-applies-to-014-17.4.1.#propdef-caption-side" class="">
         <td>
             <a href="caption-side-applies-to-014.xht">caption-side-applies-to-014</a></td>
-        <td></td>
+        <td><a href="reference/caption-side-applies-to-008-ref.xht">=</a> </td>
         <td></td>
         <td>Caption-side and 'display: table-cell' elements
           <ul class="assert">
@@ -3300,7 +3316,7 @@
       <tr id="caption-side-applies-to-015-17.4.1.#propdef-caption-side" class="">
         <td>
             <a href="caption-side-applies-to-015.xht">caption-side-applies-to-015</a></td>
-        <td></td>
+        <td><a href="reference/caption-side-applies-to-006-ref.xht">=</a> </td>
         <td></td>
         <td>Caption-side and 'display: table-caption' elements
           <ul class="assert">
@@ -3322,7 +3338,7 @@
       <tr id="caption-side-applies-to-017-17.4.1.#propdef-caption-side" class="">
         <td>
             <a href="caption-side-applies-to-017.xht">caption-side-applies-to-017</a></td>
-        <td></td>
+        <td><a href="reference/caption-side-applies-to-017-ref.xht">=</a> </td>
         <td></td>
         <td>Caption-side and 'display: inherit' elements
           <ul class="assert">
@@ -5394,7 +5410,7 @@
       <tr><th colspan="4" scope="rowgroup">
         <a href="#s17.5.2.2">+</a>
         <a href="https://www.w3.org/TR/CSS21/tables.html#auto-table-layout">17.5.2.2 Automatic table layout</a></th></tr>
-      <!-- 6 tests -->
+      <!-- 7 tests -->
       <tr id="anonymous-table-box-width-001-17.5.2.2" class="">
         <td>
             <a href="anonymous-table-box-width-001.xht">anonymous-table-box-width-001</a></td>
@@ -5436,6 +5452,17 @@
         <td><a href="reference/inline-table-width-002-ref.xht">=</a> </td>
         <td></td>
         <td>Test for 'width' shrink-wrapping on inline-table
+        </td>
+      </tr>
+      <tr id="min-width-tables-001-17.5.2.2" class="primary dom">
+        <td><strong>
+            <a href="min-width-tables-001.xht">min-width-tables-001</a></strong></td>
+        <td><a href="reference/ref-filled-green-100px-square.xht">=</a> </td>
+        <td><abbr class="dom" title="Requires Document Object Model support">DOM/JS</abbr></td>
+        <td>Table Layout and Viewport Resizing
+          <ul class="assert">
+            <li>Resizing a page which toggles the `display` of elements between `block` and `table-cell` based on the viewport width should not cause unnecessary wrapping of the table.</li>
+          </ul>
         </td>
       </tr>
       <tr id="table-percent-width-001-17.5.2.2" class="">
@@ -6126,7 +6153,7 @@
       <tr id="row-visibility-001-17.5.5" class="">
         <td>
             <a href="row-visibility-001.xht">row-visibility-001</a></td>
-        <td></td>
+        <td><a href="reference/ref-filled-green-100px-square.xht">=</a> </td>
         <td></td>
         <td>Row and the 'visibility' property
           <ul class="assert">
@@ -6137,7 +6164,7 @@
       <tr id="row-visibility-002-17.5.5" class="">
         <td>
             <a href="row-visibility-002.xht">row-visibility-002</a></td>
-        <td></td>
+        <td><a href="reference/ref-filled-green-100px-square.xht">=</a> </td>
         <td></td>
         <td>Row group and the 'visibility' property
           <ul class="assert">
@@ -9392,7 +9419,7 @@
       <tr><th colspan="4" scope="rowgroup">
         <a href="#s17.6.2">+</a>
         <a href="https://www.w3.org/TR/CSS21/tables.html#collapsing-borders">17.6.2 The collapsing border model</a></th></tr>
-      <!-- 54 tests -->
+      <!-- 56 tests -->
       <tr id="bidi-border-collapse-001-17.6.2" class="">
         <td>
             <a href="bidi-border-collapse-001.xht">bidi-border-collapse-001</a></td>
@@ -9443,6 +9470,25 @@
         <td></td>
         <td></td>
         <td>overflow: hidden and border-collapse: collapse
+        </td>
+      </tr>
+      <tr id="border-collapse-005-17.6.2" class="">
+        <td>
+            <a href="border-collapse-005.xht">border-collapse-005</a></td>
+        <td><a href="reference/border-collapse-005-ref.xht">=</a> </td>
+        <td></td>
+        <td>collapsing borders with empty tbody
+          <ul class="assert">
+            <li>border-collapse should work correctly when a table has an empty tbody</li>
+          </ul>
+        </td>
+      </tr>
+      <tr id="border-collapse-double-border-17.6.2" class="">
+        <td>
+            <a href="border-collapse-double-border.xht">border-collapse-double-border</a></td>
+        <td><a href="reference/border-collapse-double-border-notref.xht">&#x2260;</a> </td>
+        <td></td>
+        <td>border-collapsed tables don't unconditionally render double borders as solid
         </td>
       </tr>
       <tr id="border-collapse-dynamic-cell-001-17.6.2" class="dom">
@@ -9624,7 +9670,7 @@
       <tr id="collapsing-border-model-001-17.6.2" class="">
         <td>
             <a href="collapsing-border-model-001.xht">collapsing-border-model-001</a></td>
-        <td></td>
+        <td><a href="reference/collapsing-border-model-001-ref.xht">=</a> </td>
         <td></td>
         <td>Collapsing borders model row width equation (auto layout)
           <ul class="assert">
@@ -9646,7 +9692,7 @@
       <tr id="collapsing-border-model-003-17.6.2" class="">
         <td>
             <a href="collapsing-border-model-003.xht">collapsing-border-model-003</a></td>
-        <td></td>
+        <td><a href="reference/collapsing-border-model-003-ref.xht">=</a> </td>
         <td></td>
         <td>Top table border width under collapsing borders model
           <ul class="assert">
@@ -9657,7 +9703,7 @@
       <tr id="collapsing-border-model-004-17.6.2" class="">
         <td>
             <a href="collapsing-border-model-004.xht">collapsing-border-model-004</a></td>
-        <td></td>
+        <td><a href="reference/collapsing-border-model-001-ref.xht">=</a> </td>
         <td></td>
         <td>Tables under the collapsing borders model don't have padding
           <ul class="assert">
@@ -9690,7 +9736,7 @@
       <tr id="collapsing-border-model-007-17.6.2" class="">
         <td>
             <a href="collapsing-border-model-007.xht">collapsing-border-model-007</a></td>
-        <td></td>
+        <td><a href="reference/collapsing-border-model-001-ref.xht">=</a> </td>
         <td></td>
         <td>Left table border width under collapsing borders model
           <ul class="assert">
@@ -9701,7 +9747,7 @@
       <tr id="collapsing-border-model-008-17.6.2" class="">
         <td>
             <a href="collapsing-border-model-008.xht">collapsing-border-model-008</a></td>
-        <td></td>
+        <td><a href="reference/collapsing-border-model-001-ref.xht">=</a> </td>
         <td></td>
         <td>Right table border width under collapsing borders model
           <ul class="assert">
@@ -9712,7 +9758,7 @@
       <tr id="collapsing-border-model-009-17.6.2" class="">
         <td>
             <a href="collapsing-border-model-009.xht">collapsing-border-model-009</a></td>
-        <td></td>
+        <td><a href="reference/collapsing-border-model-003-ref.xht">=</a> </td>
         <td></td>
         <td>Bottom table border width under collapsing borders model
           <ul class="assert">
@@ -9926,7 +9972,7 @@
       <tr><th colspan="4" scope="rowgroup">
         <a href="#s17.6.2.1">+</a>
         <a href="https://www.w3.org/TR/CSS21/tables.html#border-conflict-resolution">17.6.2.1 Border conflict resolution</a></th></tr>
-      <!-- 371 tests -->
+      <!-- 372 tests -->
       <tr id="border-conflict-element-001-17.6.2.1" class="">
         <td>
             <a href="border-conflict-element-001.xht">border-conflict-element-001</a></td>
@@ -10574,6 +10620,14 @@
           <ul class="assert">
             <li>Borders are collapsed according to the precedence rules (example from spec section 17.6.2.1).</li>
           </ul>
+        </td>
+      </tr>
+      <tr id="border-conflict-resolution-17.6.2.1" class="">
+        <td>
+            <a href="border-conflict-resolution.xht">border-conflict-resolution</a></td>
+        <td><a href="reference/border-conflict-resolution-ref.xht">=</a> </td>
+        <td></td>
+        <td>Table border resolution rules
         </td>
       </tr>
       <tr id="border-conflict-resolution-001-17.6.2.1" class="">
